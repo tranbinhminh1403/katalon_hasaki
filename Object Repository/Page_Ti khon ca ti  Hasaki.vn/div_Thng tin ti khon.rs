@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thng tin ti khon</name>
+   <tag></tag>
+   <elementGuidId>5db7dfcc-1420-4f92-96a4-e10994166aa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.title_profile_page</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='box_thongtin_account']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#box_thongtin_account >> internal:text=&quot;Thông tin tài khoản&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a22b1e7-7738-415e-9fe8-4796fc411a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title_profile_page</value>
+      <webElementGuid>71579e02-7b4e-482b-9347-5582c99d37d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thông tin tài khoản</value>
+      <webElementGuid>55f3dc21-67bb-4a03-abb5-eef7627acb59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;box_thongtin_account&quot;)/div[@class=&quot;title_profile_page&quot;]</value>
+      <webElementGuid>50ffda1b-1c31-4db4-b816-64adeafc0229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='box_thongtin_account']/div</value>
+      <webElementGuid>79d6f016-af23-4387-9b48-8c6eb8a4122d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hỏi đáp'])[1]/following::div[5]</value>
+      <webElementGuid>b0d3b485-6162-4729-b395-5bcd96b2c7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua lại'])[1]/following::div[5]</value>
+      <webElementGuid>80de7ab0-4e71-4f99-a5e7-9ee0d5f0c4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hạ hạ'])[1]/preceding::div[1]</value>
+      <webElementGuid>0fe59265-00ed-4113-82a9-37a3ddbe732b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chỉnh sửa'])[1]/preceding::div[3]</value>
+      <webElementGuid>e233b20c-4b03-4533-9183-8dd3b2bc7b87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div/div</value>
+      <webElementGuid>2c3e4269-4058-4a18-a171-634a44b6765d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thông tin tài khoản' or . = 'Thông tin tài khoản')]</value>
+      <webElementGuid>6746dfd7-adae-4333-aa33-f0d412e42f2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
