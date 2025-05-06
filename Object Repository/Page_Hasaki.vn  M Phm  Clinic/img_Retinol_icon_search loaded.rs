@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Retinol_loading</name>
+   <name>img_Retinol_icon_search loaded</name>
    <tag></tag>
-   <elementGuidId>acbcbeb0-ff08-49aa-89d2-324b28ce1bce</elementGuidId>
+   <elementGuidId>2746b762-c9ad-4cc7-bc97-6d7fdf6f6e7f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.icon_header > img.loading</value>
+         <value>img.icon_search.loaded</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='v3_header']/div[2]/div[3]/div/span/img</value>
+         <value>//form[@id='search_mini_form']/div[2]/div/div/div[2]/button/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.icon_header > .loading >> nth=0</value>
+         <value>internal:role=button[name=&quot;Search&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4a9f177c-6120-486c-b5d0-2367c6b88aa0</webElementGuid>
+      <webElementGuid>972b6854-16d4-4d75-9c39-1508af228453</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://media.hcdn.vn/hsk/icon/icon_header__login.png</value>
-      <webElementGuid>3bcf1579-f821-4a02-8243-33103c8235b4</webElementGuid>
+      <value>https://hasaki.vn/v3/images/icons/search_icon.svg</value>
+      <webElementGuid>f6a73f66-cd8b-4c11-b6e1-268a9d052d4d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>loading</value>
-      <webElementGuid>f5c540c3-f4ce-4cd6-a394-dd42cc49bccb</webElementGuid>
+      <value>icon_search loaded</value>
+      <webElementGuid>0dd01f02-803b-4bf8-8219-c5a605ad98fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,46 +53,46 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>effc92d6-8d6d-4955-a7b3-0183ebd7f45e</webElementGuid>
+      <webElementGuid>61ed5a5e-9233-4b90-94b5-1a0a6afba9ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_login user_login&quot;]/span[@class=&quot;icon_header&quot;]/img[@class=&quot;loading&quot;]</value>
-      <webElementGuid>1b849630-bb6b-4da3-a1e3-60a6a874419a</webElementGuid>
+      <value>id(&quot;search_mini_form&quot;)/div[@class=&quot;v3_block_search_header&quot;]/div[@class=&quot;relative width_common&quot;]/div[@class=&quot;v3_block_input_search width_common&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;btn_submit_search&quot;]/img[@class=&quot;icon_search loaded&quot;]</value>
+      <webElementGuid>b360cdfb-b4d7-4cf8-9307-1cbbe9e82883</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='v3_header']/div[2]/div[3]/div/span/img</value>
-      <webElementGuid>496c23e1-ceae-43e5-babd-550fbbf2fe9d</webElementGuid>
+      <value>//form[@id='search_mini_form']/div[2]/div/div/div[2]/button/img</value>
+      <webElementGuid>e5549872-ead0-4610-8fc1-79ad57fab630</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[contains(@src,'https://media.hcdn.vn/hsk/icon/icon_header__login.png')]</value>
-      <webElementGuid>8496fde0-24d3-4aca-98bb-1a5c52b79f45</webElementGuid>
+      <value>//img[contains(@src,'https://hasaki.vn/v3/images/icons/search_icon.svg')]</value>
+      <webElementGuid>d4a0f202-fce6-41d6-a660-11b92c8a81d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/img</value>
-      <webElementGuid>7e448f5b-51de-4021-b60c-e176cb2d80f2</webElementGuid>
+      <value>//button/img</value>
+      <webElementGuid>c0b8c291-06b8-4636-b2d4-6bec7e10e71b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://media.hcdn.vn/hsk/icon/icon_header__login.png']</value>
-      <webElementGuid>ede19709-5a37-4e32-94ed-4d016d61cf9d</webElementGuid>
+      <value>//img[@src = 'https://hasaki.vn/v3/images/icons/search_icon.svg']</value>
+      <webElementGuid>21882a73-b656-4e41-93cf-0ce0f5c1fa25</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

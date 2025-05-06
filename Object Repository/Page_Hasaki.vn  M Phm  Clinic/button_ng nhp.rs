@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0e4c283a-6499-409f-af2a-a9ccd90478e1</webElementGuid>
+      <webElementGuid>9df3d01b-7b16-4331-aac3-ca9681ea7001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn_site_1</value>
-      <webElementGuid>cbbdc268-ae89-47eb-9e2e-a467dab6bff0</webElementGuid>
+      <webElementGuid>206eb4aa-9506-4914-8083-6b17673d9094</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>e9cd8b4c-24d3-4a12-a3ab-72ed08dee215</webElementGuid>
+      <webElementGuid>320a3c81-b319-4d78-b05d-7f9139f82c76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-head-login&quot;)/button[@class=&quot;btn btn_site_1&quot;]</value>
-      <webElementGuid>a524ff67-e026-42b6-b34e-3c1424268a9d</webElementGuid>
+      <webElementGuid>f35fe740-f43c-456a-b7d6-238cdc6a9015</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-head-login']/button</value>
-      <webElementGuid>2d2d703b-578a-43e8-8688-89961adf43f9</webElementGuid>
+      <webElementGuid>15096c1f-e628-4c36-956f-4fc5a391afc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu'])[1]/following::button[1]</value>
-      <webElementGuid>2e1efb9b-9e37-4cbc-a852-0ecc087c48ee</webElementGuid>
+      <webElementGuid>b2f846c3-9699-4a27-a88d-865b7c2c7376</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký ngay'])[1]/preceding::button[1]</value>
-      <webElementGuid>151ca286-5811-4a41-ac36-163937908a8b</webElementGuid>
+      <webElementGuid>ca8586a1-ef5d-49d6-a328-f6b2795e3156</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kem Chống Nắng'])[1]/preceding::button[2]</value>
-      <webElementGuid>faa9f429-aee9-4820-8da9-f318ad59fb91</webElementGuid>
+      <webElementGuid>17457471-1721-4222-8aac-c1843232f53c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>4f778897-12d0-4db6-b0b0-17045bbbf826</webElementGuid>
+      <webElementGuid>e98a24ad-e4cc-493f-a66c-2dd21173f285</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/button</value>
-      <webElementGuid>3be1a407-b6d5-4b7c-95b3-767f6040a8d4</webElementGuid>
+      <webElementGuid>ab95c2fd-c153-4359-8d40-2203c2850423</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>9264c609-cfdb-4d38-a494-cce31ba1c9dd</webElementGuid>
+      <webElementGuid>2a3381e9-63d0-44a5-b460-c81cfb3b3138</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

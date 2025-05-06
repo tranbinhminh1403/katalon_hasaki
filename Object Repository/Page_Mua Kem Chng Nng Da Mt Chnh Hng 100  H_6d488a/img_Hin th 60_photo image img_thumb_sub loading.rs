@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Retinol_loading</name>
+   <name>img_Hin th 60_photo image img_thumb_sub loading</name>
    <tag></tag>
-   <elementGuidId>acbcbeb0-ff08-49aa-89d2-324b28ce1bce</elementGuidId>
+   <elementGuidId>65f108b8-bf2b-4acc-ac48-32b3fd4a3683</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.icon_header > img.loading</value>
+         <value>img.photo.image.img_thumb_sub.loading</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='v3_header']/div[2]/div[3]/div/span/img</value>
+         <value>//div[@id='list_sp_col_right']/div[5]/div/div/a/img[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.icon_header > .loading >> nth=0</value>
+         <value>.v3_thumb_common_sp >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4a9f177c-6120-486c-b5d0-2367c6b88aa0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>src</name>
-      <type>Main</type>
-      <value>https://media.hcdn.vn/hsk/icon/icon_header__login.png</value>
-      <webElementGuid>3bcf1579-f821-4a02-8243-33103c8235b4</webElementGuid>
+      <webElementGuid>ad571850-220a-4b6d-b0bc-15877b44dded</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>loading</value>
-      <webElementGuid>f5c540c3-f4ce-4cd6-a394-dd42cc49bccb</webElementGuid>
+      <value>photo image img_thumb_sub loading</value>
+      <webElementGuid>0a5b4cc2-bebe-49aa-b01a-93398e90ed16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.hcdn.vn/catalog/product/t/e/tem-phu_253900006-1662608746_img_300x300_b798dd_fit_center.jpg</value>
+      <webElementGuid>024ae4b9-ba16-43c9-bbe9-d8e11567e616</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,46 +53,46 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>effc92d6-8d6d-4955-a7b3-0183ebd7f45e</webElementGuid>
+      <webElementGuid>9776567f-c731-4bb2-85d1-1cae4d5f9390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_login user_login&quot;]/span[@class=&quot;icon_header&quot;]/img[@class=&quot;loading&quot;]</value>
-      <webElementGuid>1b849630-bb6b-4da3-a1e3-60a6a874419a</webElementGuid>
+      <value>id(&quot;list_sp_col_right&quot;)/div[@class=&quot;ProductGrid__grid width_common&quot;]/div[@class=&quot;ProductGridItem__itemOuter&quot;]/div[@class=&quot;item_sp_hasaki width_common relative&quot;]/a[@class=&quot;v3_thumb_common_sp relative&quot;]/img[@class=&quot;photo image img_thumb_sub loading&quot;]</value>
+      <webElementGuid>730caddb-d623-4174-aeed-6f1b19b02e44</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='v3_header']/div[2]/div[3]/div/span/img</value>
-      <webElementGuid>496c23e1-ceae-43e5-babd-550fbbf2fe9d</webElementGuid>
+      <value>//div[@id='list_sp_col_right']/div[5]/div/div/a/img[2]</value>
+      <webElementGuid>32055c28-933f-4e5c-9384-bd67964c6e4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[contains(@src,'https://media.hcdn.vn/hsk/icon/icon_header__login.png')]</value>
-      <webElementGuid>8496fde0-24d3-4aca-98bb-1a5c52b79f45</webElementGuid>
+      <value>//img[contains(@src,'https://media.hcdn.vn/catalog/product/t/e/tem-phu_253900006-1662608746_img_300x300_b798dd_fit_center.jpg')]</value>
+      <webElementGuid>25985356-e850-423d-9012-c18eb24fcd9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/img</value>
-      <webElementGuid>7e448f5b-51de-4021-b60c-e176cb2d80f2</webElementGuid>
+      <value>//a/img[2]</value>
+      <webElementGuid>ae0a8466-3dfa-46fd-a252-a78cf41f6041</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://media.hcdn.vn/hsk/icon/icon_header__login.png']</value>
-      <webElementGuid>ede19709-5a37-4e32-94ed-4d016d61cf9d</webElementGuid>
+      <value>//img[@src = 'https://media.hcdn.vn/catalog/product/t/e/tem-phu_253900006-1662608746_img_300x300_b798dd_fit_center.jpg']</value>
+      <webElementGuid>0f53e26e-cbba-42e0-ab98-4fa6fece9f75</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

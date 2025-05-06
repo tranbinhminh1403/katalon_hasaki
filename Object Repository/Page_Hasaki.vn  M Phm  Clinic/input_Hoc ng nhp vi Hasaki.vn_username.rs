@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0d28780c-7cc2-4056-862a-a3416e37d103</webElementGuid>
+      <webElementGuid>a1ebf132-026b-4eff-8ed0-0fe9bdbfa86c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>fc141201-023f-495a-825c-caa2f92c4d0a</webElementGuid>
+      <webElementGuid>3fe72226-266a-4124-9fb9-6beba261cab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>a513aeba-14e0-4c3f-841a-81501e4c7974</webElementGuid>
+      <webElementGuid>855008aa-b87a-4850-aaf7-856dffabeb3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>05bf11b4-4454-4338-a315-088a2ad4fdd0</webElementGuid>
+      <webElementGuid>25ab70d5-54ba-4e43-9382-36bb2687847f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>42562bea-9997-41ab-9129-bfda6bd22740</webElementGuid>
+      <webElementGuid>42680ab4-e62a-4e67-b552-76b43e5cbbbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nhập email hoặc số điện thoại</value>
-      <webElementGuid>b97c9185-7c75-43ec-b021-2c8cca73c421</webElementGuid>
+      <webElementGuid>6b1ef9fc-cf75-4edb-8237-9b61f8fa56ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;username&quot;)</value>
-      <webElementGuid>79651adb-70e9-4a03-b7df-bc879fa17cf3</webElementGuid>
+      <webElementGuid>0ae27927-9de8-4f55-8651-a11f324b8a32</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='username']</value>
-      <webElementGuid>83cad92f-8437-412b-b2a3-5c3a1070003f</webElementGuid>
+      <webElementGuid>f095beb0-80ad-4eef-8d3c-cddec4a90c55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-head-login']/div[3]/div/input</value>
-      <webElementGuid>4bf2174b-676e-46d4-ad43-7fe61496e65a</webElementGuid>
+      <webElementGuid>947cb512-4d99-4bf2-9938-907a9e9d5e68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>bfc1cd4b-f383-4774-8243-f189c2957802</webElementGuid>
+      <webElementGuid>bd70d3da-e7a1-4d27-94a3-de3d224c8937</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'username' and @name = 'username' and @placeholder = 'Nhập email hoặc số điện thoại']</value>
-      <webElementGuid>e7c824e4-a1c5-4c72-8987-321c725aaa46</webElementGuid>
+      <webElementGuid>ca99ddf5-051d-4186-8b56-6594454e1c05</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

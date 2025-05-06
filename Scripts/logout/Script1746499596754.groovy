@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://hasaki.vn/')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_Khng ng'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Retinol_loaded'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Retinol_loaded'))
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
 
@@ -35,10 +35,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Retinol_loading'))
+WebUI.mouseOver(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Retinol_loading'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/b_X Tn Triu, Huyn Thanh Tr, H Ni'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_Thot'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_Chn khu vc ca bn'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/b_Chn khu vc ca bn'), 0)
 

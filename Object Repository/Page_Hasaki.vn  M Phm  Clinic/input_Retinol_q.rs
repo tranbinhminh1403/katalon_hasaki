@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=textbox[name=&quot;New! Son Tint Mastige Blur 189.000 - Tan Mượt 3S Mịn Nhẹ 8H&quot;i]</value>
+         <value>internal:role=textbox[name=&quot;6.5 Canh Giờ Vàng Sale Bạt Ngàn (Online Từ 12H - 24H)&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>184f53a2-dc97-42f4-b7a5-7b9415a9851c</webElementGuid>
+      <webElementGuid>b77eb280-c4f3-481a-a333-72411a0c82ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>id</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>a5d93d52-fada-4a4b-9a28-3638cff81898</webElementGuid>
+      <webElementGuid>c689ad54-003c-4dec-9475-7eed240d19f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>New! Son Tint Mastige Blur 189.000 - Tan Mượt 3S Mịn Nhẹ 8H</value>
-      <webElementGuid>3bfb0b53-4bb7-40be-90d5-b75636774225</webElementGuid>
+      <value>6.5 Canh Giờ Vàng Sale Bạt Ngàn (Online Từ 12H - 24H)</value>
+      <webElementGuid>91eca560-e3f3-4b5b-892f-298e3efa647f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input_search</value>
-      <webElementGuid>6a6403a2-3f99-4466-a07a-25e502fff2cd</webElementGuid>
+      <webElementGuid>71348a3e-ce7e-42c7-b578-4fe63cc7930e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>q</value>
-      <webElementGuid>7096780b-1af9-4f5d-938c-b8d4e3297e6d</webElementGuid>
+      <webElementGuid>32b2e0b4-3563-48e9-8f31-653d1c14e0e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-box-parent</name>
       <type>Main</type>
       <value>#block_suggest_search</value>
-      <webElementGuid>e628308c-6d87-405d-939c-0e4152bc2296</webElementGuid>
+      <webElementGuid>9d810ad6-0b87-4e2b-8fd8-c13137825e9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>69d848ee-f459-4101-a282-9b1d473108df</webElementGuid>
+      <webElementGuid>9fdcf0de-3e91-40dc-99d2-9918472ee1b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b6e3bc95-77fc-4a78-9746-44bc4bd023d6</webElementGuid>
+      <webElementGuid>973a03cb-a767-46d6-a0e4-490c8314e781</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>campaign-rel</name>
       <type>Main</type>
       <value>[{&quot;label&quot;:&quot;6.5 Canh Giờ Vàng Sale Bạt Ngàn (Online Từ 12H - 24H)&quot;,&quot;url&quot;:&quot;https://hasaki.vn/campaign/gio-vang-san-sale?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=6-5-canh-gio-vang-sale-bat-ngan&amp;utm_term=6-5-canh-gio-vang-sale-bat-ngan_06052025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1746550740,&quot;start_time&quot;:1746464400},{&quot;label&quot;:&quot;New! Son Tint Mastige Blur 189.000 - Tan Mượt 3S Mịn Nhẹ 8H&quot;,&quot;url&quot;:&quot;https://hasaki.vn/thuong-hieu/mastige.html?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=mastige-infublur-liptint&amp;utm_term=mastige-infublur-liptint_16042025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1748710740,&quot;start_time&quot;:1744736400},{&quot;label&quot;:&quot;Mua Nước Hoa Cao Cấp Chính Hãng - Chọn Ngay Hasaki&quot;,&quot;url&quot;:&quot;https://hasaki.vn/danh-muc/nuoc-hoa-cao-cap-c2286.html?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=mua-nuoc-hoa-cao-cap-tai-hasaki-la-co-qua&amp;utm_term=mua-nuoc-hoa-cao-cap-tai-hasaki-la-co-qua_20012025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1767200340,&quot;start_time&quot;:1744563600},{&quot;label&quot;:&quot;Giảm 50% Ủ Trắng Các Vùng – Mua 5 Tặng 5&quot;,&quot;url&quot;:&quot;https://hasaki.vn/cam-nang/uu-dai-cuoi-nam-hasaki-clinic-tro-gia-den-50-4778.html?utm_source=website&amp;utm_medium=keyword_thanh_search&amp;utm_campaign=uu_dai_triet_long_200K_24052024&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1767200340,&quot;start_time&quot;:1735664400}]</value>
-      <webElementGuid>4ac4657a-5dea-4bd3-bf68-2778a4a0edf6</webElementGuid>
+      <webElementGuid>41283efc-9fb3-4ec7-8cdf-4eaff79ee690</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search&quot;)</value>
-      <webElementGuid>950da275-96b4-4b49-acf4-ed680424e22d</webElementGuid>
+      <webElementGuid>118b4579-636c-4b60-8b75-3c476fd5dbee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='search']</value>
-      <webElementGuid>a5adbcc8-ecc2-4f04-9eb9-02dbaaa7d271</webElementGuid>
+      <webElementGuid>e6cb6ff4-9bb3-4b3c-bd71-501c465114c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='search_mini_form']/div[2]/div/div/div/input</value>
-      <webElementGuid>c68285ef-caff-40ef-a0eb-d6b251e1bc14</webElementGuid>
+      <webElementGuid>c3601bfb-1626-451b-9872-d4bf7743373e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/input</value>
-      <webElementGuid>5ab163ce-1770-437d-a1c5-38f2e7fac16d</webElementGuid>
+      <webElementGuid>0d62f5cd-fe48-48d3-a914-69e440916ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'search' and @placeholder = '6.5 Canh Giờ Vàng Sale Bạt Ngàn (Online Từ 12H - 24H)' and @name = 'q']</value>
+      <webElementGuid>96029927-b296-4b3c-9310-1c2a70bc9754</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,14 +150,6 @@
       <type>Main</type>
       <value>//input[@id = 'search' and @placeholder = 'Mua Nước Hoa Cao Cấp Chính Hãng - Chọn Ngay Hasaki' and @name = 'q']</value>
       <webElementGuid>0ec6f405-61f9-4cc4-a7b0-e947eab6a0f4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'search' and @placeholder = '6.5 Canh Giờ Vàng Sale Bạt Ngàn (Online Từ 12H - 24H)' and @name = 'q']</value>
-      <webElementGuid>00a47733-8c4f-4df4-84fd-adbab1b5eb75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

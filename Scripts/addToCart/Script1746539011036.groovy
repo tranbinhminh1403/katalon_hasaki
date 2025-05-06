@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://hasaki.vn/')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_Khng ng'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Retinol_loaded'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Retinol_loaded'))
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
 
@@ -35,10 +35,14 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Retinol_loading'))
+WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Retinol_q'), 'sữa rửa mặt')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/b_X Tn Triu, Huyn Thanh Tr, H Ni'), 
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Retinol_icon_search loaded'))
+
+WebUI.click(findTestObject('Object Repository/Page_Mua Sa Ra Mt Chnh Hng 100 Ti Hasaki.vn_a74e85/img_Bill Cerave 399K Tng Gi tt nghip tr gi _a5c310'))
+
+WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt Simple Gip Da Sch Thong 150ml_ffcf5f/div_Cart plus iconGi hng'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Sa Ra Mt Simple Gip Da Sch Thong 150ml_ffcf5f/div_Sn Phm  c thm vo gi hng thnh cng'), 
     0)
-
-WebUI.closeBrowser()
 

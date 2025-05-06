@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Retinol_loading</name>
+   <name>img_H Tr Tr Mn_lazy loaded</name>
    <tag></tag>
-   <elementGuidId>acbcbeb0-ff08-49aa-89d2-324b28ce1bce</elementGuidId>
+   <elementGuidId>de00e513-9ced-4fe2-84c5-f0b48eeaf808</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.icon_header > img.loading</value>
+         <value>div.top_big_search > a > img.lazy.loaded</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='v3_header']/div[2]/div[3]/div/span/img</value>
+         <value>//div[@id='box_top_search_v2']/div[2]/div/div/div/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.icon_header > .loading >> nth=0</value>
+         <value>.top_big_search > a >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>4a9f177c-6120-486c-b5d0-2367c6b88aa0</webElementGuid>
+      <webElementGuid>52be7975-f1a4-4fc5-9e15-5f4192a7420c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://media.hcdn.vn/hsk/icon/icon_header__login.png</value>
-      <webElementGuid>3bcf1579-f821-4a02-8243-33103c8235b4</webElementGuid>
+      <value>https://hasaki.vn/img/category/cate-chong-nang-da-mat.jpg</value>
+      <webElementGuid>b76d34dc-e72f-4026-899f-d1a698f65204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://hasaki.vn/img/category/cate-chong-nang-da-mat.jpg</value>
+      <webElementGuid>3e8ea830-c451-4610-8004-29b2467132ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>loading</value>
-      <webElementGuid>f5c540c3-f4ce-4cd6-a394-dd42cc49bccb</webElementGuid>
+      <value>lazy loaded</value>
+      <webElementGuid>ecc4fcf2-70a8-42b9-94ac-38e8b30a2038</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,46 +61,46 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>effc92d6-8d6d-4955-a7b3-0183ebd7f45e</webElementGuid>
+      <webElementGuid>5852f316-c727-471e-b445-34b335866c4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_login user_login&quot;]/span[@class=&quot;icon_header&quot;]/img[@class=&quot;loading&quot;]</value>
-      <webElementGuid>1b849630-bb6b-4da3-a1e3-60a6a874419a</webElementGuid>
+      <value>id(&quot;box_top_search_v2&quot;)/div[@class=&quot;content_box_common width_common&quot;]/div[@class=&quot;list_top_search row&quot;]/div[@class=&quot;item_top_search&quot;]/div[@class=&quot;top_big_search&quot;]/a[1]/img[@class=&quot;lazy loaded&quot;]</value>
+      <webElementGuid>b274f00c-2a18-44e9-b539-e670bf8fbd3c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='v3_header']/div[2]/div[3]/div/span/img</value>
-      <webElementGuid>496c23e1-ceae-43e5-babd-550fbbf2fe9d</webElementGuid>
+      <value>//div[@id='box_top_search_v2']/div[2]/div/div/div/a/img</value>
+      <webElementGuid>438f479a-e3fc-4494-92b4-257b9330c8aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[contains(@src,'https://media.hcdn.vn/hsk/icon/icon_header__login.png')]</value>
-      <webElementGuid>8496fde0-24d3-4aca-98bb-1a5c52b79f45</webElementGuid>
+      <value>//img[contains(@src,'https://hasaki.vn/img/category/cate-chong-nang-da-mat.jpg')]</value>
+      <webElementGuid>27bdca83-b676-4993-945b-6dcdb82e1d87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/img</value>
-      <webElementGuid>7e448f5b-51de-4021-b60c-e176cb2d80f2</webElementGuid>
+      <value>//div[6]/div/div[2]/div/div/div/a/img</value>
+      <webElementGuid>8c9c46ff-e1de-4745-81a8-7a60f5d55258</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://media.hcdn.vn/hsk/icon/icon_header__login.png']</value>
-      <webElementGuid>ede19709-5a37-4e32-94ed-4d016d61cf9d</webElementGuid>
+      <value>//img[@src = 'https://hasaki.vn/img/category/cate-chong-nang-da-mat.jpg']</value>
+      <webElementGuid>69513269-b16b-4582-a94e-e686138ac1ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

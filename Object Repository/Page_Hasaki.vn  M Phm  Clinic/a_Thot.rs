@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Ti khon ca bn</name>
+   <name>a_Thot</name>
    <tag></tag>
-   <elementGuidId>b7a08c09-aa49-46e6-b50c-867a54c15c9c</elementGuidId>
+   <elementGuidId>30c2e74e-b5bf-45b7-8fc2-d0762702a21e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.item_da_login > a</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div/a</value>
+         <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div[5]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;Tài khoản của bạn&quot;i]</value>
+         <value>internal:role=link[name=&quot;Thoát&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b7ae839d-ebac-4e3a-b76f-82b228ff106c</webElementGuid>
+      <webElementGuid>78fa9073-7084-4d95-b5ca-b1d53c0064b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://hasaki.vn/customer/account</value>
-      <webElementGuid>528e03fa-5045-4fc0-9397-60bde04e557b</webElementGuid>
+      <value>https://hasaki.vn/customer/account/logout/</value>
+      <webElementGuid>6516e27e-ee66-4050-8f09-cf6d5601533e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>rel</name>
       <type>Main</type>
       <value>nofollow</value>
-      <webElementGuid>5cd0f562-c5af-4b1b-b983-702c276932ad</webElementGuid>
+      <webElementGuid>b2ab6485-f759-4cbb-a4d6-195d5a2dc4d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Tài khoản của bạn </value>
-      <webElementGuid>64e384fe-1bea-4621-a8f0-24de06271233</webElementGuid>
+      <value> Thoát</value>
+      <webElementGuid>f38341c3-1309-4107-bfcd-235e6b78380b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,78 +61,86 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_login user_login&quot;]/div[@class=&quot;sub_login sub_dalogin&quot;]/div[@class=&quot;main_content_sub_login&quot;]/div[@class=&quot;item_da_login&quot;]/a[1]</value>
-      <webElementGuid>4089e398-682f-448f-ba07-e3529d5d0e40</webElementGuid>
+      <webElementGuid>2c8c0cf4-b8be-4153-93b0-35af33aa3bc5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div/a</value>
-      <webElementGuid>a10911c1-adbd-4191-a1d3-6f245c559e87</webElementGuid>
+      <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div[5]/a</value>
+      <webElementGuid>159530fe-b378-4595-95a6-87214535c1b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Tài khoản của bạn')]</value>
-      <webElementGuid>7eabfd2a-96ae-4b9a-a98b-f1f341b9d3f2</webElementGuid>
+      <value>//a[contains(text(),'Thoát')]</value>
+      <webElementGuid>54fd769f-8a31-4cfc-8e56-43e068c2792e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='hạ'])[1]/following::a[2]</value>
-      <webElementGuid>a1772a76-57d5-47ec-a522-baee4cdf4048</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ giao hàng'])[1]/following::a[1]</value>
+      <webElementGuid>f44611b9-566e-4d7e-b26c-0b6fa4f3a48b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quản lý đơn hàng'])[1]/preceding::a[1]</value>
-      <webElementGuid>d1990903-633e-4314-876d-8c7ca4b198a9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm yêu thích'])[1]/following::a[2]</value>
+      <webElementGuid>51fd6555-076c-43eb-aab1-5d8553ac8377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm yêu thích'])[1]/preceding::a[2]</value>
-      <webElementGuid>f1ae2766-f2d7-404c-949b-e996e372088f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hệ thốngcửa hàng'])[1]/preceding::a[2]</value>
+      <webElementGuid>932698df-77ef-46a1-bf9e-4e678a2add26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Tài khoản của bạn']/parent::*</value>
-      <webElementGuid>63833d77-0f12-40d7-8520-7fa831e1109c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bảohành'])[1]/preceding::a[4]</value>
+      <webElementGuid>6e938d16-7d67-43ca-a129-f413d10d9e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thoát']/parent::*</value>
+      <webElementGuid>3c46c528-0137-418f-95d6-0b05da11e2b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://hasaki.vn/customer/account')]</value>
-      <webElementGuid>99cbeebd-ebf3-4bdf-a377-7492314aff3b</webElementGuid>
+      <value>//a[contains(@href, 'https://hasaki.vn/customer/account/logout/')]</value>
+      <webElementGuid>d0ea2c87-2d59-4558-b759-f47ee43046db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div[3]/div/div/a</value>
-      <webElementGuid>61263dc7-cfb4-4409-9df2-75cb9843979a</webElementGuid>
+      <value>//div[5]/a</value>
+      <webElementGuid>938b4162-04a8-49bf-8760-2935100f2ce2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://hasaki.vn/customer/account' and (text() = ' Tài khoản của bạn ' or . = ' Tài khoản của bạn ')]</value>
-      <webElementGuid>60eb594f-d4d8-4a28-9a79-db563fbacf5c</webElementGuid>
+      <value>//a[@href = 'https://hasaki.vn/customer/account/logout/' and (text() = ' Thoát' or . = ' Thoát')]</value>
+      <webElementGuid>d03d8e37-3aeb-4869-b0f4-94bcf7cb6c69</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

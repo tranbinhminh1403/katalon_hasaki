@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Thng tin ti khon</name>
+   <name>div_Tn ng nhp khng khp</name>
    <tag></tag>
-   <elementGuidId>5db7dfcc-1420-4f92-96a4-e10994166aa6</elementGuidId>
+   <elementGuidId>a7762c98-72e6-4533-93a8-c2f1dee15522</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.title_profile_page</value>
+         <value>div.alert.alert-danger</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='box_thongtin_account']/div</value>
+         <value>//form[@id='form-head-login']/div[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#box_thongtin_account >> internal:text=&quot;Thông tin tài khoản&quot;i</value>
+         <value>internal:text=&quot;Tên đăng nhập không khớp !&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,86 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>2fe3dced-96ec-41ce-ba89-6285442c1ce7</webElementGuid>
+      <webElementGuid>2ed34538-3ad2-4df8-8c61-cf4c34115af1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>title_profile_page</value>
-      <webElementGuid>dd114c9e-9ac5-433e-a20d-9f6331fc7502</webElementGuid>
+      <value>alert alert-danger</value>
+      <webElementGuid>d7a791c7-941e-42e4-8641-47f99aa4955f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Thông tin tài khoản</value>
-      <webElementGuid>8fa4f210-59fe-43f6-b8a7-2dcb364dc4cb</webElementGuid>
+      <value>Tên đăng nhập không khớp !</value>
+      <webElementGuid>66d0a78a-e6f9-4884-8a55-012cd131e00d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;box_thongtin_account&quot;)/div[@class=&quot;title_profile_page&quot;]</value>
-      <webElementGuid>4ef9718d-e21e-46d0-9e7b-c9de9733ca34</webElementGuid>
+      <value>id(&quot;form-head-login&quot;)/div[@class=&quot;showMessageError&quot;]/div[@class=&quot;alert alert-danger&quot;]</value>
+      <webElementGuid>ff197606-52cf-4fd0-86b8-ce3c28c63a35</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='box_thongtin_account']/div</value>
-      <webElementGuid>d4a3f8d2-159f-4c93-88b6-a41d25e893f5</webElementGuid>
+      <value>//form[@id='form-head-login']/div[2]/div</value>
+      <webElementGuid>0f5bd3c5-62b8-4d4c-9f25-6f655932245c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hỏi đáp'])[1]/following::div[5]</value>
-      <webElementGuid>c10d2b5c-8061-4dcf-bcc9-f2650ff50b26</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoặc đăng nhập với Hasaki.vn'])[1]/following::div[2]</value>
+      <webElementGuid>e58de1ff-7379-428a-a779-90ffaba29350</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua lại'])[1]/following::div[5]</value>
-      <webElementGuid>07a71ec9-a615-4333-bd46-1733e3c42682</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu'])[1]/preceding::div[5]</value>
+      <webElementGuid>92f23497-d382-40be-b0ed-dc68cf30979d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hạ hạ'])[1]/preceding::div[1]</value>
-      <webElementGuid>853e5859-59ea-4950-be89-48d334171028</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chỉnh sửa'])[1]/preceding::div[3]</value>
-      <webElementGuid>2204740c-3c3a-4c2a-885c-6337c5564926</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tên đăng nhập không khớp !']/parent::*</value>
+      <webElementGuid>1f89b16f-8531-4d88-8e05-3bd2c080dc47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/div/div/div/div[2]/div/div</value>
-      <webElementGuid>1f64e848-1ec6-48c3-9f46-934ad814b26b</webElementGuid>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>ddc7ae79-1449-46e3-9d86-ba8adaf60f60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Thông tin tài khoản' or . = 'Thông tin tài khoản')]</value>
-      <webElementGuid>1e8694b8-4751-4a1c-b8ec-a5f0b7b06564</webElementGuid>
+      <value>//div[(text() = 'Tên đăng nhập không khớp !' or . = 'Tên đăng nhập không khớp !')]</value>
+      <webElementGuid>db37d849-badb-4244-a08f-b1604d011f52</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
