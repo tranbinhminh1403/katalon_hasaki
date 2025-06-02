@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_a ch phi t 5 k t</name>
+   <tag></tag>
+   <elementGuidId>22fb8341-deae-408b-905b-cf69792532eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id=':r1n:-form-item-message']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Địa chỉ phải từ 5 ký tự&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c7a6be12-38df-4755-acd4-e69251f00d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r1n:-form-item-message</value>
+      <webElementGuid>056c4eca-6bfa-4654-addf-682443fbf4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[0.8rem] font-medium text-destructive</value>
+      <webElementGuid>cb1bb4d7-bf0f-49bc-b418-fcae0e0ffd25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Địa chỉ phải từ 5 ký tự</value>
+      <webElementGuid>36033a6d-b2fe-48d2-bb49-5982608125fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r1n:-form-item-message&quot;)</value>
+      <webElementGuid>3d0f4429-dd53-4262-9833-71c4d4330f26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r1n:-form-item-message']</value>
+      <webElementGuid>c5b9d617-a9de-4bf7-8509-6544c3f5f13b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:ru:']/div/form/section/div[4]/p</value>
+      <webElementGuid>350ece85-05f6-4c06-a077-38a8a8bfebb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số nhà + Tên đường'])[1]/following::p[1]</value>
+      <webElementGuid>4ee5a33a-960f-4b1d-87e9-7f4eef9e5387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[2]/following::p[1]</value>
+      <webElementGuid>166f7785-a499-4893-80f3-11397c45e4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='←'])[1]/preceding::p[3]</value>
+      <webElementGuid>5a4e9158-263c-4f5d-a93c-c61596293aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Di chuyển sang trái'])[1]/preceding::p[3]</value>
+      <webElementGuid>4fe6c535-c07c-41d4-a27b-d30efea8ee18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Địa chỉ phải từ 5 ký tự']/parent::*</value>
+      <webElementGuid>8a676194-e5f0-4b68-ad3c-8726c7c117fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>c25622cb-15ba-46c7-9324-3b6fd722088d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r1n:-form-item-message' and (text() = 'Địa chỉ phải từ 5 ký tự' or . = 'Địa chỉ phải từ 5 ký tự')]</value>
+      <webElementGuid>246823af-72ea-4809-886d-d1de12ebb15c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

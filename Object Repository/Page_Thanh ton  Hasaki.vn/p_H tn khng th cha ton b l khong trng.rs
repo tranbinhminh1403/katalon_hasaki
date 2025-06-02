@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_H tn khng th cha ton b l khong trng</name>
+   <tag></tag>
+   <elementGuidId>bc1e54d5-5a73-40cb-96da-99fde37acbc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id=':r22:-form-item-message']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Họ tên không thể chứa toàn bộ là khoảng trắng&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>82545456-ce46-4c64-ba0a-baa835a3c2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r22:-form-item-message</value>
+      <webElementGuid>7606e0a9-4d33-434e-91a0-eb5a41851ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[0.8rem] font-medium text-destructive</value>
+      <webElementGuid>16dd7761-d367-476a-9502-2d64d2a41a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Họ tên không thể chứa toàn bộ là khoảng trắng</value>
+      <webElementGuid>57ce0f7b-7820-41e1-afe1-8baa34574c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r22:-form-item-message&quot;)</value>
+      <webElementGuid>e8f0acaf-9811-460d-bd3e-19a24cadc53e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r22:-form-item-message']</value>
+      <webElementGuid>8a445336-85be-42e7-b7eb-10f96bfcbd1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:ru:']/div/form/section/div/div[2]/p</value>
+      <webElementGuid>dc10aeaf-0a3e-41c1-9170-d6841c2b206f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification Card Icon'])[1]/following::p[1]</value>
+      <webElementGuid>319e1e43-649a-4d0b-ac22-9bd64b383a49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm địa chỉ mới'])[2]/following::p[1]</value>
+      <webElementGuid>c9194e20-d71d-4948-80e7-0bf048c16a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[1]/preceding::p[1]</value>
+      <webElementGuid>90d9b962-c57a-4c8d-a86a-26067c6fbf3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Họ tên không thể chứa toàn bộ là khoảng trắng']/parent::*</value>
+      <webElementGuid>a4f01bdd-082d-484c-aa20-d5f7f2ab8e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>85c18f38-fa47-4f37-9c1c-6d8b54ba4386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r22:-form-item-message' and (text() = 'Họ tên không thể chứa toàn bộ là khoảng trắng' or . = 'Họ tên không thể chứa toàn bộ là khoảng trắng')]</value>
+      <webElementGuid>f8236348-5824-44d5-91c8-d06cfc38b839</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

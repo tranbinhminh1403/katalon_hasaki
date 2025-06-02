@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>46c87a07-f0c3-4c9f-8b2e-ddc55f423d43</webElementGuid>
+      <webElementGuid>655ca78d-838d-429b-9d12-551296dbf9cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>hskLoginButton</value>
-      <webElementGuid>91e5d5fd-ff6f-4467-8c27-0606944a6b57</webElementGuid>
+      <webElementGuid>0fb60fc6-f1d3-4820-833d-9951a7368dc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>nofollow</value>
-      <webElementGuid>2afa7d2e-1feb-42e3-ab50-8708c7e90bf5</webElementGuid>
+      <webElementGuid>dd993207-f9ce-4968-9cd2-4e2f729d6308</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn_site_1 popup-login</value>
-      <webElementGuid>3d9bc02b-3074-41f2-ba00-03148e1876df</webElementGuid>
+      <webElementGuid>2af02066-41fa-488c-a38f-04955c0e5017</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#popup-login</value>
-      <webElementGuid>44da7305-13f9-4dd6-a31f-763a7d673618</webElementGuid>
+      <webElementGuid>77d6879e-1500-453b-ba61-388e9b9e8f3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>b736955a-2db5-4a5d-bf5f-2030c884c267</webElementGuid>
+      <webElementGuid>3363a362-bfe2-420f-8902-a922ef75a934</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_login&quot;]/div[@class=&quot;sub_login&quot;]/div[@class=&quot;main_content_sub_login&quot;]/div[@class=&quot;block_more_login&quot;]/a[@id=&quot;hskLoginButton&quot;]</value>
-      <webElementGuid>ab7acfaa-f7cd-44d3-8bc4-d1ff26637ef7</webElementGuid>
+      <webElementGuid>9fe3f2b8-8030-4dd8-9a59-17d208788399</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='hskLoginButton']</value>
-      <webElementGuid>76be085c-7761-49f2-9878-af182e98f825</webElementGuid>
+      <webElementGuid>5c09b1ee-a07c-4c8a-bb2b-a3a429dcd70a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='v3_header']/div[2]/div[3]/div/div[3]/div/div[2]/a</value>
-      <webElementGuid>e8383416-18d2-4275-af27-daa22b2d53ab</webElementGuid>
+      <webElementGuid>1ead69fa-90ed-43ba-82c8-f76ecab1bb15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Đăng nhập')])[2]</value>
-      <webElementGuid>412324cb-5faa-43f8-bc77-6a7e093f4582</webElementGuid>
+      <webElementGuid>878f9280-1f3f-485e-bd80-fac404881b8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoặc đăng nhập với Hasaki.vn'])[1]/following::a[1]</value>
-      <webElementGuid>fc92861a-88ea-45b5-90fe-4e3a15ead0cc</webElementGuid>
+      <webElementGuid>248b5e35-e8d8-4c36-ba5b-71c20b8ce79d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký ngay'])[1]/preceding::a[1]</value>
-      <webElementGuid>6f47137e-6705-4aa5-b89c-142196e3023c</webElementGuid>
+      <webElementGuid>e1057360-a448-4a8e-8a7f-8d073716066f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[2]</value>
-      <webElementGuid>53eec5b9-39dc-491a-b0ec-4d80752e2b6c</webElementGuid>
+      <webElementGuid>16422b83-073e-4fbd-886c-5ab24e119f61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#popup-login')])[2]</value>
-      <webElementGuid>019bcc16-271e-44de-b9df-7eaffaa0e71f</webElementGuid>
+      <webElementGuid>26594bce-82b2-4c04-983b-8c56847b7262</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[3]/div/div[2]/a</value>
-      <webElementGuid>1a98ecaa-d1a0-4d47-b0ee-9e8d123185b2</webElementGuid>
+      <webElementGuid>2e768a57-6b60-4751-8c23-2d1b85ad6bff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'hskLoginButton' and @href = '#popup-login' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>8bfd90e5-9e03-47b1-89c8-99859b8d71bf</webElementGuid>
+      <webElementGuid>841488b6-8a0d-4598-8a37-64a8b94668b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

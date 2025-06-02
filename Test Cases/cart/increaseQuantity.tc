@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>increaseQuantity</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be3c70a6-7bda-4333-9df4-1f9f455f4d34</testCaseGuid>
+</TestCaseEntity>

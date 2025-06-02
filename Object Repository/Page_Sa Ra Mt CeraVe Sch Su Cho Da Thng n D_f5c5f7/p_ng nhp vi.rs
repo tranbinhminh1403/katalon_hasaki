@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ng nhp vi</name>
+   <tag></tag>
+   <elementGuidId>efb04f8e-cae0-4e06-97ea-a7441e43966c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:R1aidtshla:']/section/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Đăng nhập với&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5c1d4498-90f4-46cb-b077-bf734a1b65ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[13px]</value>
+      <webElementGuid>36319b30-eaf8-4cf2-ac12-a979d9005425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập với</value>
+      <webElementGuid>15c1ce13-73f6-4c7c-84cf-e23e6fc169b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:R1aidtshla:&quot;)/section[@class=&quot;flex flex-col gap-2.5 border-border py-5&quot;]/div[@class=&quot;border-b-[1px] pb-5 border-border&quot;]/p[@class=&quot;text-[13px]&quot;]</value>
+      <webElementGuid>4b8bd200-f619-42a2-8c71-a85202c53a3f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:R1aidtshla:']/section/div/p</value>
+      <webElementGuid>4f34e690-0f6d-4bfc-856a-0f6eef409ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vitamin / Khoáng Chất'])[1]/following::p[1]</value>
+      <webElementGuid>05fcea0f-e0c5-4dcc-af51-a7579cac02e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hỗ Trợ Giảm Cân'])[1]/following::p[1]</value>
+      <webElementGuid>efae58f1-4017-45e4-a33f-610d941f9228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhớ mật khẩu'])[1]/preceding::p[2]</value>
+      <webElementGuid>7582de3c-b5f8-49dc-9e42-648b455e229f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/preceding::p[3]</value>
+      <webElementGuid>5d909d2c-9773-4ba7-9d72-95f125ecc946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng nhập với']/parent::*</value>
+      <webElementGuid>3a2fa63d-272d-4865-b2ca-048d58910fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/section/div/p</value>
+      <webElementGuid>00e1b5a3-d385-4fab-85f4-832ed12b2d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Đăng nhập với' or . = 'Đăng nhập với')]</value>
+      <webElementGuid>d3effaa1-5ad9-4cbd-9b9f-ea9434c83cee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

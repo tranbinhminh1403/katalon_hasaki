@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Tip tc mua hng</name>
+   <tag></tag>
+   <elementGuidId>7ae83855-bc04-4cd1-9cd9-d83b7ce4a579</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.text-primary.align-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[5]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Tiếp tục mua hàng&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e31b3424-2d49-4d07-aa6d-17a5101941eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>1c2e99f7-78b0-43c4-841e-19f2946d66f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary align-bottom</value>
+      <webElementGuid>9f643f1b-86bd-4836-8cb1-f7c16f9fd25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiếp tục mua hàng</value>
+      <webElementGuid>6b3e1053-1caa-4642-92c0-fda711695e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;min-h-screen bg-background font-sans antialiased __variable_d65c78&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col&quot;]/main[@class=&quot;h-full flex-1&quot;]/div[@class=&quot;min-h-screen w-full bg-white&quot;]/div[@class=&quot;max-w-[1400px] m-auto container&quot;]/main[@class=&quot;-mb-5&quot;]/div[@class=&quot;flex gap-5&quot;]/div[@class=&quot;w-[75%]&quot;]/table[@class=&quot;w-full text-[13px]&quot;]/tbody[1]/tr[@class=&quot;[&amp;>td]:px-[15px] [&amp;>td]:py-2.5 border-b border-b-[#f1f1f5]&quot;]/td[@class=&quot;text-primary align-bottom&quot;]</value>
+      <webElementGuid>c968ddca-b4f2-42cd-a9c7-741a76852ead</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td</value>
+      <webElementGuid>56343800-cf45-4d33-b41e-3b54a3af7ce5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Tiếp tục mua hàng' or . = 'Tiếp tục mua hàng')]</value>
+      <webElementGuid>b8fe6e6d-85c0-412f-a81a-c89297049dd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

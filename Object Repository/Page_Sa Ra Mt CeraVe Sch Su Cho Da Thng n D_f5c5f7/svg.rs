@@ -6,12 +6,12 @@
    <elementGuidId>82477578-cbb7-4d74-b4d2-0ba23a31e515</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Icon'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>cf17dd2e-c43d-4b0f-838f-f15abe6d7f26</webElementGuid>
+      <webElementGuid>666a57b1-5457-49e0-a395-a5a7f0e55f22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>width</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>fd2667e2-f2b5-4fd5-b094-9836e45dc04f</webElementGuid>
+      <webElementGuid>7cb4df56-5924-4500-88be-433d2b01ae3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>height</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>d9f8c65b-a60f-4fd3-abbc-97284e7788c1</webElementGuid>
+      <webElementGuid>51106732-b569-4d92-b7df-fe63d7173528</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 30 30</value>
-      <webElementGuid>bfe2ac49-0fad-4731-851a-15786c7214c6</webElementGuid>
+      <webElementGuid>20d2f450-7d84-46bb-8a32-56869122c67b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>cd5fdd8e-a810-401f-8050-e643405cd1d2</webElementGuid>
+      <webElementGuid>74dc7923-c9c2-471a-83ae-64d7cfcc5559</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>306e9a59-8ca8-44b8-92d9-6160329b758c</webElementGuid>
+      <webElementGuid>357931da-5804-4030-8129-8c003b8b0ac5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-header&quot;)/section[@class=&quot;bg-primary pb-4&quot;]/div[@class=&quot;max-w-[1400px] m-auto container flex items-center&quot;]/nav[@class=&quot;relative z-10 flex max-w-max flex-1 items-center justify-center&quot;]/div[1]/ul[@class=&quot;group flex-1 list-none justify-center space-x-1 flex items-center gap-[25px] w-full text-white&quot;]/li[@class=&quot;flex items-center&quot;]/button[@class=&quot;p-0&quot;]/a[@class=&quot;group inline-flex h-9 w-max items-center justify-center rounded-md bg-transparent text-sm font-medium transition-colors disabled:pointer-events-none disabled:opacity-50 relative hover:bg-transparent hover:text-white focus:bg-transparent focus:text-white focus:outline-none data-[active]:bg-transparent data-[state=open]:bg-transparent&quot;]/svg[1]</value>
-      <webElementGuid>42b48dd5-25ba-42fa-9779-110d6f262ef1</webElementGuid>
+      <webElementGuid>6c061aac-8d31-4cdb-913e-0dc6a423c618</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Icon'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>c19d8d07-e328-4837-842f-c97590139a8b</webElementGuid>
+      <webElementGuid>25de4349-02cf-49f9-9788-a36278b9812a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart Icon'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>90def5db-994b-4190-b648-96385c1d9977</webElementGuid>
+      <webElementGuid>d2785644-37d4-4b37-9f01-863052c84424</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hamburger icon'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>05b2b3c6-5828-4063-85f0-99a7e93c129c</webElementGuid>
+      <webElementGuid>25ed1a1b-1289-4fd4-b0de-df208e7581e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

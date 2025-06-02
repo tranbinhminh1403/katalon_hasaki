@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Sa v tr trn bn_flex h-11 w-full py-2._a50923</name>
+   <tag></tag>
+   <elementGuidId>79aca3fd-013d-44b2-8a79-e9e9a54cdafb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Nhập vị trí của bạn&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c6ee5659-1dbf-4301-98c1-77a0b9e43795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-11 w-full py-2.5 text-sm transition-colors file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-50 bg-white rounded-[10px] focus-visible:ring-0 shadow-sm border px-10</value>
+      <webElementGuid>eae0c190-1b63-4b9b-ad48-8bc71cc14265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nhập vị trí của bạn</value>
+      <webElementGuid>bb048114-7e61-466c-970f-a2f2b664100e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radix-:rp3:&quot;)/div[@class=&quot;p-3 absolute z-[inherit] w-full top-[80px]&quot;]/div[@class=&quot;flex h-full w-full flex-col overflow-hidden text-popover-foreground rounded-[10px] bg-transparent&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;flex h-11 w-full py-2.5 text-sm transition-colors file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-50 bg-white rounded-[10px] focus-visible:ring-0 shadow-sm border px-10&quot;]</value>
+      <webElementGuid>9de37d88-e982-46bc-8f02-dba92d2b5dcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>a0278fe4-a895-453b-b394-7a9bf3fecbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:rp3:']/div[2]/div/div/input</value>
+      <webElementGuid>93318ec3-9dec-4245-8a06-de7ce7024f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>7ff38984-0148-410b-99f7-1cb1c1b03754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Nhập vị trí của bạn']</value>
+      <webElementGuid>7e540b30-a952-4b88-aca7-df6d1129e6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:rpf:']/div[2]/div/div/input</value>
+      <webElementGuid>d1a4d9fe-c96e-48ae-bcc2-62b7280ac841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

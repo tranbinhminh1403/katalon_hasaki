@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Xa_outline-none border-1px px-1.5 tex_31f081</name>
+   <tag></tag>
+   <elementGuidId>97536685-0b42-4c48-a721-634b102d2972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Increase btn Descrease btn&quot;i] >> internal:role=textbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0e43aea6-d2a7-4d53-a14e-94e62f427b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>outline-none border-[1px] px-1.5 text-xs appearance-none w-[52px] h-[28px] bg-[#f3f3f3] rounded-[2px]</value>
+      <webElementGuid>da360e19-4065-419e-9a7f-b5f8349dff02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>bde6d934-79a6-43c4-980b-b30c16e358f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>a5decf88-f3fd-4fcf-ad20-923043a15bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;min-h-screen bg-background font-sans antialiased __variable_d65c78&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col&quot;]/main[@class=&quot;h-full flex-1&quot;]/div[@class=&quot;min-h-screen w-full bg-white&quot;]/div[@class=&quot;max-w-[1400px] m-auto container&quot;]/main[@class=&quot;-mb-5&quot;]/div[@class=&quot;flex gap-5&quot;]/div[@class=&quot;w-[75%]&quot;]/table[@class=&quot;w-full text-[13px]&quot;]/tbody[1]/tr[@class=&quot;[&amp;>td]:px-[15px] [&amp;>td]:pt-2.5 [&amp;>td]:pb-5 border-b border-b-[#f1f1f5]&quot;]/td[@class=&quot;text-right&quot;]/div[@class=&quot;flex items-center gap-1 text-[13px] justify-end&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;outline-none border-[1px] px-1.5 text-xs appearance-none w-[52px] h-[28px] bg-[#f3f3f3] rounded-[2px]&quot;]</value>
+      <webElementGuid>598ec872-ee65-4eec-8e8a-23b155fa2a70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='2']</value>
+      <webElementGuid>e87f3327-1e98-4c45-b78d-b590f59bfc45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>92c08f43-5f87-447b-8201-b05a68f506f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>9d3b736b-357a-4cc1-9790-c7636bcfda4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

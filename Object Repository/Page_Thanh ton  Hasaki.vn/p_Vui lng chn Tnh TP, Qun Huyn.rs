@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Vui lng chn Tnh TP, Qun Huyn</name>
+   <tag></tag>
+   <elementGuidId>69d4d672-39c4-46c2-8b31-0f791d5b6a0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id=':r1j:-form-item-message']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Vui lòng chọn Tỉnh/ TP, Quận/ Huyện&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>15fa488a-c854-424b-845c-8a35825d894d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>:r1j:-form-item-message</value>
+      <webElementGuid>0625ee6d-1421-4eae-8e23-cda09f43181a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[0.8rem] font-medium text-destructive</value>
+      <webElementGuid>c064245c-9270-41f9-af28-928dea542b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vui lòng chọn Tỉnh/ TP, Quận/ Huyện</value>
+      <webElementGuid>1cfb95fb-f740-4be8-9a5c-d3cfbe652455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:r1j:-form-item-message&quot;)</value>
+      <webElementGuid>af3f60cf-ae42-4c25-ac53-ec06b915885e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r1j:-form-item-message']</value>
+      <webElementGuid>984fca8e-5d30-407d-b723-7a1fcfc756bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:ru:']/div/form/section/div[2]/p</value>
+      <webElementGuid>43ad4be6-1dea-4e69-b8a2-d33eb7526f42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[1]/following::p[1]</value>
+      <webElementGuid>3466f740-38f1-426a-8c81-24c7058ca352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[2]/preceding::p[1]</value>
+      <webElementGuid>7c17fe0d-f3b0-495b-bd76-681830064bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vui lòng chọn Tỉnh/ TP, Quận/ Huyện']/parent::*</value>
+      <webElementGuid>d9b890eb-d31d-4c9f-ab5e-eede313bc0fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>539c3d2d-97d3-459b-b450-3dc7edbd3a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r1j:-form-item-message' and (text() = 'Vui lòng chọn Tỉnh/ TP, Quận/ Huyện' or . = 'Vui lòng chọn Tỉnh/ TP, Quận/ Huyện')]</value>
+      <webElementGuid>a5a490a4-fde7-46a1-838b-dfa6ea9c6694</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

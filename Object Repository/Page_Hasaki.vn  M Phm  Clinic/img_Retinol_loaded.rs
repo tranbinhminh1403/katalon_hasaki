@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>6f0d6cc7-8461-4af9-87ea-121f7fe3147d</webElementGuid>
+      <webElementGuid>681668a4-f5ec-4677-884e-b1e46aea1cce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://media.hcdn.vn/hsk/icon/icon_header__login.png</value>
-      <webElementGuid>23b36b3d-c831-4a5e-b185-2035cb08420f</webElementGuid>
+      <webElementGuid>aefedd77-8d28-46c4-80a5-94fa4e29fd64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>loaded</value>
-      <webElementGuid>f8d3b873-5217-41fc-b4f7-585ab2e7ecff</webElementGuid>
+      <webElementGuid>a8537554-0f02-4d0b-910a-3910c8c0fa63</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0f74a686-f8f4-4c7e-9c2a-52ea38af5d63</webElementGuid>
+      <webElementGuid>dac948ac-381c-4481-9819-6524254d3e0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_login&quot;]/a[@class=&quot;icon_header&quot;]/img[@class=&quot;loaded&quot;]</value>
-      <webElementGuid>85d08dbc-aa5f-443f-8587-8366b4d54e99</webElementGuid>
+      <webElementGuid>a3fda677-0051-4315-bb02-7088094b3a0a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='v3_header']/div[2]/div[3]/div/a/img</value>
-      <webElementGuid>ee867d34-0ba5-4fb5-b122-48209c7cfca4</webElementGuid>
+      <webElementGuid>4fac4483-bf73-4b30-ba12-b29c195b3b7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://media.hcdn.vn/hsk/icon/icon_header__login.png')]</value>
-      <webElementGuid>a9ef7e26-1296-4ea3-8578-9b7128ee0c8d</webElementGuid>
+      <webElementGuid>97ab95f8-4bf5-4ac1-ab61-0a3b8989df3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/div/a/img</value>
-      <webElementGuid>69fac261-de52-4fcf-a6f7-143c8c1ee363</webElementGuid>
+      <webElementGuid>d939b5f7-401f-4017-a543-5da16be09641</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://media.hcdn.vn/hsk/icon/icon_header__login.png']</value>
-      <webElementGuid>2c42264e-baea-4e15-98e2-95ff5c32a2c5</webElementGuid>
+      <webElementGuid>6ca1c37d-ed59-49ec-87bf-26e9c0c85a4e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

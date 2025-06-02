@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_4</name>
+   <tag></tag>
+   <elementGuidId>62544d41-6e2d-4dde-a2e5-d905ca827a06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='page-header']/section[2]/div[2]/nav/div/ul/li[5]/button/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Cart Nav&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f6fad82-a1d4-42d0-a48d-bb05a0bde5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute -right-3 -top-1.5 bg-orange text-white text-[10px] font-bold rounded-full px-2 h-[18px] flex items-center justify-center</value>
+      <webElementGuid>fe781037-92f8-4ef1-a572-3b7f4cf94ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>c73462cf-1a54-4c49-b953-68586a7ca1a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-header&quot;)/section[@class=&quot;bg-primary pb-4&quot;]/div[@class=&quot;max-w-[1400px] m-auto container flex items-center&quot;]/nav[@class=&quot;relative z-10 flex max-w-max flex-1 items-center justify-center&quot;]/div[1]/ul[@class=&quot;group flex-1 list-none justify-center space-x-1 flex items-center gap-[25px] w-full text-white&quot;]/li[@class=&quot;flex items-center&quot;]/button[@class=&quot;p-0&quot;]/a[@class=&quot;group inline-flex h-9 w-max items-center justify-center rounded-md bg-transparent text-sm font-medium transition-colors disabled:pointer-events-none disabled:opacity-50 relative hover:bg-transparent hover:text-white focus:bg-transparent focus:text-white focus:outline-none data-[active]:bg-transparent data-[state=open]:bg-transparent&quot;]/span[@class=&quot;absolute -right-3 -top-1.5 bg-orange text-white text-[10px] font-bold rounded-full px-2 h-[18px] flex items-center justify-center&quot;]</value>
+      <webElementGuid>1989742c-7545-4aea-9f6e-2ecbc5b2774c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='page-header']/section[2]/div[2]/nav/div/ul/li[5]/button/a/span[2]</value>
+      <webElementGuid>c80b30c1-be33-48e4-b561-90969a599f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart Icon'])[1]/following::span[1]</value>
+      <webElementGuid>54eb4d1d-a4cd-4917-bf02-a637e2141d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hamburger icon'])[1]/preceding::span[1]</value>
+      <webElementGuid>da0d7bf8-ab81-480e-b0a4-2901ef0d78f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục'])[1]/preceding::span[2]</value>
+      <webElementGuid>f1b8f6ad-0aa3-4be7-bdc8-4ec26667e610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4']/parent::*</value>
+      <webElementGuid>ff7937d3-d726-43f3-a35b-2f8de562dd31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/a/span[2]</value>
+      <webElementGuid>96154ab7-a811-4017-96fe-b18d473b8517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '4' or . = '4')]</value>
+      <webElementGuid>e1832142-1c32-4db2-be39-e8b4796f5846</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

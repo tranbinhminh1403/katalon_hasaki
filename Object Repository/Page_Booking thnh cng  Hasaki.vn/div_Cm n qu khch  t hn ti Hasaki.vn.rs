@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cm n qu khch  t hn ti Hasaki.vn</name>
+   <tag></tag>
+   <elementGuidId>e8dd434c-e457-4330-9557-b9d8d5cbebc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.space_bottom_20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='booking_sussces_page']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Cảm ơn quý khách đã đặt hẹn tại Hasaki.vn!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7335ab1b-9c39-4fdf-b0fa-533e3845b729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>space_bottom_20</value>
+      <webElementGuid>d274d904-8b1c-4914-9603-819d587d411f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cảm ơn quý khách đã đặt hẹn tại Hasaki.vn!</value>
+      <webElementGuid>cae0bfd7-158c-4368-a977-90c447f01da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;booking_sussces_page&quot;)/div[@class=&quot;width_common block_info_success&quot;]/div[@class=&quot;space_bottom_20&quot;]</value>
+      <webElementGuid>97d66082-a8e1-4fed-8cdc-18773c1706da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='booking_sussces_page']/div/div[2]</value>
+      <webElementGuid>3ee67c9f-9685-4b5a-8f23-d85223ee2f3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hạ hạ'])[1]/following::div[1]</value>
+      <webElementGuid>b7feb686-17bb-454f-8839-8eaeea52c3b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cảm ơn quý khách đã đặt hẹn tại']/parent::*</value>
+      <webElementGuid>aa27977c-1dcf-40c4-b97f-83b17555cb84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>509a78ee-1b22-484c-a45d-4d8c1a76f6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cảm ơn quý khách đã đặt hẹn tại Hasaki.vn!' or . = 'Cảm ơn quý khách đã đặt hẹn tại Hasaki.vn!')]</value>
+      <webElementGuid>5b2ec67f-f55d-4e7c-8867-2299be580223</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

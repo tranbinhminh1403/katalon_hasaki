@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>containBlankMail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53db3d76-fd2c-4b5d-b81d-b3e102a7fe35</testCaseGuid>
+</TestCaseEntity>

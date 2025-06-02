@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CeraVe</name>
+   <tag></tag>
+   <elementGuidId>30fa4b11-9217-4f29-ab5e-31661e6a8f2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='683d1f3490e88']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.width_common.txt_color_1.space_bottom_3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;355.000 ₫ 25% 475.000 ₫ CeraVe Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml Foaming Cleanser (96) | 1.565 85% Bill Cerave 399K Tặng Gối tốt nghiệp trị giá 200K (SL có hạn)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a89441f-a120-4300-83b5-31c6b207eec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>width_common txt_color_1 space_bottom_3</value>
+      <webElementGuid>c3710afc-9bb8-41f0-92c6-7d3216bc0a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            CeraVe
+        </value>
+      <webElementGuid>ec9eb265-3802-43b4-9e97-cf61612233d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;683d1f3490e88&quot;)/div[@class=&quot;width_common txt_color_1 space_bottom_3&quot;]</value>
+      <webElementGuid>952c793d-53a5-4c81-a5bd-2419244456b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='683d1f3490e88']/div[2]</value>
+      <webElementGuid>c8389362-d02b-4cec-9873-70b97390db09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tặng: Sữa Rửa Mặt CeraVe Sạch Sâu 30ml (SL có hạn)'])[1]/following::div[2]</value>
+      <webElementGuid>b18c6cf8-0d4d-44a1-958d-fbc0f362ac81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hiển thị 60'])[1]/following::div[7]</value>
+      <webElementGuid>16940eac-91ea-44b5-9512-7f36ffca84ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml'])[1]/preceding::div[1]</value>
+      <webElementGuid>8e849709-ea26-4a66-a584-629aa9a011cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div[2]</value>
+      <webElementGuid>d94857aa-e866-44b8-a9c2-35a30a8a22f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+            CeraVe
+        ' or . = '
+            CeraVe
+        ')]</value>
+      <webElementGuid>f6b86607-c203-4436-b7f9-3c70b58c98c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
