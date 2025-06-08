@@ -34,3 +34,5 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/butt
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/div_Vui lng nhp mt khu'), 'Vui lòng nhập mật khẩu')
 
+WebUI.closeBrowser()
+

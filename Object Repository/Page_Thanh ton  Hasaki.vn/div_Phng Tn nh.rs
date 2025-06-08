@@ -6,12 +6,12 @@
    <elementGuidId>daaf4bd8-aaa0-4c0e-8f0e-1932a4cb2b10</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:r1i:']/div/div[2]/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-:r1q:']/div/div[2]/div/div</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d085068a-de45-45de-869c-242e4dd0cd07</webElementGuid>
+      <webElementGuid>a72498d0-8b7a-4e46-bd71-0f2be3d58f77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none aria-selected:bg-accent aria-selected:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50</value>
-      <webElementGuid>1d23a8e0-1727-42ed-9810-1fee2ac55f51</webElementGuid>
+      <webElementGuid>cdf2e329-12ab-4348-af9d-4961d3b5a324</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>8420527b-9fb8-41f7-be04-2f0c79906c7c</webElementGuid>
+      <webElementGuid>de9310a4-8d86-4cba-ae11-abb8e9f82791</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>phường tân định</value>
-      <webElementGuid>98ca8258-c654-4fbc-9fd7-ee70be3471cc</webElementGuid>
+      <webElementGuid>93523fcc-c5cf-4f68-a97b-064a928c05fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>05b3b8b4-51b3-421c-9c7a-c3e1bda67f83</webElementGuid>
+      <webElementGuid>7f6a36a7-4087-4373-abbb-46a423b5394a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>497bd572-8b2f-441d-9f7f-a1f2e6522862</webElementGuid>
+      <webElementGuid>1ca28a35-3ec8-44a6-a0cd-fdf42ff1abc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,23 +77,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Phường Tân Định</value>
-      <webElementGuid>ffc1d835-092c-4f4a-9650-a8517e375402</webElementGuid>
+      <webElementGuid>995582eb-fa61-4ddd-bd07-f9906bf269a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-:r1q:&quot;)/div[@class=&quot;flex h-full w-full flex-col overflow-hidden rounded-md bg-popover text-popover-foreground&quot;]/div[@class=&quot;overflow-hidden p-1 text-foreground [&amp;_[cmdk-group-heading]]:px-2 [&amp;_[cmdk-group-heading]]:py-1.5 [&amp;_[cmdk-group-heading]]:text-xs [&amp;_[cmdk-group-heading]]:font-medium [&amp;_[cmdk-group-heading]]:text-muted-foreground overflow-y-scroll no-scrollbar&quot;]/div[1]/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none aria-selected:bg-accent aria-selected:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50&quot;]</value>
-      <webElementGuid>016d872b-2c00-4863-8bf3-1a14cef2c8fd</webElementGuid>
+      <value>id(&quot;radix-:r1i:&quot;)/div[@class=&quot;flex h-full w-full flex-col overflow-hidden rounded-md bg-popover text-popover-foreground&quot;]/div[@class=&quot;overflow-hidden p-1 text-foreground [&amp;_[cmdk-group-heading]]:px-2 [&amp;_[cmdk-group-heading]]:py-1.5 [&amp;_[cmdk-group-heading]]:text-xs [&amp;_[cmdk-group-heading]]:font-medium [&amp;_[cmdk-group-heading]]:text-muted-foreground overflow-y-scroll no-scrollbar&quot;]/div[1]/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none aria-selected:bg-accent aria-selected:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50&quot;]</value>
+      <webElementGuid>58894404-ab40-4633-bff1-e7ff1e3276e8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='radix-:r1q:']/div/div[2]/div/div</value>
-      <webElementGuid>8a171ea6-ad3e-45d0-baf3-37bc5d584a6c</webElementGuid>
+      <value>//div[@id='radix-:r1i:']/div/div[2]/div/div</value>
+      <webElementGuid>2f4ff35a-6351-4524-9c82-3f6163c8e8c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::div[7]</value>
-      <webElementGuid>13a7052f-f8a8-4f14-9611-b663ea5618ad</webElementGuid>
+      <webElementGuid>cd0b48de-e58a-4b5b-bb38-c06d565b93da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục'])[2]/following::div[7]</value>
-      <webElementGuid>e1710666-21a1-4026-8bd4-f3fb1740464c</webElementGuid>
+      <webElementGuid>3d7236b0-bdd2-415f-bd91-8558fdd3c5c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Phường Đakao'])[1]/preceding::div[1]</value>
-      <webElementGuid>dc5265d8-bf1a-4fce-9230-8dca03170ac2</webElementGuid>
+      <webElementGuid>4b6a10c2-894f-44b4-a050-c21e6c31008c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Phường Bến Nghé'])[1]/preceding::div[2]</value>
-      <webElementGuid>41802d78-81ec-4cf7-91f3-68cb041a16ac</webElementGuid>
+      <webElementGuid>1e319c80-a915-4694-8f70-20e76071444c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Phường Tân Định']/parent::*</value>
-      <webElementGuid>4fa875e7-7653-46d7-8b4b-ba0534440074</webElementGuid>
+      <webElementGuid>2bc2bc2b-516e-4bfd-bf90-9ee92437935c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div</value>
-      <webElementGuid>2c64721c-1efa-4e47-b833-b1bdb734f157</webElementGuid>
+      <webElementGuid>40394cf1-2ee5-403f-bac7-4127b009f1d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,23 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Phường Tân Định' or . = 'Phường Tân Định')]</value>
-      <webElementGuid>76074c14-3630-4ea6-a5c4-dee2a422682b</webElementGuid>
+      <webElementGuid>59c3f815-e0ea-486c-b58e-f01530ee8e91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r1q:']/div/div[2]/div/div</value>
+      <webElementGuid>c63d152d-f2b8-4beb-a5f0-16a204c5e966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r1m:']/div/div[2]/div/div</value>
+      <webElementGuid>2947194f-a778-4714-a03c-9112f05c7383</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,13 +174,5 @@
       <type>Main</type>
       <value>//div[@id='radix-:r26:']/div/div[2]/div/div</value>
       <webElementGuid>78c9d76e-25eb-4602-a283-83696589eda1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='radix-:r1m:']/div/div[2]/div/div</value>
-      <webElementGuid>24a0d450-dfa7-4f31-bc7e-4ddbe55e2b11</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

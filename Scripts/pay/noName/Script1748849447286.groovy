@@ -45,3 +45,5 @@ WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_T
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_Vui lng in H v Tn'), 'Vui lòng điền Họ và Tên')
 
+WebUI.closeBrowser()
+

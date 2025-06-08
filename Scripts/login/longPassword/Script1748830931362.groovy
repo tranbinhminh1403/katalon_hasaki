@@ -38,3 +38,5 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/butt
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/div_Tn ng nhp hoc mt khu khng khp'), 
     'Tên đăng nhập hoặc mật khẩu không khớp !')
 
+WebUI.closeBrowser()
+

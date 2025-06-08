@@ -45,3 +45,5 @@ WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/button
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/div_Vui lng nhp h tn_1'), 'Tên không được chứa kí tự đặc biệt !')
 
+WebUI.closeBrowser()
+

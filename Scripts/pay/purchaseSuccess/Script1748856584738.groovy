@@ -41,3 +41,5 @@ WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/h2_a ch nhn hng'), 'Địa chỉ nhận hàng')
 
+WebUI.closeBrowser()
+

@@ -6,12 +6,12 @@
    <elementGuidId>ba607b6e-7e1d-4b63-a814-d85cd1694134</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//p[@id=':r1l:-form-item-message']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>08538728-1ac1-4ea1-9c00-ed116a6626ba</webElementGuid>
+      <webElementGuid>5c2e2da8-0e4d-4940-8998-1cd1fe77a42e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:r1l:-form-item-message</value>
-      <webElementGuid>d1e7b1fc-1545-4734-957e-96c5eaff90cd</webElementGuid>
+      <webElementGuid>f24f0dee-7221-488a-9e89-2db34e45c218</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-[0.8rem] font-medium text-destructive</value>
-      <webElementGuid>dc257066-bd02-4845-be51-3e3753bb8133</webElementGuid>
+      <webElementGuid>38251af6-c0b8-4288-b863-d298aa65e00f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Vui lòng chọn Phường/ Xã</value>
-      <webElementGuid>471230bf-e208-4240-9697-7189194cc8e4</webElementGuid>
+      <webElementGuid>df2fdf76-13d7-44b5-9f46-79dfc75282c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r1l:-form-item-message&quot;)</value>
-      <webElementGuid>a05fcc5e-cb0c-4099-8891-194fe774ab02</webElementGuid>
+      <webElementGuid>e70b0bfc-303c-4d6e-9da8-ee75ff2e86b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id=':r1l:-form-item-message']</value>
-      <webElementGuid>123cb12c-e02f-4834-a76b-e3aa5eff3e7f</webElementGuid>
+      <webElementGuid>eb3c8c19-a534-4f2a-a76b-d0b91e6867a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:ru:']/div/form/section/div[3]/p</value>
-      <webElementGuid>6e73633a-176a-4a54-9680-33aa35588823</webElementGuid>
+      <webElementGuid>b9fd26cd-0fc9-46c3-bf20-3fc0c76bf563</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[2]/following::p[1]</value>
-      <webElementGuid>fc9745cc-263c-42ed-8712-ec1cf2da6e69</webElementGuid>
+      <webElementGuid>9fe11d99-e51e-4626-aaf3-be157f69835f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vui lòng chọn Tỉnh/TP, Quận/ Huyện và Phường/ xã trước khi nhập Số nhà + Tên Đường'])[1]/preceding::p[2]</value>
-      <webElementGuid>9b7a0adf-b59f-4f2d-a760-29c78eda50c4</webElementGuid>
+      <webElementGuid>8896bdbf-0b6b-4468-9486-9cca7cf1d904</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhà riêng'])[1]/preceding::p[3]</value>
-      <webElementGuid>470e3564-0a1c-4500-947c-a39690fc27cd</webElementGuid>
+      <webElementGuid>3b7feeba-afd3-412f-b8bf-d6d59fce5a8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Vui lòng chọn Phường/ Xã']/parent::*</value>
-      <webElementGuid>46360f1a-e9c9-49d8-abf0-a1a4c641558e</webElementGuid>
+      <webElementGuid>b114e948-d0a3-438f-a4cf-2e3f22afb154</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>2740657d-3170-4732-a4b7-db7a71924323</webElementGuid>
+      <webElementGuid>21766730-699e-4c29-98d2-25e10f49031e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = ':r1l:-form-item-message' and (text() = 'Vui lòng chọn Phường/ Xã' or . = 'Vui lòng chọn Phường/ Xã')]</value>
-      <webElementGuid>87e96f3c-e285-40bb-afc5-72c91dee9a51</webElementGuid>
+      <webElementGuid>465ebf32-6387-4c06-988c-73dbe2f49c7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

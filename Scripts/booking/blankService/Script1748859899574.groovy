@@ -46,3 +46,5 @@ WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/button
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/div_Vui lng nhp dch v bn mun lm_1'), 
     'Vui lòng nhập dịch vụ bạn muốn làm !')
 
+WebUI.closeBrowser()
+

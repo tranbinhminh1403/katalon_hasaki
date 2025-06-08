@@ -34,3 +34,5 @@ WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/p_ng nhp vi'), 
     'Đăng nhập với')
 
+WebUI.closeBrowser()
+

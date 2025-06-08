@@ -6,12 +6,12 @@
    <elementGuidId>2603d0a3-4871-4878-a495-b935b272bedf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.icon_header.relative > div > img.loading</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='v3_header']/div[2]/div[3]/div[5]/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon_header.relative > div > img.loading</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>37992935-21e5-422c-9870-12846eedb820</webElementGuid>
+      <webElementGuid>020fabe0-e46c-43cc-9fa8-77b4a496d4e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://media.hcdn.vn/hsk/icon/icon_header__cart.png</value>
-      <webElementGuid>c1e78ed2-8b89-47ec-82cb-cb538eece955</webElementGuid>
+      <webElementGuid>0e55fcc2-cbb8-4b70-b08f-8c3c37fc2acb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>loading</value>
-      <webElementGuid>89ecee45-1719-4be0-91ef-890d7b5b0a49</webElementGuid>
+      <webElementGuid>5b18c0b0-5227-43b9-8b92-aec8fed29a09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2db938e9-43e6-4281-94df-286fc33a61a3</webElementGuid>
+      <webElementGuid>f17c049e-c202-4a52-8aee-9c03c10e3519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_header_giohang minicart-wrapper&quot;]/a[@class=&quot;icon_header relative&quot;]/div[1]/img[@class=&quot;loading&quot;]</value>
-      <webElementGuid>f3a5ce57-c199-401b-9ac5-26501bb2db63</webElementGuid>
+      <webElementGuid>617481bd-7703-46a2-86bd-a96d3c95cc6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='v3_header']/div[2]/div[3]/div[5]/a/div/img</value>
-      <webElementGuid>a37934aa-e65a-434c-a508-db2c885da52c</webElementGuid>
+      <webElementGuid>f7beaeec-b2fd-4de5-a1e6-2face3a962c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://media.hcdn.vn/hsk/icon/icon_header__cart.png')]</value>
-      <webElementGuid>3ec98d45-260a-4364-9126-17f3c28ac678</webElementGuid>
+      <webElementGuid>a3252b27-3c89-4d4f-9b90-9f31bbc947ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div/img</value>
-      <webElementGuid>d177acc0-d7ff-4c3c-85d2-0421c5fc7b38</webElementGuid>
+      <webElementGuid>2c21e97d-70be-4f9b-8258-6ac48cc8473f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://media.hcdn.vn/hsk/icon/icon_header__cart.png']</value>
-      <webElementGuid>0b1494df-f0e3-42b5-aa62-6ed5a0d1e540</webElementGuid>
+      <webElementGuid>001a7fd2-07cb-4cb7-8cde-52b36ff2f265</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

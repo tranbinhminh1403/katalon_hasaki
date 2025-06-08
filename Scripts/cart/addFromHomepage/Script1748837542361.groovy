@@ -42,3 +42,5 @@ WebUI.click(findTestObject('Object Repository/Page_Son Dng Mi DHC Khng Mu H Tr G
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Son Dng Mi DHC Khng Mu H Tr Gim Thm Mi_8ae398/div_Sn Phm  c thm vo gi hng thnh cng'), 
     'Sản Phẩm đã được thêm vào giỏ hàng thành công')
 
+WebUI.closeBrowser()
+

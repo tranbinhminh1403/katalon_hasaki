@@ -37,3 +37,5 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/butt
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/div_Tn ng nhp khng khp'), 0)
 
+WebUI.closeBrowser()
+

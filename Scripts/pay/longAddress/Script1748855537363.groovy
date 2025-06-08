@@ -60,3 +60,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/input_
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/span_a ch khng c vt qu 100 k t'), 'Địa chỉ không được vượt quá 100 ký tự')
 
+WebUI.closeBrowser()
+

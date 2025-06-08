@@ -52,3 +52,5 @@ WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/div_CeraVe'), 'CeraVe')
 
+WebUI.closeBrowser()
+

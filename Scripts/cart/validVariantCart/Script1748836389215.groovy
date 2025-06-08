@@ -54,3 +54,5 @@ WebUI.click(findTestObject('Object Repository/Page_Du Gi Kh Girlz Only Cho Tc Nu
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/a_Girlz Only'), 'Girlz Only')
 
+WebUI.closeBrowser()
+

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>7c829b0a-915c-49b6-b671-24521ef48ae3</webElementGuid>
+      <webElementGuid>58daa4a7-8772-4dfb-8fc8-e768ed570471</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:r1h:-form-item-message</value>
-      <webElementGuid>8e751f96-5493-48aa-a198-2aa912ab1b5b</webElementGuid>
+      <webElementGuid>c839d439-02cf-4396-a48e-f5e5dfd4f6ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-[0.8rem] font-medium text-destructive</value>
-      <webElementGuid>c40d0a3d-a15f-46e9-bb0a-cda9133582a3</webElementGuid>
+      <webElementGuid>01939fc7-ec8f-4d70-bcf9-1f37562ad3b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Số điện thoại không hợp lệ</value>
-      <webElementGuid>bc4808a0-4e37-49b6-9ce2-94d539e72665</webElementGuid>
+      <webElementGuid>1587b92a-8577-4496-b8ee-4cb18c50ff67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r1h:-form-item-message&quot;)</value>
-      <webElementGuid>356b19bc-31ec-487e-bf6a-3fc27f557b15</webElementGuid>
+      <webElementGuid>6145793f-38d7-4c9e-b7ba-0b8bfc024965</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id=':r1h:-form-item-message']</value>
-      <webElementGuid>d7a07dcb-fc68-44a7-9096-49acacfa768a</webElementGuid>
+      <webElementGuid>c0e3e794-1e3f-43a8-bedd-a977895afafc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:ru:']/div/form/section/div/div/p</value>
-      <webElementGuid>d6c82d7b-6adf-479b-be0a-3dccd76cb3d4</webElementGuid>
+      <webElementGuid>c022c907-b43f-4c8d-9d76-3fb87115bfcd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification Card Icon'])[1]/following::p[1]</value>
-      <webElementGuid>68a8aceb-484f-4d5f-9f2c-4c9b9d0c881a</webElementGuid>
+      <webElementGuid>82a0758d-4980-49eb-b07f-d6fb9bd99fb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm địa chỉ mới'])[2]/following::p[1]</value>
-      <webElementGuid>fa46ef74-6502-4994-932f-c365a4a95cc4</webElementGuid>
+      <webElementGuid>cd54df01-257b-43d9-b5f1-ef21b41efd71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[1]/preceding::p[1]</value>
+      <webElementGuid>7f136026-a4f6-4010-ab2a-1b6602cbf680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Số điện thoại không hợp lệ']/parent::*</value>
+      <webElementGuid>a835a153-399c-4439-befa-e9bffdaea4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>4efd56b7-47f6-4618-b334-b91626f82231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r1h:-form-item-message' and (text() = 'Số điện thoại không hợp lệ' or . = 'Số điện thoại không hợp lệ')]</value>
+      <webElementGuid>463e8abe-2086-40ad-b483-f70de54b719b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,29 +134,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[1]/preceding::p[2]</value>
       <webElementGuid>e5421e02-bb9b-4470-b7a0-dee64c72fe1f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Số điện thoại không hợp lệ']/parent::*</value>
-      <webElementGuid>b54adbcc-b362-4f98-bb62-aaca5abd1fa0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//p</value>
-      <webElementGuid>48d88385-7273-4d55-a3c5-dca5e139bfdb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//p[@id = ':r1h:-form-item-message' and (text() = 'Số điện thoại không hợp lệ' or . = 'Số điện thoại không hợp lệ')]</value>
-      <webElementGuid>07d9b013-a0ab-4abe-85e6-bc838808bf1f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

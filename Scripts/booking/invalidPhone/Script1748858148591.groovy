@@ -39,9 +39,11 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_
 
 WebUI.doubleClick(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/input__phone'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/input__phone'), ' 0966265795 ')
+WebUI.setText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/input__phone'), ' 096626579')
 
 WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/button_t hn'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/div_Vui lng nhp s in thoi_1'), 'Số điện thoại không hợp lệ !')
+
+WebUI.closeBrowser()
 

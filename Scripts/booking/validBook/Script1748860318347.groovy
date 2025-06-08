@@ -50,3 +50,5 @@ WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/button
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Booking thnh cng  Hasaki.vn/div_Cm n qu khch  t hn ti Hasaki.vn'), 
     'Cảm ơn quý khách đã đặt hẹn tại Hasaki.vn!')
 
+WebUI.closeBrowser()
+

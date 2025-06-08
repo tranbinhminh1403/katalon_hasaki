@@ -6,12 +6,12 @@
    <elementGuidId>e13f68d1-3e4f-4e80-b6d7-82737e65723d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button[name=&quot;address&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@name='address']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;address&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>186c1b2e-9fc1-47c7-9151-ad0232cdf288</webElementGuid>
+      <webElementGuid>a6e915f8-657f-496c-830c-38461d992fea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:bg-background disabled:text-ring border border-input hover:bg-accent hover:text-accent-foreground px-4 py-2 w-full h-11 border-none justify-between text-sm transition-color rounded-[10px] bg-background shadow-none text-muted-foreground text-start line-clamp-2</value>
-      <webElementGuid>1f61e1f1-daa4-4b5d-b21d-5dadd493b85a</webElementGuid>
+      <webElementGuid>11fd25cb-325c-42e0-a496-8d57c00cb005</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>contentinfo</value>
-      <webElementGuid>1e112862-c5be-4ada-a0b3-708d97a5cda9</webElementGuid>
+      <webElementGuid>46893269-2ff2-4c9e-8a8b-36ddf303ef5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>address</value>
-      <webElementGuid>bee16c41-a79c-4a0c-85d1-3fc67da663a9</webElementGuid>
+      <webElementGuid>fe8e542b-6f7d-4764-a59f-9c15ac2ccdf3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9c6bd32f-5a21-4347-aabc-ea327113836e</webElementGuid>
+      <webElementGuid>cb80c557-06ba-4067-95d3-0c23b8c3b910</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>name</name>
       <type>Main</type>
       <value>address</value>
-      <webElementGuid>626dc0ad-12fc-448d-a71c-cfe69b785f3a</webElementGuid>
+      <webElementGuid>9f888b35-33ee-4cb0-8ba9-4f38bd2b6d58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>e35bdf58-8b77-46e2-b745-bdb000f9c8f4</webElementGuid>
+      <webElementGuid>ecbc1a1a-a4d6-418b-9179-e92cfe22926c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>52209ad4-a46e-47ad-a756-9a386a90a4cf</webElementGuid>
+      <webElementGuid>82975ceb-e065-49bc-b638-1f5d2f6c6384</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>radix-:rp3:</value>
-      <webElementGuid>dc7f145b-3024-4982-b17a-fcbdaa12868f</webElementGuid>
+      <value>radix-:ror:</value>
+      <webElementGuid>9f61fb5b-13c0-47e8-a572-aecef9772dbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>cc33960a-6a85-499b-8333-420f73e80574</webElementGuid>
+      <webElementGuid>e926593f-56dc-44d3-b223-4024708dda4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Số nhà + Tên đường</value>
-      <webElementGuid>f08a14df-e4f4-496c-a955-f96a9a87744d</webElementGuid>
+      <webElementGuid>9f8dd28a-2d9f-438d-b856-3ca9a3506c7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radix-:ru:&quot;)/div[@class=&quot;flex flex-col space-y-1.5 text-center sm:text-left&quot;]/form[@class=&quot;flex flex-col gap-2.5&quot;]/section[@class=&quot;bg-white flex flex-col items-center gap-2.5&quot;]/div[@class=&quot;space-y-2 flex flex-col w-full&quot;]/button[@class=&quot;inline-flex items-center font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:bg-background disabled:text-ring border border-input hover:bg-accent hover:text-accent-foreground px-4 py-2 w-full h-11 border-none justify-between text-sm transition-color rounded-[10px] bg-background shadow-none text-muted-foreground text-start line-clamp-2&quot;]</value>
-      <webElementGuid>7ccaba1a-a8d0-4e8f-8cbf-00b7ef0634b9</webElementGuid>
+      <webElementGuid>d16d3788-725a-4eb5-81f6-80c819716a1f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@name='address']</value>
-      <webElementGuid>825f699e-65b5-409c-a011-56f1a7498e4e</webElementGuid>
+      <webElementGuid>611ffac8-7251-408c-a509-8eaa54854864</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:ru:']/div/form/section/div[4]/button</value>
-      <webElementGuid>f221d3d4-79e4-4566-80a0-617efc1ae61f</webElementGuid>
+      <webElementGuid>a017c615-2cb3-4cd5-9e9a-9712caf7d944</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[2]/following::button[1]</value>
-      <webElementGuid>b007c654-ba25-4a7e-a89e-7d28067ae1de</webElementGuid>
+      <webElementGuid>eea2833c-de72-409b-af20-86c2c1167fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='←'])[1]/preceding::button[2]</value>
+      <webElementGuid>6bfabec5-2741-41c1-a98c-48b94b0c381d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>ee3e419d-a36a-4902-92ae-10edcd2d475b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @name = 'address' and (text() = 'Số nhà + Tên đường' or . = 'Số nhà + Tên đường')]</value>
+      <webElementGuid>ecffc946-ff16-4d65-84c7-416a4ad944dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,22 +174,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhà riêng'])[1]/preceding::button[2]</value>
       <webElementGuid>8a6eb71f-11e9-4927-9683-a4655b1e98d3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>981a3030-edb4-4f76-b5b5-c893583ccb54</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and @name = 'address' and (text() = 'Số nhà + Tên đường' or . = 'Số nhà + Tên đường')]</value>
-      <webElementGuid>cd81b3da-3df0-4e83-b60c-0b63f598d2fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

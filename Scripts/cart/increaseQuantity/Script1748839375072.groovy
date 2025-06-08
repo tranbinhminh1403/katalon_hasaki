@@ -54,3 +54,5 @@ WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Page_Gi hng 
     'value', '2', 5 // timeout in seconds
     )
 
+WebUI.closeBrowser()
+

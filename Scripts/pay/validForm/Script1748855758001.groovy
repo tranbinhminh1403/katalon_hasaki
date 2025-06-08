@@ -64,3 +64,5 @@ WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_T
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/h2_Xc thc OTP'), 'Xác thực OTP')
 
+WebUI.closeBrowser()
+

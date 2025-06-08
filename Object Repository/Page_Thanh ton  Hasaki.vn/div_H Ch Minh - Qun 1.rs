@@ -6,12 +6,12 @@
    <elementGuidId>d6ebbc0b-0bba-4c26-bbc1-f7ad506b7c64</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='radix-:r1g:']/div/div[2]/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='radix-:r1o:']/div/div[2]/div/div</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ca09bcfd-07d4-45ea-bed6-35eae1cebb60</webElementGuid>
+      <webElementGuid>3195fe59-5de2-4b63-a963-ca8ea5505f31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none aria-selected:bg-accent aria-selected:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50</value>
-      <webElementGuid>8321633d-c782-494c-84ce-96b08e86e0a8</webElementGuid>
+      <webElementGuid>2c1a606d-fa9b-4289-b91d-4bba0bae0428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>3ef6e04e-10b9-4d3e-a2ee-a823f03a190e</webElementGuid>
+      <webElementGuid>378cb4fe-1fa9-4c09-9af6-a425d2eb3683</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>ho chi minh - quan 1</value>
-      <webElementGuid>c9357abc-bd2b-42eb-a55d-06b0b218fe3e</webElementGuid>
+      <webElementGuid>538706a2-68ff-420d-bf76-aeee33e6a125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e58ecb31-59e4-4b37-819a-02b56243d0bc</webElementGuid>
+      <webElementGuid>e1cfcda7-a82d-4d51-9739-9eef6a564d30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-selected</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>bbbe6eaf-8ed1-4c9e-9cfe-c93dd4cce77c</webElementGuid>
+      <webElementGuid>a602088a-776c-4948-b3bc-37b567b3da99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,23 +77,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Hồ Chí Minh - Quận 1</value>
-      <webElementGuid>d2824c99-96f8-4151-b82d-146895e33692</webElementGuid>
+      <webElementGuid>cd15d1dd-df23-4d04-881f-315f8b1a648e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-:r1o:&quot;)/div[@class=&quot;flex h-full w-full flex-col overflow-hidden rounded-md bg-popover text-popover-foreground max-h-[500px]&quot;]/div[@class=&quot;overflow-hidden p-1 text-foreground [&amp;_[cmdk-group-heading]]:px-2 [&amp;_[cmdk-group-heading]]:py-1.5 [&amp;_[cmdk-group-heading]]:text-xs [&amp;_[cmdk-group-heading]]:font-medium [&amp;_[cmdk-group-heading]]:text-muted-foreground overflow-y-scroll no-scrollbar&quot;]/div[1]/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none aria-selected:bg-accent aria-selected:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50&quot;]</value>
-      <webElementGuid>035303d0-eee0-43b0-b9bb-46b7a12a4ea0</webElementGuid>
+      <value>id(&quot;radix-:r1g:&quot;)/div[@class=&quot;flex h-full w-full flex-col overflow-hidden rounded-md bg-popover text-popover-foreground max-h-[500px]&quot;]/div[@class=&quot;overflow-hidden p-1 text-foreground [&amp;_[cmdk-group-heading]]:px-2 [&amp;_[cmdk-group-heading]]:py-1.5 [&amp;_[cmdk-group-heading]]:text-xs [&amp;_[cmdk-group-heading]]:font-medium [&amp;_[cmdk-group-heading]]:text-muted-foreground overflow-y-scroll no-scrollbar&quot;]/div[1]/div[@class=&quot;relative flex cursor-default select-none items-center rounded-sm px-2 py-1.5 text-sm outline-none aria-selected:bg-accent aria-selected:text-accent-foreground data-[disabled]:pointer-events-none data-[disabled]:opacity-50&quot;]</value>
+      <webElementGuid>b363598a-dda8-4828-a8fd-e68d3a7634bf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='radix-:r1o:']/div/div[2]/div/div</value>
-      <webElementGuid>0b77be56-21d8-49ef-a448-d58c11ea26d8</webElementGuid>
+      <value>//div[@id='radix-:r1g:']/div/div[2]/div/div</value>
+      <webElementGuid>30a33bab-3269-4fbf-bc34-4bc7d4010814</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::div[7]</value>
-      <webElementGuid>dc982144-e632-4f28-9ffc-2ff62ab11703</webElementGuid>
+      <webElementGuid>07c6ec25-1c7a-4a05-a14b-c507dccbced6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục'])[2]/following::div[7]</value>
-      <webElementGuid>c7ef3c88-92ed-4fed-adb0-0753989780da</webElementGuid>
+      <webElementGuid>9c676535-8052-4a75-a0b4-d94b9942c2f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ Chí Minh - Quận 2'])[1]/preceding::div[1]</value>
-      <webElementGuid>aef29680-0466-4acf-aae8-1517465715f7</webElementGuid>
+      <webElementGuid>f8689b29-9304-453f-b258-1f4f157b1860</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ Chí Minh - Quận 3'])[1]/preceding::div[2]</value>
-      <webElementGuid>e4bb0d28-d8c4-4bdb-b546-07c85c29ea34</webElementGuid>
+      <webElementGuid>53c20258-51b0-4683-bc79-9fbfcaab70fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hồ Chí Minh - Quận 1']/parent::*</value>
-      <webElementGuid>8ad85340-a8d8-4f03-9789-1cc97f2c5d3e</webElementGuid>
+      <webElementGuid>0d9cbe61-2d47-47f6-8d87-293d22899e5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div</value>
-      <webElementGuid>0abf7745-3990-49f5-9793-27dd9d2e23c4</webElementGuid>
+      <webElementGuid>91dbed43-5c56-424d-b167-01f40222c5cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,23 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Hồ Chí Minh - Quận 1' or . = 'Hồ Chí Minh - Quận 1')]</value>
-      <webElementGuid>9ba588bf-caad-496f-b678-0e46c273f24e</webElementGuid>
+      <webElementGuid>4994d535-5691-462f-b1a7-6c50a4b50a34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r1o:']/div/div[2]/div/div</value>
+      <webElementGuid>9ed99a1b-0189-4180-862f-f69371676577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r1k:']/div/div[2]/div/div</value>
+      <webElementGuid>2d341dcc-ec26-46db-8ba9-8584c2316662</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,13 +174,5 @@
       <type>Main</type>
       <value>//div[@id='radix-:r24:']/div/div[2]/div/div</value>
       <webElementGuid>9647c487-fa72-4478-b4ba-7faf3d03fc9c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='radix-:r1k:']/div/div[2]/div/div</value>
-      <webElementGuid>b76d2ae6-7523-46db-a418-fb88a4991bac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

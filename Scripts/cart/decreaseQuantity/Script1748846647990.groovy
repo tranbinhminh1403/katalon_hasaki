@@ -37,8 +37,8 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/butt
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_H trkhch hng_loading'))
 
-qty = WebUI.getAttribute(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'),
-	'value')
+qty = WebUI.getAttribute(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'), 
+    'value')
 
 WebUI.verifyMatch(qty, '2', false)
 
@@ -48,7 +48,9 @@ WebUI.click(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/
 
 WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'))
 
-WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'),
-	'value', '1', 5 // timeout in seconds
-	)
+WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'), 
+    'value', '1', 5 // timeout in seconds
+    )
+
+WebUI.closeBrowser()
 

@@ -46,3 +46,5 @@ WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/div_Sn phm ch c mua ti a l 1'), 
     'Sản phẩm chỉ được mua tối đa là 1')
 
+WebUI.closeBrowser()
+

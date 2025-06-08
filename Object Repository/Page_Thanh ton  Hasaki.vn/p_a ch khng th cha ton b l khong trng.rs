@@ -6,12 +6,12 @@
    <elementGuidId>ff322dfc-94dd-45f7-afaa-79ad05085cc0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//p[@id=':r1j:-form-item-message']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//p[@id=':r27:-form-item-message']</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>b24d42ef-a5b1-4861-bb29-928245127436</webElementGuid>
+      <webElementGuid>907d4cf5-d70f-4a93-b125-a01d96c64910</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>:r27:-form-item-message</value>
-      <webElementGuid>1c34e44f-4553-4063-be8b-189d8ac7eef0</webElementGuid>
+      <value>:r1j:-form-item-message</value>
+      <webElementGuid>4ac1fd81-f2d7-4598-b702-761b7f2a6849</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-[0.8rem] font-medium text-destructive</value>
-      <webElementGuid>de9ffcb3-2e77-41e5-ace1-8f103eaf519c</webElementGuid>
+      <webElementGuid>5e1ef1ce-4e3a-4f7c-94a6-9160e648807e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,23 +53,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Địa chỉ không thể chứa toàn bộ là khoảng trắng</value>
-      <webElementGuid>203bfeb7-4946-431e-ade6-f379fa5ebb50</webElementGuid>
+      <webElementGuid>7f99fb96-80f0-4b41-8e4f-e8d7e1b881d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;:r27:-form-item-message&quot;)</value>
-      <webElementGuid>8b4014f0-ae06-4519-8b28-85c79c107f14</webElementGuid>
+      <value>id(&quot;:r1j:-form-item-message&quot;)</value>
+      <webElementGuid>fad27e32-71e5-484a-b78d-af18a75a77d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//p[@id=':r27:-form-item-message']</value>
-      <webElementGuid>bdc1345a-b061-4daa-a701-625ca077751c</webElementGuid>
+      <value>//p[@id=':r1j:-form-item-message']</value>
+      <webElementGuid>581be9ec-8312-4788-9574-4340eb3b827f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:ru:']/div/form/section/div[4]/p</value>
-      <webElementGuid>226ca576-542e-407b-b309-fc415f8cf23d</webElementGuid>
+      <webElementGuid>4708e871-3ea0-4e83-ab52-0e6b8cfd6635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[2]/following::p[1]</value>
-      <webElementGuid>d8a0f15f-a4b4-436f-a1b4-43ef8abe1d4b</webElementGuid>
+      <webElementGuid>3c2fded3-f066-4119-8e19-151540862d23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='←'])[1]/preceding::p[3]</value>
-      <webElementGuid>abcd63d2-5f17-46fa-bce3-923b02e7abf2</webElementGuid>
+      <webElementGuid>05e8a0d7-cc18-4448-85c1-3c6384b50096</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Di chuyển sang trái'])[1]/preceding::p[3]</value>
-      <webElementGuid>04676a38-3a73-48c4-9234-ac2b288a73a9</webElementGuid>
+      <webElementGuid>b6b6dcfb-9c14-4fed-bfd3-242ff8b2de0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Địa chỉ không thể chứa toàn bộ là khoảng trắng']/parent::*</value>
-      <webElementGuid>9d36031f-46ec-4d57-bf29-58e1a75e2a5e</webElementGuid>
+      <webElementGuid>f22a831c-0095-46dc-934e-ec96a1d0925d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,39 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>5b07b2bb-2226-4155-931a-6a1454935842</webElementGuid>
+      <webElementGuid>e6c7799e-9aca-4034-9792-420b733ade5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r1j:-form-item-message' and (text() = 'Địa chỉ không thể chứa toàn bộ là khoảng trắng' or . = 'Địa chỉ không thể chứa toàn bộ là khoảng trắng')]</value>
+      <webElementGuid>a5f9cb08-7dec-438e-bc7a-2112ae45f4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r1r:-form-item-message']</value>
+      <webElementGuid>1f19c10c-7463-4e41-82d7-733d1cae46f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = ':r1r:-form-item-message' and (text() = 'Địa chỉ không thể chứa toàn bộ là khoảng trắng' or . = 'Địa chỉ không thể chứa toàn bộ là khoảng trắng')]</value>
+      <webElementGuid>6bd7c388-a178-4be9-af67-5144ee9f8f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id=':r27:-form-item-message']</value>
+      <webElementGuid>bdc1345a-b061-4daa-a701-625ca077751c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -55,3 +55,5 @@ WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_T
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_a ch phi t 5 k t'), 'Địa chỉ phải từ 5 ký tự')
 
+WebUI.closeBrowser()
+

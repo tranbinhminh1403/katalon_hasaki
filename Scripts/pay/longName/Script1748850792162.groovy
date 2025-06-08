@@ -48,3 +48,5 @@ WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_T
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_H tn khng th cha ton b l khong trng'), 
     'Họ tên không thể dài hơn 128 ký tự')
 
+WebUI.closeBrowser()
+

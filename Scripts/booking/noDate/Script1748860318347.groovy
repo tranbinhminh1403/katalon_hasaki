@@ -45,3 +45,5 @@ WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/button
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/div_Vui lng chn thi gian t hn'), 'Vui lòng chọn thời gian đặt hẹn !')
 
+WebUI.closeBrowser()
+

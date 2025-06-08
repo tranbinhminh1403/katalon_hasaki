@@ -55,3 +55,5 @@ WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/svg_Cp n
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_Th ATM ni aInternet Banking (H tr Interne_e8be9c_1'), 
     'Thẻ ATM nội địa/Internet Banking (Hỗ trợ Internet Banking)')
 
+WebUI.closeBrowser()
+
