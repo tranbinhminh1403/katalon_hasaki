@@ -41,7 +41,7 @@ WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/
 
 WebUI.setText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/input_Thm a ch mi_telephone (1)'), '098563826482764824')
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Tip tc (1)'))
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Tip tc (6)'))
 
 WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_S in thoi khng hp l (1)'), 0)
 
