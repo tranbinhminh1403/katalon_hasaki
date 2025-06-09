@@ -23,16 +23,10 @@ WebUI.navigateToUrl('https://hasaki.vn/')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_Khng ng'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Toner_q'), 'sữa rửa mặt')
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Xem tt c_img_thumb lazy loaded'))
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_icon_search loading'))
-
-WebUI.click(findTestObject('Object Repository/Page_Mua Sa Ra Mt Chnh Hng 100 Ti Hasaki.vn_a74e85/img_Hin th 60_photo image img_thumb_sub loading'))
-
-WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/div_Cart plus iconGi hng'))
+WebUI.click(findTestObject('Object Repository/Page_Son Dng Mi DHC Khng Mu H Tr Gim Thm Mi_8ae398/div_Cart plus iconGi hng'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/p_ng nhp vi'), 
     'Đăng nhập với')
-
-WebUI.closeBrowser()
 

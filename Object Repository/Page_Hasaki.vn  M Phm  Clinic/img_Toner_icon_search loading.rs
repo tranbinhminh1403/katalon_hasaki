@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>1ec042b4-6d02-428c-8f86-9bec3ea2a14d</webElementGuid>
+      <webElementGuid>2e46a0f3-7835-49e5-8e65-63d44d08fc38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://hasaki.vn/v3/images/icons/search_icon.svg</value>
-      <webElementGuid>4dc2f04d-4bbf-44f7-825f-98b80e75e75c</webElementGuid>
+      <webElementGuid>abc43a62-5908-4228-a08c-62657fbe4043</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon_search loading</value>
-      <webElementGuid>5a46c121-8d05-4038-929d-250fecd14882</webElementGuid>
+      <webElementGuid>ac460ed8-1a64-40c1-b857-c279cbc13cd7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>22017f6d-1a16-47e2-b922-c6b9db7131f3</webElementGuid>
+      <webElementGuid>bd534d04-d290-4b06-8cfd-9f505a2c404b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search_mini_form&quot;)/div[@class=&quot;v3_block_search_header&quot;]/div[@class=&quot;relative width_common&quot;]/div[@class=&quot;v3_block_input_search width_common&quot;]/div[@class=&quot;actions&quot;]/button[@class=&quot;btn_submit_search&quot;]/img[@class=&quot;icon_search loading&quot;]</value>
-      <webElementGuid>48782868-c166-4e01-8071-61d06d0bccc5</webElementGuid>
+      <webElementGuid>3f589a03-71de-48e8-86dd-e2f8de85b739</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='search_mini_form']/div[2]/div/div/div[2]/button/img</value>
-      <webElementGuid>a3f70450-f727-4596-960a-8b966daa2455</webElementGuid>
+      <webElementGuid>9aed4d00-a14b-46e8-abe6-540625190c59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://hasaki.vn/v3/images/icons/search_icon.svg')]</value>
-      <webElementGuid>0a016644-d984-40ac-92f2-7a83a38a6f04</webElementGuid>
+      <webElementGuid>1bc8533b-a76f-4e30-bdf1-c8f20826453f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/img</value>
-      <webElementGuid>10cd1fe2-c4f7-4941-9b16-81075f5fe727</webElementGuid>
+      <webElementGuid>f3c5d497-50d0-47f1-9e71-4dd9cf5a8971</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://hasaki.vn/v3/images/icons/search_icon.svg']</value>
-      <webElementGuid>fe658380-2933-4d72-8381-73cfee653684</webElementGuid>
+      <webElementGuid>18f45c25-7343-4ca9-9bcb-01a6952a975c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

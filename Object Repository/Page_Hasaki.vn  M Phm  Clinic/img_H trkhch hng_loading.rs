@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>020fabe0-e46c-43cc-9fa8-77b4a496d4e4</webElementGuid>
+      <webElementGuid>8e75bb84-880b-4f58-b788-50a410fcfc98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://media.hcdn.vn/hsk/icon/icon_header__cart.png</value>
-      <webElementGuid>0e55fcc2-cbb8-4b70-b08f-8c3c37fc2acb</webElementGuid>
+      <webElementGuid>d1f987cf-fc2d-40a2-a9bf-c7d6fade8d83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>loading</value>
-      <webElementGuid>5b18c0b0-5227-43b9-8b92-aec8fed29a09</webElementGuid>
+      <webElementGuid>79a3f2e6-46a2-4229-8ed6-d365a72188d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>f17c049e-c202-4a52-8aee-9c03c10e3519</webElementGuid>
+      <webElementGuid>da709586-ab52-43e7-8bd4-6e4f2de230b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_header_giohang minicart-wrapper&quot;]/a[@class=&quot;icon_header relative&quot;]/div[1]/img[@class=&quot;loading&quot;]</value>
-      <webElementGuid>617481bd-7703-46a2-86bd-a96d3c95cc6c</webElementGuid>
+      <webElementGuid>3c5df716-87a1-434a-9d25-311bba82b1f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='v3_header']/div[2]/div[3]/div[5]/a/div/img</value>
-      <webElementGuid>f7beaeec-b2fd-4de5-a1e6-2face3a962c7</webElementGuid>
+      <webElementGuid>b55c7174-beb8-4014-8642-8d03bfceadff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://media.hcdn.vn/hsk/icon/icon_header__cart.png')]</value>
-      <webElementGuid>a3252b27-3c89-4d4f-9b90-9f31bbc947ce</webElementGuid>
+      <webElementGuid>26d384a2-3ab9-49c5-bd43-11fae227c1e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div/img</value>
-      <webElementGuid>2c21e97d-70be-4f9b-8258-6ac48cc8473f</webElementGuid>
+      <webElementGuid>5a165192-4c3a-410b-80ab-427551ab05fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://media.hcdn.vn/hsk/icon/icon_header__cart.png']</value>
-      <webElementGuid>001a7fd2-07cb-4cb7-8cde-52b36ff2f265</webElementGuid>
+      <webElementGuid>bf792eae-6ebf-4325-b033-0dba9973dede</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

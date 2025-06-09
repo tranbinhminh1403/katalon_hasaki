@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_334.000</name>
+   <tag></tag>
+   <elementGuidId>2d493e8b-8740-45d0-923f-b094f7094a75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='68459167037a3']/div/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong.item_giamoi.txt_16</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;334.000 ₫ 30% 475.000 ₫ CeraVe Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml Foaming Cleanser (97) | 1.663 88% Bill Cerave 349K Tặng Gối tốt nghiệp trị giá 200K (SL có hạn)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>8eb98fa2-5964-4cd0-bd2c-45c21fdf5a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item_giamoi txt_16</value>
+      <webElementGuid>a3d1130f-d1ac-4ecd-b80d-d8cc64df2863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>334.000 ₫</value>
+      <webElementGuid>06c79682-5255-432e-99fd-2e9f5e4ec989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;68459167037a3&quot;)/div[@class=&quot;width_common block_price space_bottom_3&quot;]/strong[@class=&quot;item_giamoi txt_16&quot;]</value>
+      <webElementGuid>81e55625-f93c-4cfc-936d-d2dedb783778</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='68459167037a3']/div/strong</value>
+      <webElementGuid>eab51060-6210-4ac8-ae9c-a559427f7267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tặng: Sữa Rửa Mặt CeraVe Sạch Sâu 30ml (SL có hạn)'])[1]/following::strong[1]</value>
+      <webElementGuid>41ddf4db-0b11-4044-839f-6e9f517af3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hiển thị 60'])[1]/following::strong[1]</value>
+      <webElementGuid>d350e9f2-26b9-4e47-950c-232ad7a3888e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CeraVe'])[3]/preceding::strong[1]</value>
+      <webElementGuid>39be458b-309c-4a5b-bbed-2b76387fc8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml'])[1]/preceding::strong[2]</value>
+      <webElementGuid>f31f10eb-9a71-4473-8371-9726929b5c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='334.000 ₫']/parent::*</value>
+      <webElementGuid>c87a5e54-a067-43fb-ac33-92bb91b15ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/strong</value>
+      <webElementGuid>c9788a41-3c47-41b6-ab7e-14029d007315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '334.000 ₫' or . = '334.000 ₫')]</value>
+      <webElementGuid>680a064a-7b9c-484b-b277-768ce5c91758</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

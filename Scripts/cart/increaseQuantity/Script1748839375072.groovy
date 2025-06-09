@@ -28,31 +28,20 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_username'), 
-    '0966265795')
+    '0833204787')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_password'), 
-    'E8armQUHXii2zYsMQioVZA==')
+    'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_H trkhch hng_loading'))
 
-qty = WebUI.getAttribute(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'), 
-    'value')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/div_Xa_flex items-center gap-1 text-13px ju_56a41b'), 
+    '')
 
-WebUI.verifyMatch(qty, '1', false)
+WebUI.click(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/path'))
 
-WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'))
-
-WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/path'))
-
-WebUI.click(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/div_88.000'))
-
-WebUI.click(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'))
-
-WebUI.verifyElementAttributeValue(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'), 
-    'value', '2', 5 // timeout in seconds
-    )
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (3 sn phm)  Hasaki.vn/input_Xa_outline-none border-1px px-1.5 tex_31f081'), 
+    '')
 

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>c8102f0c-f49e-4ac5-a67a-e2962f9ef2ec</webElementGuid>
+      <webElementGuid>e2029dd6-6027-4e57-87ba-a3efd2b56592</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>:r1h:-form-item-message</value>
-      <webElementGuid>4e38b217-184a-4148-b10c-06342d190692</webElementGuid>
+      <webElementGuid>60ce0f7e-6b9d-45b1-840f-58f18509a670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-[0.8rem] font-medium text-destructive</value>
-      <webElementGuid>227a012a-ee3d-409e-a57c-4e1274f6374b</webElementGuid>
+      <webElementGuid>f36c1f50-73be-41de-9bcc-9b7e5b7fc919</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Vui lòng điền số điện thoại</value>
-      <webElementGuid>09b19735-5b54-4add-b9b2-c6d50dc7bac7</webElementGuid>
+      <webElementGuid>32786e9d-f3bc-4eda-8f6d-a9595d61d2dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;:r1h:-form-item-message&quot;)</value>
-      <webElementGuid>a6007104-1fa2-4e79-9406-5505f8bab25e</webElementGuid>
+      <webElementGuid>cef53106-63d3-4923-8f35-a11580be464a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p[@id=':r1h:-form-item-message']</value>
-      <webElementGuid>b9e98df6-a8e6-4ad5-bb90-7c29d83f0906</webElementGuid>
+      <webElementGuid>751f1c21-dcba-4277-98ab-ded12c30c206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:ru:']/div/form/section/div/div/p</value>
-      <webElementGuid>7b53547c-250a-486e-bdf2-1a0a0d7fd862</webElementGuid>
+      <webElementGuid>df90dc9c-9baf-4506-9617-766c23c5767c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification Card Icon'])[1]/following::p[1]</value>
-      <webElementGuid>ae2203e6-12bf-4bf8-ad93-791edb05e188</webElementGuid>
+      <webElementGuid>51d80fb6-1ee5-4b0e-95d0-8e9afd7911e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm địa chỉ mới'])[2]/following::p[1]</value>
-      <webElementGuid>07917fcb-b49e-405e-9aba-2f680220a230</webElementGuid>
+      <webElementGuid>8fd613db-d65a-419f-a1ce-cb0ad8610632</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Caret Down Icon'])[1]/preceding::p[2]</value>
-      <webElementGuid>9600917b-9afe-4f18-bc4b-689055f04fe0</webElementGuid>
+      <webElementGuid>4162dbc6-b72f-4fe2-93ab-fe9c3f2ede6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Vui lòng điền số điện thoại']/parent::*</value>
-      <webElementGuid>3df96bd4-d09f-4235-aa1e-3fe30e349523</webElementGuid>
+      <webElementGuid>64413cc5-cca6-4446-890f-05e0a12d7373</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>b337b6ac-fa97-498d-996e-4339ec37c78c</webElementGuid>
+      <webElementGuid>30d4f539-6d0c-4669-bd88-0f9011057609</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[@id = ':r1h:-form-item-message' and (text() = 'Vui lòng điền số điện thoại' or . = 'Vui lòng điền số điện thoại')]</value>
-      <webElementGuid>e1ddd4ad-07b9-41b5-a2c6-d8452414e71e</webElementGuid>
+      <webElementGuid>e56168be-bb2d-4e86-9c28-6bdb7aa0921b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

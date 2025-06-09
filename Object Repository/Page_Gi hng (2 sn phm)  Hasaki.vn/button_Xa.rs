@@ -6,19 +6,19 @@
    <elementGuidId>d5663acd-6a7e-4d55-9d98-97795a8ba229</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist Icon'])[2]/following::button[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist Icon'])[1]/following::button[1]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Xóa&quot;i] >> nth=0</value>
+         <value>internal:role=button[name=&quot;Xóa&quot;i] >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a976a934-931f-4049-8a5e-b4ecec0ea247</webElementGuid>
+      <webElementGuid>47608b4d-8520-4492-b20c-0f465d30efee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center gap-1 text-[rgb(51,51,51)] hover:text-primary text-[13px]</value>
-      <webElementGuid>fbd4f4d0-00ae-4798-a62d-90b7079a73d4</webElementGuid>
+      <webElementGuid>90343f2c-6598-44cd-9eeb-086417ae1d16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Xóa</value>
-      <webElementGuid>234301c2-c492-4d17-b8b3-34605581eae9</webElementGuid>
+      <webElementGuid>9edcdd00-b25d-46e1-b7ab-3ab675dd7820</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,10 +53,34 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;min-h-screen bg-background font-sans antialiased __variable_d65c78&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col&quot;]/main[@class=&quot;h-full flex-1&quot;]/div[@class=&quot;min-h-screen w-full bg-white&quot;]/div[@class=&quot;max-w-[1400px] m-auto container&quot;]/main[@class=&quot;-mb-5&quot;]/div[@class=&quot;flex gap-5&quot;]/div[@class=&quot;w-[75%]&quot;]/table[@class=&quot;w-full text-[13px]&quot;]/tbody[1]/tr[@class=&quot;[&amp;>td]:px-[15px] [&amp;>td]:pt-2.5 [&amp;>td]:pb-5 border-b border-b-[#f1f1f5]&quot;]/td[@class=&quot;w-[50%]&quot;]/div[@class=&quot;flex gap-2.5&quot;]/div[@class=&quot;w-full&quot;]/div[1]/div[@class=&quot;flex items-center gap-5 mt-[5px]&quot;]/button[@class=&quot;flex items-center gap-1 text-[rgb(51,51,51)] hover:text-primary text-[13px]&quot;]</value>
-      <webElementGuid>d30bac2f-b2c8-45bf-8d9d-a1c8a0566bf1</webElementGuid>
+      <webElementGuid>3f029932-724e-4636-a90b-924b55ab9233</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist Icon'])[2]/following::button[1]</value>
+      <webElementGuid>c8a39c55-00a7-4180-a80a-2481620d5866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>6fe5f4c2-893b-4ccc-82d8-410384adab1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Xóa' or . = 'Xóa')]</value>
+      <webElementGuid>8ccd5756-2e62-4fdc-a059-9b03aa5b49f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
@@ -94,13 +118,5 @@
       <type>Main</type>
       <value>//div/div[2]/button[2]</value>
       <webElementGuid>e29306e2-6146-463c-8fdf-d552b950e5d1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[(text() = 'Xóa' or . = 'Xóa')]</value>
-      <webElementGuid>da7eb490-9e2b-49fc-92e2-030661c8ce90</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

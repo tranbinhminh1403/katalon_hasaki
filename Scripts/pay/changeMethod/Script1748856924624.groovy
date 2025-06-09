@@ -21,39 +21,35 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://hasaki.vn/')
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_Khng ng'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_Khng ng (15)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_loaded'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_loading (3)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp (14)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_username'), 
-    '0966265795')
+WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_username (14)'), 
+    '0833204787')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_password'), 
-    'E8armQUHXii2zYsMQioVZA==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_password (14)'), 
+    'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp (14)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_H trkhch hng_loading'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_H trkhch hng_loading (14)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/button_Tin hnh t hng'))
+WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/button_Tin hnh t hng (14)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/h2_Hnh thc thanh ton'), 'Hình thức thanh toán')
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Thay i (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Thay i'))
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_Th ATM ni aInternet Banking (H tr Interne_e8be9c (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_Th ATM ni aInternet Banking (H tr Interne_e8be9c'))
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Tip tc (12)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Tip tc'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/div_Cp nht hnh thc thanh ton thnh cng'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/div_Cp nht hnh thc thanh ton thnh cng (1)'), 
     'Cập nhật hình thức thanh toán thành công')
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/svg_Cp nht hnh thc thanh ton thnh cng_h-4 w-4'))
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/path'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_Th ATM ni aInternet Banking (H tr Interne_e8be9c_1'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_Th ATM ni aInternet Banking (H tr Interne_e8be9c_1 (1)'), 
     'Thẻ ATM nội địa/Internet Banking (Hỗ trợ Internet Banking)')
-
-WebUI.closeBrowser()
 

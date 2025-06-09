@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>dd6a059b-43f1-40b1-8430-9e43bec44e38</webElementGuid>
+      <webElementGuid>5ac56981-991d-431b-b9c1-8af27c71fb41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>photo image img_thumb_sub loading</value>
-      <webElementGuid>08c82dc4-d28a-4dcf-86db-10b8430fac47</webElementGuid>
+      <webElementGuid>327e19dd-1c6a-440c-b086-f811044d2e51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://media.hcdn.vn/catalog/product/f/a/facebook-dynamic-sua-rua-mat-cerave-sach-sau-cho-da-thuong-den-da-dau-473ml-1741158164_img_300x300_b798dd_fit_center.jpg</value>
-      <webElementGuid>27327240-5370-47cd-b05d-05ccc3edae22</webElementGuid>
+      <webElementGuid>a278f407-7123-4fe9-9cb6-611cdad52f18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>261e9b3e-7a96-45f9-aee0-93c98d7815fb</webElementGuid>
+      <webElementGuid>0107718b-bee9-49bb-8d32-8fbeb066bd28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;list_sp_col_right&quot;)/div[@class=&quot;ProductGrid__grid width_common&quot;]/div[@class=&quot;ProductGridItem__itemOuter&quot;]/div[@class=&quot;item_sp_hasaki width_common relative&quot;]/a[@class=&quot;v3_thumb_common_sp relative&quot;]/img[@class=&quot;photo image img_thumb_sub loading&quot;]</value>
-      <webElementGuid>c2db3efe-13d5-402d-b29c-691dcb9292c5</webElementGuid>
+      <webElementGuid>b81ba399-e166-4c8b-bab5-751064c0db27</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='list_sp_col_right']/div[5]/div/div/a/img[2]</value>
-      <webElementGuid>3c08f260-bf4e-4fd3-9d1f-2c389291de99</webElementGuid>
+      <webElementGuid>b4aa1d06-8ae5-4337-a25b-619a0cee0bd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://media.hcdn.vn/catalog/product/f/a/facebook-dynamic-sua-rua-mat-cerave-sach-sau-cho-da-thuong-den-da-dau-473ml-1741158164_img_300x300_b798dd_fit_center.jpg')]</value>
-      <webElementGuid>f2dda42c-3cd5-4139-833c-b43aa08d5173</webElementGuid>
+      <webElementGuid>aff085ff-c3ea-49b3-9288-28eb0506b357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/img[2]</value>
-      <webElementGuid>6c2adceb-9cb0-4051-b7d1-c24f3afc0bb5</webElementGuid>
+      <webElementGuid>7d83825f-9f82-43a9-8a53-aec2835afdd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://media.hcdn.vn/catalog/product/f/a/facebook-dynamic-sua-rua-mat-cerave-sach-sau-cho-da-thuong-den-da-dau-473ml-1741158164_img_300x300_b798dd_fit_center.jpg']</value>
-      <webElementGuid>fcea06fc-a527-4045-a9ca-bbcd6ca1c99b</webElementGuid>
+      <webElementGuid>ee63d6c9-f3a5-4db7-8b51-802a8b59d3d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

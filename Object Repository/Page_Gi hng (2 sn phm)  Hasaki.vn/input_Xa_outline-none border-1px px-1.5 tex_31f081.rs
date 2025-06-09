@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='2']</value>
+         <value>//input[@value='1']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=cell[name=&quot;Increase btn Descrease btn&quot;i] >> internal:role=textbox</value>
+         <value>internal:role=row[name=&quot;Dầu Gội Khô Girlz Only Tóc Bồng Bềnh Tức Thì 200ml Go brand page Dầu Gội Khô Girlz Only Tóc Bồng Bềnh Tức Thì 200ml Wishlist Button Xóa 88.000 ₫ 190.000 ₫ Increase btn Descrease btn 88.000 ₫&quot;i] >> internal:role=textbox</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0e43aea6-d2a7-4d53-a14e-94e62f427b6c</webElementGuid>
+      <webElementGuid>7da460f7-837e-4fb6-9683-54627394195b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>outline-none border-[1px] px-1.5 text-xs appearance-none w-[52px] h-[28px] bg-[#f3f3f3] rounded-[2px]</value>
-      <webElementGuid>da360e19-4065-419e-9a7f-b5f8349dff02</webElementGuid>
+      <webElementGuid>f2fe84e6-ae2d-42a0-856e-48acaaec6478</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bde6d934-79a6-43c4-980b-b30c16e358f2</webElementGuid>
+      <webElementGuid>f5489b3f-a80a-4d57-9c44-a9f12adb34da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>2</value>
-      <webElementGuid>a5decf88-f3fd-4fcf-ad20-923043a15bf1</webElementGuid>
+      <value>1</value>
+      <webElementGuid>b05a3334-1882-4684-a2e4-c1e6868883b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,15 +61,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;min-h-screen bg-background font-sans antialiased __variable_d65c78&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col&quot;]/main[@class=&quot;h-full flex-1&quot;]/div[@class=&quot;min-h-screen w-full bg-white&quot;]/div[@class=&quot;max-w-[1400px] m-auto container&quot;]/main[@class=&quot;-mb-5&quot;]/div[@class=&quot;flex gap-5&quot;]/div[@class=&quot;w-[75%]&quot;]/table[@class=&quot;w-full text-[13px]&quot;]/tbody[1]/tr[@class=&quot;[&amp;>td]:px-[15px] [&amp;>td]:pt-2.5 [&amp;>td]:pb-5 border-b border-b-[#f1f1f5]&quot;]/td[@class=&quot;text-right&quot;]/div[@class=&quot;flex items-center gap-1 text-[13px] justify-end&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;outline-none border-[1px] px-1.5 text-xs appearance-none w-[52px] h-[28px] bg-[#f3f3f3] rounded-[2px]&quot;]</value>
-      <webElementGuid>598ec872-ee65-4eec-8e8a-23b155fa2a70</webElementGuid>
+      <webElementGuid>aac791fc-d7c4-457c-8331-577a16b6f7e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='2']</value>
-      <webElementGuid>e87f3327-1e98-4c45-b78d-b590f59bfc45</webElementGuid>
+      <value>//input[@value='1']</value>
+      <webElementGuid>3c78d8b2-79ad-4879-80b3-3b5901b236d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>92c08f43-5f87-447b-8201-b05a68f506f1</webElementGuid>
+      <webElementGuid>209cd619-e6aa-4289-b43e-922e07881dad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text']</value>
-      <webElementGuid>9d3b736b-357a-4cc1-9790-c7636bcfda4c</webElementGuid>
+      <webElementGuid>39d9964d-dcd9-4e37-a77c-c7c2056d7d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='2']</value>
+      <webElementGuid>e87f3327-1e98-4c45-b78d-b590f59bfc45</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

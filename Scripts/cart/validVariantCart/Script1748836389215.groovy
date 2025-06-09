@@ -23,36 +23,35 @@ WebUI.navigateToUrl('https://hasaki.vn/')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_Khng ng'))
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_loaded'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_loading'))
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_username'), 
-    '0966265795')
+    '0833204787')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_password'), 
-    'E8armQUHXii2zYsMQioVZA==')
+    'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Toner_q'), 'dầu gội khô')
+WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Toner_q'), 'Nước tẩy trang')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_icon_search loading'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mua Du Gi Kh Chnh Hng 100 Ti Hasaki.vn_fccb9c/strong_Girlz Only'))
+WebUI.click(findTestObject('Object Repository/Page_Mua Nc Ty Trang Mt Chnh Hng 100 Gia Tt_646436/img_Hin th 60_photo image img_thumb_sub loading'))
 
-WebUI.click(findTestObject('Object Repository/Page_Du Gi Kh Girlz Only Tc Bng Bnh Tc Th 2_79639b/img_Nu_m-auto rounded-2px'))
+WebUI.click(findTestObject('Object Repository/Page_Combo 2 Nc Ty Trang B ao Cocoon Lm Sch_17cd7b/a_140ml'))
 
-WebUI.click(findTestObject('Object Repository/Page_Du Gi Kh Girlz Only Cho Tc Nu, Ti Mu 2_53b6a0/div_Cart plus iconGi hng'))
+WebUI.click(findTestObject('Object Repository/Page_Nc Ty Trang Cocoon B ao Lm Sch  Gim Du_5fec36/div_Cart plus iconGi hng'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Du Gi Kh Girlz Only Cho Tc Nu, Ti Mu 2_53b6a0/div_Sn Phm  c thm vo gi hng thnh cng'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Nc Ty Trang Cocoon B ao Lm Sch  Gim Du_5fec36/div_Sn Phm  c thm vo gi hng thnh cng'), 
     'Sản Phẩm đã được thêm vào giỏ hàng thành công')
 
-WebUI.click(findTestObject('Object Repository/Page_Du Gi Kh Girlz Only Cho Tc Nu, Ti Mu 2_53b6a0/path'))
+WebUI.click(findTestObject('Object Repository/Page_Nc Ty Trang Cocoon B ao Lm Sch  Gim Du_5fec36/svg_Sn Phm  c thm vo gi hng thnh cng_h-4 w-4'))
 
-WebUI.click(findTestObject('Object Repository/Page_Du Gi Kh Girlz Only Cho Tc Nu, Ti Mu 2_53b6a0/path'))
+WebUI.click(findTestObject('Object Repository/Page_Nc Ty Trang Cocoon B ao Lm Sch  Gim Du_5fec36/svg'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/a_Girlz Only'), 'Girlz Only')
-
-WebUI.closeBrowser()
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (3 sn phm)  Hasaki.vn/a_Nc Ty Trang Cocoon B ao Lm Sch  Gim Du 140ml'), 
+    'Nước Tẩy Trang Cocoon Bí Đao Làm Sạch & Giảm Dầu 140ml')
 

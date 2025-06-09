@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Hin th 60_photo image img_thumb_sub loading</name>
+   <tag></tag>
+   <elementGuidId>816ddb53-95ee-47f7-98dc-0fe7571e4abe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list_sp_col_right']/div[5]/div/div/a/img[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.photo.image.img_thumb_sub.loading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.v3_thumb_common_sp >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>148e6d01-1163-4866-8ce8-8f20914d7fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>photo image img_thumb_sub loading</value>
+      <webElementGuid>807367fb-01be-44a3-9859-74d6fb1105b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.hcdn.vn/catalog/product/certificate/Cocoon-giay-chung-nhan-dai-ly-chinh-hang-20251747625582_img_300x300_b798dd_fit_center.jpg</value>
+      <webElementGuid>f1060e7f-c46b-48fd-bbad-9447c694f782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hình giấy chứng nhận đại lý</value>
+      <webElementGuid>4cbb5e84-c5e2-40be-b25b-81dff0329d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-was-processed</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8dd92f9e-72f6-4ce3-8882-dbbab1f6aab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list_sp_col_right&quot;)/div[@class=&quot;ProductGrid__grid width_common&quot;]/div[@class=&quot;ProductGridItem__itemOuter&quot;]/div[@class=&quot;item_sp_hasaki width_common relative&quot;]/a[@class=&quot;v3_thumb_common_sp relative&quot;]/img[@class=&quot;photo image img_thumb_sub loading&quot;]</value>
+      <webElementGuid>7a491744-05e9-4a91-aa78-7c372a36e328</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list_sp_col_right']/div[5]/div/div/a/img[2]</value>
+      <webElementGuid>1b58e636-9e6d-49f0-bb5b-903c99b2e695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Hình giấy chứng nhận đại lý']</value>
+      <webElementGuid>78eb9c41-63f6-4044-9c64-f433f7806c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img[2]</value>
+      <webElementGuid>abdee316-8305-4091-bc4a-7b84bcdabdcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.hcdn.vn/catalog/product/certificate/Cocoon-giay-chung-nhan-dai-ly-chinh-hang-20251747625582_img_300x300_b798dd_fit_center.jpg' and @alt = 'Hình giấy chứng nhận đại lý']</value>
+      <webElementGuid>71c91efa-033d-4494-86d0-55c340420033</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

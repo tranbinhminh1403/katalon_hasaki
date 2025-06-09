@@ -28,16 +28,20 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_username'), 
-    '0966265795')
+    '0833204787')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_password'), 
-    'E8armQUHXii2zYsMQioVZA==')
+    'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_H trkhch hng_loading'))
 
-WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/button_Xa'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/a_Sa Ra Mt CeraVe Sch Su Cho Da Thng n Da Du 473ml'), 
+    'Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml')
 
-WebUI.verifyElementNotVisible(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/a_Girlz Only'))
+WebUI.click(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/button_Xa'))
+
+WebUI.verifyElementNotPresent(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/a_Sa Ra Mt CeraVe Sch Su Cho Da Thng n Da Du 473ml'), 
+    0)
 

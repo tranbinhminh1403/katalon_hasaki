@@ -28,10 +28,10 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_username'), 
-    '0966265795')
+    '0833204787')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_password'), 
-    'E8armQUHXii2zYsMQioVZA==')
+    'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
 
@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_
 
 WebUI.click(findTestObject('Object Repository/Page_Son Dng Mi DHC Khng Mu H Tr Gim Thm Mi_8ae398/div_Cart plus iconGi hng'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Son Dng Mi DHC Khng Mu H Tr Gim Thm Mi_8ae398/div_Sn Phm  c thm vo gi hng thnh cng'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Nc Ty Trang Cocoon B ao Lm Sch  Gim Du_5fec36/div_Sn Phm  c thm vo gi hng thnh cng'), 
     'Sản Phẩm đã được thêm vào giỏ hàng thành công')
 
 WebUI.closeBrowser()
