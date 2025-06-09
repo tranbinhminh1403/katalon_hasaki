@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ng nhp</name>
+   <name>div_Thng tin ti khon</name>
    <tag></tag>
-   <elementGuidId>e0bb78c1-18af-450f-8369-b7d1d0c25a5f</elementGuidId>
+   <elementGuidId>6c51a324-1cc9-4a7b-b58f-e2d05f46a9fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//form[@id='form-head-login']/button</value>
+         <value>//form[@id='form-account']/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn_site_1</value>
+         <value>div.title_profile_page</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Đăng nhập&quot;i]</value>
+         <value>#form-account >> internal:text=&quot;Thông tin tài khoản&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>8efccce3-409b-4574-b78e-82d217e88aec</webElementGuid>
+      <value>div</value>
+      <webElementGuid>9260f07f-e9aa-4d2b-96ca-3fe1f7115814</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn_site_1</value>
-      <webElementGuid>430341ab-76d0-4f19-8611-2665558544d7</webElementGuid>
+      <value>title_profile_page</value>
+      <webElementGuid>371ebea1-bb81-4802-8135-60fff93f09e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
-      <webElementGuid>006a8351-c652-4ba8-9adf-c3d3b03920a1</webElementGuid>
+      <value>Thông tin tài khoản</value>
+      <webElementGuid>0aadf3be-b796-4d4a-8970-6befc21f6a7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form-head-login&quot;)/button[@class=&quot;btn btn_site_1&quot;]</value>
-      <webElementGuid>4af09311-b1ac-4a12-91fd-0786966f9903</webElementGuid>
+      <value>id(&quot;form-account&quot;)/div[@class=&quot;title_profile_page&quot;]</value>
+      <webElementGuid>20aea76f-c20c-41ca-b2d1-171f9be65101</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form-head-login']/button</value>
-      <webElementGuid>16a07733-5434-4fa2-918b-5221d65bc945</webElementGuid>
+      <value>//form[@id='form-account']/div</value>
+      <webElementGuid>d7283e3d-dced-4cf6-8779-78b70f3c85d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu'])[1]/following::button[1]</value>
-      <webElementGuid>c37d6629-5653-46df-867a-6a280a70f6ee</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hỏi đáp'])[1]/following::div[8]</value>
+      <webElementGuid>acadaa6c-7f8a-40cc-9b0d-fd1827940549</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký ngay'])[1]/preceding::button[1]</value>
-      <webElementGuid>07527304-e529-4c51-9e48-c826aae97c70</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua lại'])[1]/following::div[8]</value>
+      <webElementGuid>36af819c-a068-4c3a-897a-ab70f4c9f367</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kem Chống Nắng'])[1]/preceding::button[2]</value>
-      <webElementGuid>031c99e9-e795-497c-ac5f-7396db5308f1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tải ảnh của bạn'])[1]/preceding::div[2]</value>
+      <webElementGuid>7609ae11-4970-47a9-adec-ced9eeaa6eb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>c80bbecf-a225-4afd-a004-70626838d8ee</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tên không được bỏ trống'])[1]/preceding::div[5]</value>
+      <webElementGuid>7887cac2-5a10-4c6c-88ce-3bd02a84d784</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/button</value>
-      <webElementGuid>be55c46d-57b8-4189-a006-26838ed6232f</webElementGuid>
+      <value>//div/div/div/div/form/div</value>
+      <webElementGuid>090dd87b-9d46-4b23-90a9-cf32b9c12ff3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>36bfed40-c14e-4f02-a087-7ebe4fb8100a</webElementGuid>
+      <value>//div[(text() = 'Thông tin tài khoản' or . = 'Thông tin tài khoản')]</value>
+      <webElementGuid>c42e28c0-528a-4b9d-b1d4-37afab885be6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

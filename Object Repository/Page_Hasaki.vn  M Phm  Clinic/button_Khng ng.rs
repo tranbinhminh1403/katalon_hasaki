@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>083a82e7-7fd5-4f83-a950-eecc4711a4fa</webElementGuid>
+      <webElementGuid>a2e0e349-0a0f-4448-8feb-5f58b42e4869</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>align-right secondary slidedown-button</value>
-      <webElementGuid>4c39e7de-9592-41b0-8504-c49dd8b275ae</webElementGuid>
+      <webElementGuid>e2e4e1e6-8cb4-43d0-9aed-6e2ea34fbdce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>onesignal-slidedown-cancel-button</value>
-      <webElementGuid>8524416b-d254-4124-9576-d23f263e9392</webElementGuid>
+      <webElementGuid>1fc2fadd-df6c-4f8a-8a1a-16b44dec27d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Không đồng ý</value>
-      <webElementGuid>f04bdbf4-3c38-4641-9f76-57eb505ad2f5</webElementGuid>
+      <webElementGuid>a5427974-2d00-4e2c-821e-e8626f9daa4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;onesignal-slidedown-cancel-button&quot;)</value>
-      <webElementGuid>b7395d8b-e4b9-4043-a31f-91f69f317546</webElementGuid>
+      <webElementGuid>bae4f9cc-a4ab-4fe0-8bff-ebdf6ea1839a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='onesignal-slidedown-cancel-button']</value>
-      <webElementGuid>6bed091a-5963-4e4a-813f-73834dfc32ac</webElementGuid>
+      <webElementGuid>c6f981b7-c47a-4572-9b4a-f8a9d412d54f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='slidedown-footer']/button[2]</value>
-      <webElementGuid>a351db47-eb5a-4d30-83ca-6ccf8c9b73c1</webElementGuid>
+      <webElementGuid>b8b2845a-6539-4dc3-a244-79504c2060e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đồng Ý'])[1]/following::button[1]</value>
-      <webElementGuid>f6fe50ff-83b3-449b-870b-da4231f07e4a</webElementGuid>
+      <webElementGuid>2c638c8b-9b7e-4f43-9467-499feb53d4e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Click vào Đồng Ý để nhận thông tin khuyến mãi nhanh nhất từ Hasaki'])[1]/following::button[2]</value>
-      <webElementGuid>a3535329-2c4f-4bcd-9861-58ba7717f706</webElementGuid>
+      <webElementGuid>651a6c47-c7a0-43f9-8b61-c3fbf8166456</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Không đồng ý']/parent::*</value>
-      <webElementGuid>092464c9-1607-4f38-a022-14c87b0fb44d</webElementGuid>
+      <webElementGuid>3d4bbcc1-7228-4b3f-b404-1646608df1e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button[2]</value>
-      <webElementGuid>b8946fdd-f093-4953-b872-18af3f7a97a1</webElementGuid>
+      <webElementGuid>8e3a0f55-be7e-45a9-83d6-dd09a71bdbf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'onesignal-slidedown-cancel-button' and (text() = 'Không đồng ý' or . = 'Không đồng ý')]</value>
-      <webElementGuid>b4fcdc4b-02f0-42e3-bb06-0db043ff34fd</webElementGuid>
+      <webElementGuid>e97a0432-4a1d-47ed-ae0f-ee65e6a9b757</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

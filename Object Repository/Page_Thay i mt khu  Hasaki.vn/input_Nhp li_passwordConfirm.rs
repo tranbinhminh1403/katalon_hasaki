@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Hoc ng nhp vi Hasaki.vn_username</name>
+   <name>input_Nhp li_passwordConfirm</name>
    <tag></tag>
-   <elementGuidId>3ba105fb-8910-4107-b95f-36de57fc32af</elementGuidId>
+   <elementGuidId>429b4c52-6d08-41b4-b89d-5cdd86756696</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//input[@id='passwordConfirm']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>#passwordConfirm</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=textbox[name=&quot;Nhập email hoặc số điện thoại&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Nhập lại mật khẩu mới&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6a81570a-13e6-4dd4-8026-6a256342181d</webElementGuid>
+      <webElementGuid>83c108e4-5f9d-4a35-a18e-326efcbe009c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>84bebb38-5aed-400e-9b8f-0019a22c70b8</webElementGuid>
+      <value>password</value>
+      <webElementGuid>92cab40f-ddf8-40cf-9285-aad9f6d859bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,70 +45,70 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>093c8789-4568-4de6-8725-59f909b5cfd5</webElementGuid>
+      <webElementGuid>70707294-fc5c-4fcb-93e1-ebf0b278813f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>9c8ba331-5512-4add-a9b1-940fc730208b</webElementGuid>
+      <value>passwordConfirm</value>
+      <webElementGuid>590e503e-7fc6-4ece-a73a-829f11f64a64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>34bb9f22-98ab-44e3-9b19-33fbc8c1cfdc</webElementGuid>
+      <value>passwordConfirm</value>
+      <webElementGuid>5022c77b-12ff-48ff-a06c-c7820cc16481</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Nhập email hoặc số điện thoại</value>
-      <webElementGuid>f820dc61-1424-4bb8-b1e5-ee9b298c8ea8</webElementGuid>
+      <value>Nhập lại mật khẩu mới</value>
+      <webElementGuid>68240eb5-644a-4b8d-85f7-41ca0ed2dc43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>44e0d460-f7d8-41e1-97ea-0e2f1ae3872c</webElementGuid>
+      <value>id(&quot;passwordConfirm&quot;)</value>
+      <webElementGuid>b4dddc2b-6489-46ef-ae9a-04111d68e80d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>1356628b-c5e3-46bc-8c76-022b3d929d8f</webElementGuid>
+      <value>//input[@id='passwordConfirm']</value>
+      <webElementGuid>8160f659-b7b9-4b5d-ab98-65716e549c3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form-head-login']/div[3]/div/input</value>
-      <webElementGuid>32605c8f-b729-421a-82e0-b3712d3e7d08</webElementGuid>
+      <value>//form[@id='form-account']/div[2]/div/div[3]/input</value>
+      <webElementGuid>4ed37b6e-731c-43b9-8cf8-49c762193d2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>e8c966d6-4e32-4d96-b148-b1b118589109</webElementGuid>
+      <value>//div[3]/input</value>
+      <webElementGuid>4689bf4c-e43b-4420-90ad-6afbebd7e014</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username' and @name = 'username' and @placeholder = 'Nhập email hoặc số điện thoại']</value>
-      <webElementGuid>7f3b61ab-cc5d-415d-9cba-cd56e94ee9f8</webElementGuid>
+      <value>//input[@type = 'password' and @id = 'passwordConfirm' and @name = 'passwordConfirm' and @placeholder = 'Nhập lại mật khẩu mới']</value>
+      <webElementGuid>81231201-8110-404b-9a0e-d56c3d683148</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
