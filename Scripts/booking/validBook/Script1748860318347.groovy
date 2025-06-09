@@ -23,32 +23,28 @@ WebUI.navigateToUrl('https://hasaki.vn/')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_Khng ng'))
 
-WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_loading'))
+WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_loaded'))
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_username'), 
-    '0966265795')
+    '0833204787')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_password'), 
-    'E8armQUHXii2zYsMQioVZA==')
+    'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Mua L C Qu_lazy loaded'))
 
-WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/img_Chi nhnh 1_loaded'))
+WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/span_Chi nhnh 2_status_chosen'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/input__service_note'), 'Chăm sóc da')
+WebUI.setText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/input__service_note'), 'chăm sóc da')
 
-WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/div_Th 2'))
-
-WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/div_1700'))
+WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/div_1600'))
 
 WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/button_t hn'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Booking thnh cng  Hasaki.vn/div_Cm n qu khch  t hn ti Hasaki.vn'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Booking thnh cng  Hasaki.vn/div_Cm n qu khch  t hn ti Hasaki.vn'),
     'Cảm ơn quý khách đã đặt hẹn tại Hasaki.vn!')
-
-WebUI.closeBrowser()
 

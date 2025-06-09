@@ -28,10 +28,10 @@ WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/a_ng nhp'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_username'), 
-    '0966265795')
+    '0833204787')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/input_Hoc ng nhp vi Hasaki.vn_password'), 
-    'E8armQUHXii2zYsMQioVZA==')
+    'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/button_ng nhp'))
 
@@ -44,6 +44,4 @@ WebUI.setText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/inpu
 WebUI.click(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/button_t hn'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Booking SPA  Hasaki.vn/div_Vui lng nhp h tn_1'), 'Vui lòng nhập họ tên !')
-
-WebUI.closeBrowser()
 

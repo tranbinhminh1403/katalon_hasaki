@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Chi nhnh 2_status_chosen</name>
+   <tag></tag>
+   <elementGuidId>98b14027-da65-4c59-b9a5-438aa737c134</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block_input_chinhanh']/div[2]/div[2]/ul/li[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > div.item_chinhanh > span.status_chosen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Chi nhánh 2 555 Đường 3 Tháng 2, P.8, Q.10, TP.HCM&quot;i >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b10f0703-63f7-4c23-852b-a2fcfe5f9af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status_chosen</value>
+      <webElementGuid>a6fb896b-90be-47fd-a977-b74c3a23092c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block_input_chinhanh&quot;)/div[@class=&quot;list_chinhanh flexslider width_common space_bottom_10&quot;]/div[@class=&quot;flex-viewport&quot;]/ul[@class=&quot;slides&quot;]/li[2]/div[@class=&quot;item_chinhanh&quot;]/span[@class=&quot;status_chosen&quot;]</value>
+      <webElementGuid>22de2223-edc9-41e9-9e09-caf12d16983f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_input_chinhanh']/div[2]/div[2]/ul/li[2]/div/span</value>
+      <webElementGuid>6951110f-065f-40e2-9498-8248f4c6a7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/span</value>
+      <webElementGuid>7a8afa79-ad39-4cf3-8ba7-91fffa6f906f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

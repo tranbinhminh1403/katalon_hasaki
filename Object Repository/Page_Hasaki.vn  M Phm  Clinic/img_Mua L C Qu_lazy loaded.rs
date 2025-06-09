@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>a177efdb-b8ca-4d9c-bbcb-543d100037b4</webElementGuid>
+      <webElementGuid>c6d4b6d6-92f8-4c17-a04f-e6f939c487e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>onerror</name>
       <type>Main</type>
       <value>imgError(this)</value>
-      <webElementGuid>75c04a1b-9caa-4189-9431-9d5b1c11ce4b</webElementGuid>
+      <webElementGuid>f6cff78e-072c-4363-9d56-4bde709298bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>lazy loaded</value>
-      <webElementGuid>32921afc-d34b-48be-9277-8037bfeb1ac6</webElementGuid>
+      <webElementGuid>d470dc84-55d3-4a0d-8167-230dcbf80c23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://media.hcdn.vn/hsk/icon/hasaki-dat-hen.png</value>
-      <webElementGuid>e787f653-9f4b-4c7c-b0b8-610f631ad417</webElementGuid>
+      <webElementGuid>7c4b92ea-2ce2-4100-be7a-3c8b47352bbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-src</name>
       <type>Main</type>
       <value>https://media.hcdn.vn/hsk/icon/hasaki-dat-hen.png</value>
-      <webElementGuid>17ed97c6-ed05-4e2d-bebf-428460d880c1</webElementGuid>
+      <webElementGuid>eebf416b-ebe1-4129-8993-0d93582dbc24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0489f839-9501-46c7-a78c-d82344089172</webElementGuid>
+      <webElementGuid>0cee02e3-fdd4-4c2c-84b4-1af107e05bf2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;box_icon_category&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;list_category_top&quot;]/div[@class=&quot;item_category_top item_category_top_6&quot;]/a[1]/span[@class=&quot;icon_lam_category_top&quot;]/img[@class=&quot;lazy loaded&quot;]</value>
-      <webElementGuid>a4380037-5dd1-47e1-880e-478cceb3d109</webElementGuid>
+      <webElementGuid>064efcc7-adec-45c0-8bc0-53370ee31b85</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='box_icon_category']/div/div/div[7]/a/span/img</value>
-      <webElementGuid>9f3fc5cf-5977-4bb9-b605-ab1e2d1b5018</webElementGuid>
+      <webElementGuid>a0ede25a-646b-460c-8646-50ae2852a1a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://media.hcdn.vn/hsk/icon/hasaki-dat-hen.png')]</value>
-      <webElementGuid>7dcf1c7c-cdc8-4dbe-804f-ee6aa94a1c5e</webElementGuid>
+      <webElementGuid>6f8de8c8-8d19-423b-8293-81c555bf364f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/a/span/img</value>
-      <webElementGuid>9de3ac5f-e3b2-4401-8915-a6cf9d6e1c05</webElementGuid>
+      <webElementGuid>532bd10f-35fc-46ff-bcff-3eb46a49d278</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://media.hcdn.vn/hsk/icon/hasaki-dat-hen.png']</value>
-      <webElementGuid>31487e97-4cf7-4d61-a2b4-d878a355481d</webElementGuid>
+      <webElementGuid>2d78b74d-87ec-4484-af95-0ecf5cfea642</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

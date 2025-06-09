@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>img_Toner_loaded</name>
+   <name>img__loaded</name>
    <tag></tag>
-   <elementGuidId>58dcfead-04a0-4f8f-bae3-22ed8cc41bdb</elementGuidId>
+   <elementGuidId>b0c744d5-3c35-40b7-8e6c-dcb59a59570c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='v3_header']/div[2]/div[3]/div/a/img</value>
+         <value>//div[@id='block_input_chinhanh']/div[2]/div[2]/ul/li/div/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>img.loaded</value>
+         <value>div.thumb_chinhanh > img.loaded</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>.icon_header >> nth=0</value>
+         <value>li >> internal:has-text=&quot;Chi nhánh 1 71 Hoàng Hoa Thám, P.13, Q.Tân Bình, TP.HCM&quot;i >> internal:role=img</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>f272e60d-125c-47cb-b6a4-ab70ca9a7166</webElementGuid>
+      <webElementGuid>17f97e65-86d8-4f95-ace3-812fb15e1728</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://media.hcdn.vn/hsk/icon/icon_header__login.png</value>
-      <webElementGuid>f96f1e85-fc86-4904-8275-6c1b2cbbdfbf</webElementGuid>
+      <value>/images/71-Hoang-Hoa-Tham.jpg</value>
+      <webElementGuid>4314a83b-5351-4fcd-aef9-bf7d995a21b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>loaded</value>
-      <webElementGuid>bdfcfbae-0066-4ea3-a4ec-9d21c47c8441</webElementGuid>
+      <webElementGuid>2b0920e1-c30c-4ad3-8e2d-efb5f065624c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,46 +53,46 @@
       <name>data-was-processed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>71f27e7d-4851-4e67-adb6-a8e62a8a5453</webElementGuid>
+      <webElementGuid>ec528cb5-ae18-4f39-aed2-6bbbd093eb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0c58389d-1d52-48ad-9657-9585d48c2e01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;v3_header&quot;)/div[@class=&quot;container relative&quot;]/div[@class=&quot;v4_inf_right_header&quot;]/div[@class=&quot;item_header item_login&quot;]/a[@class=&quot;icon_header&quot;]/img[@class=&quot;loaded&quot;]</value>
-      <webElementGuid>fd47ba42-0f2b-4685-9320-7649475ce546</webElementGuid>
+      <value>id(&quot;block_input_chinhanh&quot;)/div[@class=&quot;list_chinhanh flexslider width_common space_bottom_10&quot;]/div[@class=&quot;flex-viewport&quot;]/ul[@class=&quot;slides&quot;]/li[1]/div[@class=&quot;item_chinhanh&quot;]/div[@class=&quot;thumb_chinhanh&quot;]/img[@class=&quot;loaded&quot;]</value>
+      <webElementGuid>a26b079b-4154-49e4-8b18-d68a3013d7d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='v3_header']/div[2]/div[3]/div/a/img</value>
-      <webElementGuid>ad2b6f17-c9d7-404d-86e0-abdb61bf77ab</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
-      <type>Main</type>
-      <value>//img[contains(@src,'https://media.hcdn.vn/hsk/icon/icon_header__login.png')]</value>
-      <webElementGuid>1497cbf9-d1ec-4df6-a890-53127bde368b</webElementGuid>
+      <value>//div[@id='block_input_chinhanh']/div[2]/div[2]/ul/li/div/div/img</value>
+      <webElementGuid>4f3de64d-a29e-49ea-9f51-9ba41379894a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[3]/div/a/img</value>
-      <webElementGuid>b017c0b4-1a20-456c-8ff3-d0a4bfc2c065</webElementGuid>
+      <value>//li/div/div/img</value>
+      <webElementGuid>f82b1108-6e54-454e-a188-5555f776a94e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://media.hcdn.vn/hsk/icon/icon_header__login.png']</value>
-      <webElementGuid>8e1a1b41-012d-4f4c-9150-034f9793aa32</webElementGuid>
+      <value>//img[@src = '/images/71-Hoang-Hoa-Tham.jpg']</value>
+      <webElementGuid>339a4478-963d-40ec-8e57-ee7fdfc97036</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b75135c4-58d5-4b44-93fc-0dc43eaf542d</webElementGuid>
+      <webElementGuid>660f19fb-f79a-43cd-9265-c5ca1970960f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>item_hours</value>
-      <webElementGuid>ccff453c-b283-49f0-a6d9-d12514250ac6</webElementGuid>
+      <webElementGuid>b415a432-f711-4886-8d5f-db7d24882a8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-id</name>
       <type>Main</type>
-      <value>1746608400</value>
-      <webElementGuid>9df69a27-0c5f-48c3-834a-45ed4b145a06</webElementGuid>
+      <value>1749459600</value>
+      <webElementGuid>7013eb11-c32e-43df-800f-79f348934985</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>16:00</value>
-      <webElementGuid>e6a69651-37b7-4c0d-a9ec-0218294179da</webElementGuid>
+      <webElementGuid>5ff4e3da-f4ce-4cb2-b758-b68828c2e3f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;block_input_time&quot;)/div[@class=&quot;input_hours width_common&quot;]/div[@class=&quot;list_hours width_common&quot;]/div[@class=&quot;item_hours&quot;]</value>
-      <webElementGuid>b57c671f-f6b4-4ead-84fe-2dc762619717</webElementGuid>
+      <webElementGuid>4a703d94-bd44-4478-bf28-a4153ea32c01</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,63 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='block_input_time']/div[3]/div/div[15]</value>
-      <webElementGuid>5a9c9bf8-1d5a-4a11-ac98-79026ccae227</webElementGuid>
+      <webElementGuid>60cbdf43-6406-4d1a-bc4a-2db5e3f0b83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chủ nhật'])[1]/following::div[17]</value>
+      <webElementGuid>797b7732-313f-4cb0-b1e7-fc087ceea1c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thứ 7'])[1]/following::div[19]</value>
+      <webElementGuid>0b42016d-0c98-4425-a30e-8ff926537df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quay lại'])[1]/preceding::div[4]</value>
+      <webElementGuid>0f0013b1-66c2-48ce-987e-6635998df5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt hẹn'])[1]/preceding::div[4]</value>
+      <webElementGuid>c4f32826-1e52-44d1-aa43-5c4770fce26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='16:00']/parent::*</value>
+      <webElementGuid>774523b6-c8be-46a3-a5ed-0240d1641df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]</value>
+      <webElementGuid>947378bb-c274-4a2a-a047-9d126e145871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '16:00' or . = '16:00')]</value>
+      <webElementGuid>766e88bc-cf73-4c4b-bd98-69fab16f58b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,45 +142,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thứ 2'])[1]/following::div[19]</value>
       <webElementGuid>3a375375-b7a2-4e3d-8f51-3ad5d15166dc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quay lại'])[1]/preceding::div[4]</value>
-      <webElementGuid>28bcd215-63d2-4eec-b02b-247a145932dd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đặt hẹn'])[1]/preceding::div[4]</value>
-      <webElementGuid>9e9a8a7d-6fbe-4397-afe1-38d67537e29f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='16:00']/parent::*</value>
-      <webElementGuid>b0dc8f08-c20f-4b5c-b8ae-dbcd90f38922</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[15]</value>
-      <webElementGuid>f03c5a20-3792-4a09-81b2-80b36439bc40</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[(text() = '16:00' or . = '16:00')]</value>
-      <webElementGuid>a1d8826f-b9e2-4eb1-9945-a7b0225f45e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

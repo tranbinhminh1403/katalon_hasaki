@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>08393449-fdb3-451b-bf8f-c005babdb231</webElementGuid>
+      <webElementGuid>5908bed6-d135-48f1-a632-6463199d7585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>02545c6d-664b-4758-b2f3-3f35794821c6</webElementGuid>
+      <webElementGuid>1a3078d6-961e-4dfb-a561-7525663c4e10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>97ddbc14-d027-42be-a8f0-eba742aa359f</webElementGuid>
+      <webElementGuid>c591fd77-53c7-47e3-b16c-b31ca499f267</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>2109f093-545e-458c-a6a6-df86b2eac9c1</webElementGuid>
+      <webElementGuid>9860d271-bf81-4130-8a25-d487adb5c378</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>fullName</value>
-      <webElementGuid>956d7692-e6c7-45fb-ba73-7e271e56a807</webElementGuid>
+      <webElementGuid>a1305ace-9bfc-4b35-b33a-fe146707a1a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>name</name>
       <type>Main</type>
       <value>fullName</value>
-      <webElementGuid>4872331e-58f2-44cf-9132-ef8ae9ec7c46</webElementGuid>
+      <webElementGuid>ec5dd031-eab2-471a-af96-1c2e57805085</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Họ và tên</value>
-      <webElementGuid>be7745eb-d57b-42f8-b436-583f18275694</webElementGuid>
+      <webElementGuid>04e28688-a4b4-4d16-92f2-71efb9780a7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>4e8ce172-d85f-4995-a09b-9ffcd5c82b55</webElementGuid>
+      <webElementGuid>bd1c76bd-60c6-4de6-8cc2-38aca7ac0eab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Hạ hạ</value>
-      <webElementGuid>a51f2ff5-fc18-4376-8a84-a353117eece8</webElementGuid>
+      <value>Vũ Hạ</value>
+      <webElementGuid>1ea1e3e7-a99f-493f-ad0d-f79be3179b00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;fullName&quot;)</value>
-      <webElementGuid>323814b9-3ed2-40cf-afce-56c12fecba42</webElementGuid>
+      <webElementGuid>fb2904b4-1100-4e32-9109-63934db4858a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='fullName']</value>
-      <webElementGuid>76153981-9d56-4a8c-9dc4-904c92a35b20</webElementGuid>
+      <webElementGuid>9bfb1ad7-70e1-4c2a-b385-0b9cc2a448d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='block_input_booking_spa']/div/div[3]/input</value>
-      <webElementGuid>d276cecb-1563-4ae6-8614-94c769f53e7a</webElementGuid>
+      <webElementGuid>9fae8a0a-06d6-4516-9ede-23a44ecca0dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>1befab60-60d4-4d03-abea-72527f607f14</webElementGuid>
+      <webElementGuid>7aa2d967-1b62-47bf-adf0-26eb7799572f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'fullName' and @name = 'fullName' and @placeholder = 'Họ và tên']</value>
-      <webElementGuid>3e7156bc-ccda-470d-8dc8-e1cbf9532456</webElementGuid>
+      <webElementGuid>6609d8cc-94b2-49be-91d9-75e473878dab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

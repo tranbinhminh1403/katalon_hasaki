@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>76425690-39c7-4337-8d7d-f1614ac0b9a9</webElementGuid>
+      <webElementGuid>178ce706-b303-4dd7-b83e-71fb96a53fa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>05f73848-d3b4-4d11-9cea-c96bf5d06a78</webElementGuid>
+      <webElementGuid>10dd9d70-9f3c-4123-af0a-21ed77369879</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn_input_spa btn_submit</value>
-      <webElementGuid>45173719-c804-4bb7-8927-9282ddb50764</webElementGuid>
+      <webElementGuid>bdcb417f-f048-48df-9062-ddf60162fa39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>7</value>
-      <webElementGuid>d90ccd27-235e-4913-b787-dcbae2b00c86</webElementGuid>
+      <webElementGuid>936e5534-ed79-4bf2-a192-64e0d8af6f54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnBooking</value>
-      <webElementGuid>b6062fc9-6f5d-46bc-9780-8875526f2fb3</webElementGuid>
+      <webElementGuid>fdca8ef5-92ec-495e-833b-7b6951ebc26b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đặt hẹn</value>
-      <webElementGuid>1462768d-4039-44b0-8eb8-4ad53a2e3527</webElementGuid>
+      <webElementGuid>f67e3455-4d5b-4566-9e11-f0a193bf2bd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnBooking&quot;)</value>
-      <webElementGuid>8abaca6e-403c-4296-ac84-f85d6b270bf0</webElementGuid>
+      <webElementGuid>720dac84-86ba-422f-9d9c-3ee543f25411</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btnBooking']</value>
-      <webElementGuid>d32caa1d-f982-434c-bcac-0b53a9dbd01b</webElementGuid>
+      <webElementGuid>1e17702f-b113-4880-bad9-c9ab3ba0c03a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='booking_spa_form']/div[6]/button[2]</value>
-      <webElementGuid>58bb0a3c-303c-4be2-bbc3-aaacfbd583f0</webElementGuid>
+      <webElementGuid>e3e959fb-a6ba-4348-aca3-91f289fe2a63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,63 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quay lại'])[1]/following::button[1]</value>
-      <webElementGuid>f0bd896d-e9a4-476a-bb1e-82ad71e31119</webElementGuid>
+      <webElementGuid>abfb6ddf-ce43-4a02-92ec-e16e7a020d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chủ nhật'])[1]/following::button[2]</value>
+      <webElementGuid>9f3503a9-742e-41d2-8ad6-ff723fb53721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
+      <webElementGuid>9cdf2bd6-be4a-43af-ab37-236ae49cd3f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::button[2]</value>
+      <webElementGuid>4315e28f-4236-4df1-81cd-e23c67b310e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đặt hẹn']/parent::*</value>
+      <webElementGuid>417db139-c4c6-4750-9aa3-2ec1975bcc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>1553ad12-2e52-4a88-8a5a-b384f1c9a4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btnBooking' and (text() = 'Đặt hẹn' or . = 'Đặt hẹn')]</value>
+      <webElementGuid>c4803d9b-f0c0-4e22-8ed7-d5f27cef0c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm đã xem'])[1]/preceding::button[1]</value>
+      <webElementGuid>75880120-f9d2-4af3-8fac-74d3aea45ffa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,62 +166,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thứ 2'])[1]/following::button[2]</value>
       <webElementGuid>7a5b8d59-9681-4bbb-95ee-a7c2ddf76618</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm đã xem'])[1]/preceding::button[1]</value>
-      <webElementGuid>d8ef3771-d39f-4112-9983-556ab8bc428c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
-      <webElementGuid>30750e58-aed5-4f43-9469-7d5b685c58bc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Đặt hẹn']/parent::*</value>
-      <webElementGuid>96ce2317-82d4-446d-ada1-98c113357a15</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//button[2]</value>
-      <webElementGuid>cb01f127-0cca-489f-8418-895f48324f5f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'btnBooking' and (text() = 'Đặt hẹn' or . = 'Đặt hẹn')]</value>
-      <webElementGuid>a7d229b1-65e5-4c74-9100-daa0b010ffc1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::button[2]</value>
-      <webElementGuid>bd937971-dfa4-4e59-878f-7be73cbe5da5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chủ nhật'])[1]/following::button[2]</value>
-      <webElementGuid>80e63073-5cde-4c57-8eb5-e8bf8478bb15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

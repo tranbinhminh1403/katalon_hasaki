@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Vui lng nhp s in thoi_1</name>
+   <name>div_S in thoi khng hp l_1</name>
    <tag></tag>
-   <elementGuidId>cec94e52-15f8-41da-8cb8-c29b8d48097f</elementGuidId>
+   <elementGuidId>e9a30891-4c38-44b6-b5b2-aeffa5799986</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = ' Số điện thoại không hợp lệ !' or . = ' Số điện thoại không hợp lệ !')]</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[(text() = ' Vui lòng nhập số điện thoại !' or . = ' Vui lòng nhập số điện thoại !')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e9ef912e-d676-4b60-986b-105315a7ec08</webElementGuid>
+      <webElementGuid>889100dd-a80f-454c-b546-8c907416a5cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>alert alert-danger alert-popup-auto-close</value>
-      <webElementGuid>2b988e48-365a-4c66-94fc-f420bb54e885</webElementGuid>
+      <webElementGuid>4cf30d21-a28e-4114-8892-717460dc8d04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> Vui lòng nhập số điện thoại !</value>
-      <webElementGuid>b65bd7f3-4f33-41b4-aa42-57848772b7f9</webElementGuid>
+      <value> Số điện thoại không hợp lệ !</value>
+      <webElementGuid>a1963708-e0b8-46f8-aa45-1176c6bb2126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,14 +53,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/div[@class=&quot;modal fade compact alert-modal&quot;]/div[@class=&quot;modal-dialog modal-sm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body clearfix&quot;]/div[@class=&quot;alert alert-danger alert-popup-auto-close&quot;]</value>
-      <webElementGuid>15da87d4-596d-428d-8b6b-6675fe59e5a1</webElementGuid>
+      <webElementGuid>307f811a-10c7-40e9-a038-69f1409bebb0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = ' Vui lòng nhập số điện thoại !' or . = ' Vui lòng nhập số điện thoại !')]</value>
-      <webElementGuid>e2dfac88-38be-4c74-b09c-8ddf8a88f69f</webElementGuid>
+      <value>//div[(text() = ' Số điện thoại không hợp lệ !' or . = ' Số điện thoại không hợp lệ !')]</value>
+      <webElementGuid>b4a924e3-088e-4d6a-80cf-806251664c6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

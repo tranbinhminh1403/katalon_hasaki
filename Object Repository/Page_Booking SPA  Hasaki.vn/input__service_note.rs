@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>54067e0b-0c8e-4a28-afd1-fbba831cd0f6</webElementGuid>
+      <webElementGuid>74692ec0-b580-4226-bfc5-fef7e4348894</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7a5eac45-a4f1-46d1-958b-7d5b38820927</webElementGuid>
+      <webElementGuid>773d4662-6d0b-415a-a262-c5cfe42dc6f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>2ced4a1f-140e-4c96-819a-31913a8e7fe9</webElementGuid>
+      <webElementGuid>7b31283c-7f1f-4ff5-b61c-02ca4dfcd30a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>service_note</value>
-      <webElementGuid>3d4d3098-05f0-4105-9225-e118bb6c2bf5</webElementGuid>
+      <webElementGuid>ed37a1ba-eccd-46dd-9912-e11fa536206f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>service_note</value>
-      <webElementGuid>fcd1a3d2-8ad8-4525-9c5a-79432677a5e7</webElementGuid>
+      <webElementGuid>3fb33152-28d2-489e-b0b2-79e416637200</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nhập tên dịch vụ bạn muốn làm...</value>
-      <webElementGuid>61918a1b-a432-4e21-940d-3254fbbdb91b</webElementGuid>
+      <webElementGuid>7fcec136-335e-4dff-8dca-e319ee37cc16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>fc146f30-581a-473d-987f-3cff1111fa4d</webElementGuid>
+      <webElementGuid>2a02a22e-a2c3-43c0-bca1-9261eda875d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;service_note&quot;)</value>
-      <webElementGuid>dde6fed7-56bb-40ca-87d7-d4295067fcc2</webElementGuid>
+      <webElementGuid>521ba057-ea68-4818-9c93-169b73ebfb7a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='service_note']</value>
-      <webElementGuid>65711fbc-7ffd-40dd-9c7a-d0e200959175</webElementGuid>
+      <webElementGuid>9a06bbdf-2b27-43ac-9bc4-9a9535ec7f4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='block_input_service']/div/div[2]/input[3]</value>
-      <webElementGuid>90b57cb4-98a1-4f15-8666-ede54c96925a</webElementGuid>
+      <webElementGuid>a1a05f1c-9501-47e1-81a2-41d16ad7a399</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>b30fa423-4a06-44f2-84fb-8deae398ac7d</webElementGuid>
+      <webElementGuid>321dc02f-fb42-4991-bfb8-47c33766f400</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'service_note' and @name = 'service_note' and @placeholder = 'Nhập tên dịch vụ bạn muốn làm...']</value>
-      <webElementGuid>81b57fc1-c4a7-45e2-b1e0-1699afa20638</webElementGuid>
+      <webElementGuid>af923be4-287f-44bb-9b11-6019f2a057c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3705b0d0-16c0-4219-a0df-d7596cc384ef</webElementGuid>
+      <webElementGuid>d63ab657-d47c-40ff-babd-c0c25ba19466</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>3b364ea6-17bc-4e6f-9d27-ee55c4cf954e</webElementGuid>
+      <webElementGuid>a73b15b8-e56a-488d-a0f9-6bd4138dcd62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>2fb72512-a437-4f98-8da8-f8c415519e7f</webElementGuid>
+      <webElementGuid>1577a943-a5db-402e-aa65-cd0cc80a59f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>phone</value>
-      <webElementGuid>68011184-a845-4dd6-987c-6a65ab1f0c82</webElementGuid>
+      <webElementGuid>3b4eb9e8-6191-43e4-a74f-544dae69acb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>phone</value>
-      <webElementGuid>fe511183-ebde-422e-a465-755bc8696b06</webElementGuid>
+      <webElementGuid>ff9d6e5d-6820-4eaf-80df-029431ea041a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>58d0b428-6c66-4635-80ca-eb83c4dd1c00</webElementGuid>
+      <webElementGuid>b31af742-6ba3-4c1f-b2bc-fb41d0984e8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Số điện thoại</value>
-      <webElementGuid>6a3e823e-c606-4ed9-acbf-df46e513358a</webElementGuid>
+      <webElementGuid>d69e0e8c-d3a5-46b1-81e9-e805814a0b92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>17efa8a5-d21f-4f5a-875a-a1b1d294190c</webElementGuid>
+      <webElementGuid>6e5604fe-b5b8-4d0f-909c-dddd85cf3cfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>0966265795</value>
-      <webElementGuid>ed8eda6e-31b3-43c9-bb74-1bf1097a2000</webElementGuid>
+      <value>0833204787</value>
+      <webElementGuid>03522c28-8fd1-4c82-aa40-d5ceace0b5de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;phone&quot;)</value>
-      <webElementGuid>ed419ea7-68ba-409e-816f-a07729c37b3d</webElementGuid>
+      <webElementGuid>cd85d6b7-df93-4364-8530-7c63c83d0957</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='phone']</value>
-      <webElementGuid>d0ea1604-7bcc-42cd-9375-86321b450760</webElementGuid>
+      <webElementGuid>783a0f90-803f-4be3-a1ac-e0a3f3fe4958</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='block_input_booking_spa']/div/div[2]/input</value>
-      <webElementGuid>92f68aad-2996-45fc-a8b7-ba9feccd4866</webElementGuid>
+      <webElementGuid>1ad14496-58cb-41f9-a0e6-e9da6bc335f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>8951ba8a-27e9-4db1-a1fa-15cca4123018</webElementGuid>
+      <webElementGuid>cd42c81a-a815-4f5e-9b45-daa2367325cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'phone' and @name = 'phone' and @placeholder = 'Số điện thoại']</value>
-      <webElementGuid>fa5a7a7b-015c-4bb6-a856-862e61cb4e90</webElementGuid>
+      <webElementGuid>e6a22e00-df73-461f-9107-d27354b69208</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
