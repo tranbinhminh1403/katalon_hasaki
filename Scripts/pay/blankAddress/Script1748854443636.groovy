@@ -41,26 +41,25 @@ WebUI.click(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/
 
 WebUI.setText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/input_Thm a ch mi_telephone (10)'), '0966265795')
 
-WebUI.setText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/input_Identification Card Icon_full_name (8)'), 
+WebUI.setText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/input_Identification Card Icon_full_name (4)'), 
     'nguyễn văn a')
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Chn Tnh TP, Qun HuynCaret Down Icon (3)'))
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Chn Tnh TP, Qun HuynCaret Down Icon (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/div_H Ch Minh - Qun 1 (3)'))
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/div_H Ch Minh - Qun 1 (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Chn Phng XCaret Down Icon (2)'))
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Chn Phng XCaret Down Icon (1)'))
 
-WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/div_Phng Tn nh (2)'))
+WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/div_Phng Tn nh (1)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_S nh  Tn ng (1)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/input_Sa v tr trn bn_flex h-11 w-full py-2._a50923 (1)'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/input_Sa v tr trn bn_flex h-11 w-full py-2._a50923_1 (1)'), 
+WebUI.setText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/input_Sa v tr trn bn_flex h-11 w-full py-2._a50923 (1)'), 
     '              ')
 
 WebUI.click(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/button_Tip tc (10)'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Thanh ton  Hasaki.vn/p_a ch khng th cha ton b l khong trng (1)'), 
-    'Địa chỉ không thể chứa toàn bộ là khoảng trắng')
+WebUI.verifyElementText(findTestObject('Page_Thanh ton  Hasaki.vn/p_a ch khng th cha ton b l khong trng'), 'Địa chỉ không thể chứa toàn bộ là khoảng trắng')
 

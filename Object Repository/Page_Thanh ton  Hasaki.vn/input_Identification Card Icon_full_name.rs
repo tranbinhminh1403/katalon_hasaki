@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id=':r1v:-form-item']</value>
+         <value>//input[@id=':r1i:-form-item']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6dc431aa-2b08-4dd2-985f-68959174b743</webElementGuid>
+      <webElementGuid>ab66781d-cd32-414d-b52e-28a0834849fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex h-11 w-full rounded-[10px] bg-background px-5 py-2.5 text-sm transition-colors file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-50</value>
-      <webElementGuid>184a747d-742a-4b8f-b184-4f90774539a8</webElementGuid>
+      <webElementGuid>1aee4f3e-a953-4cc6-9748-bcf83198f9b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>2492fd39-2868-42be-9c83-330afcc0719b</webElementGuid>
+      <webElementGuid>a1ffbe59-fecd-4c7a-9c9d-0915066b7da7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,23 +53,23 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Họ và tên</value>
-      <webElementGuid>84c2e97d-5d1e-4463-9beb-5f5e7f54f8d3</webElementGuid>
+      <webElementGuid>38d76e7d-7f13-4feb-ac27-7224c79f2fa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>:r1v:-form-item</value>
-      <webElementGuid>236760be-c83a-48dc-b770-c2477a6c28eb</webElementGuid>
+      <value>:r1i:-form-item</value>
+      <webElementGuid>1ca72170-6442-448f-9737-cb256c3190bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>:r1v:-form-item-description</value>
-      <webElementGuid>440038b3-ff4b-477f-b817-0e513f4e0ee9</webElementGuid>
+      <value>:r1i:-form-item-description</value>
+      <webElementGuid>fef6cf6b-7d80-4aba-a7ab-b38d1a23b9e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>567203e3-f4ce-4fc7-bcef-ca3595a4013b</webElementGuid>
+      <webElementGuid>c0c6536f-e546-47d1-8702-29369fc118f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a7e69a3c-479d-45f8-ac72-b5aec908d728</webElementGuid>
+      <webElementGuid>39b59821-e671-4817-a432-c2f3c8ff0f17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,23 +93,23 @@
       <name>name</name>
       <type>Main</type>
       <value>full_name</value>
-      <webElementGuid>fa6a2f4d-ba70-4ce0-b453-126467bc0a29</webElementGuid>
+      <webElementGuid>49bf4bfd-9bbd-4a01-8403-e5b8c85dc5b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;:r1v:-form-item&quot;)</value>
-      <webElementGuid>6ee516df-5e95-4e19-bf27-c19695c0b7b2</webElementGuid>
+      <value>id(&quot;:r1i:-form-item&quot;)</value>
+      <webElementGuid>2326f6ec-9c51-4fa7-9fa9-6a80fda803e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id=':r1v:-form-item']</value>
-      <webElementGuid>43ef92d5-800b-4ccb-aa95-5636d874d7f9</webElementGuid>
+      <value>//input[@id=':r1i:-form-item']</value>
+      <webElementGuid>46e7f5d6-a945-4c10-8981-ec9287978794</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:ru:']/div/form/section/div/div[2]/input</value>
-      <webElementGuid>3d244acd-0c8e-44e0-8706-80e4ee39b058</webElementGuid>
+      <webElementGuid>921c78fe-b5e3-440c-b096-ac0a29356802</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,23 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>2d5619d4-bd98-402b-8142-e995648c3c76</webElementGuid>
+      <webElementGuid>6ed99942-67e8-4c3e-b2e5-c9068cd36428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Họ và tên' and @id = ':r1i:-form-item' and @type = 'text' and @name = 'full_name']</value>
+      <webElementGuid>cc3e94b7-7e15-4176-85d0-52e94d1b403f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id=':r1v:-form-item']</value>
+      <webElementGuid>43ef92d5-800b-4ccb-aa95-5636d874d7f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,22 +182,6 @@
       <type>Main</type>
       <value>//input[@placeholder = 'Họ và tên' and @id = ':r1m:-form-item' and @type = 'text' and @name = 'full_name']</value>
       <webElementGuid>6144707b-3cd4-4ff3-a591-55347d065280</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@id=':r1i:-form-item']</value>
-      <webElementGuid>5ffea2f5-fc1c-42d3-9e9d-4c87e731adfd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@placeholder = 'Họ và tên' and @id = ':r1i:-form-item' and @type = 'text' and @name = 'full_name']</value>
-      <webElementGuid>07b68739-6cfc-49fc-956c-8bbaaf103c47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

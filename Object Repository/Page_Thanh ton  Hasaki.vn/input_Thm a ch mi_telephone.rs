@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f93c0dcf-a990-4e39-8aaf-ef28b7f978ba</webElementGuid>
+      <webElementGuid>314a64f0-f616-4a78-8b5b-ccc485147f01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex h-11 w-full rounded-[10px] bg-background px-5 py-2.5 text-sm transition-colors file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-50 pr-14</value>
-      <webElementGuid>c055f7ae-da6a-493f-b075-28148ba63958</webElementGuid>
+      <webElementGuid>dff524b1-59d1-4f45-a721-cb2b5a418eba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>telephone</value>
-      <webElementGuid>36b08025-f414-4ab4-9c8b-a323a1a8780e</webElementGuid>
+      <webElementGuid>a9bcfbaa-9ced-4b82-a7e1-4ee187dcf56f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Số điện thoại</value>
-      <webElementGuid>3eaa2d60-2408-4f4e-b5dd-54a03760ae2d</webElementGuid>
+      <webElementGuid>a1992e1b-c22e-47b7-b7ae-4d6d5aaff0b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8543b790-bf4e-4344-94ef-4070dc50468e</webElementGuid>
+      <webElementGuid>4ce91250-9250-4fd6-9bcd-51ce74668890</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,15 +69,15 @@
       <name>name</name>
       <type>Main</type>
       <value>telephone</value>
-      <webElementGuid>1b1ad60c-71e0-41f4-a67e-84cb5b671d61</webElementGuid>
+      <webElementGuid>2827c595-cc92-4a80-b3ff-8d9c044adec0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;:r1u:-form-item&quot;)/input[@class=&quot;flex h-11 w-full rounded-[10px] bg-background px-5 py-2.5 text-sm transition-colors file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-50 pr-14&quot;]</value>
-      <webElementGuid>80bd348a-fa0a-4c12-8e52-0dff104392a7</webElementGuid>
+      <value>id(&quot;:r1h:-form-item&quot;)/input[@class=&quot;flex h-11 w-full rounded-[10px] bg-background px-5 py-2.5 text-sm transition-colors file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:cursor-not-allowed disabled:opacity-50 pr-14&quot;]</value>
+      <webElementGuid>80db5ade-f6d9-4f3a-a622-a1a5691c7710</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='telephone']</value>
-      <webElementGuid>ae2d38f9-b2e3-4503-b762-f660f85681e8</webElementGuid>
+      <webElementGuid>eeb3c8f0-e5f4-483e-8d10-cfe854f77698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':r1h:-form-item']/input</value>
+      <webElementGuid>33aaaa37-5c91-4776-ae69-eccaa05b0de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>90c372a4-40e8-4b25-8be9-62808b0d58c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Số điện thoại' and @type = 'text' and @name = 'telephone']</value>
+      <webElementGuid>e967b57a-4d55-48e3-8838-a5cd8d5c3cec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,30 +118,6 @@
       <type>Main</type>
       <value>//div[@id=':r1u:-form-item']/input</value>
       <webElementGuid>66f41cf9-5105-431d-849c-aacef42af556</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>113ead39-4db5-4044-b6cb-3a2bcf0e8c0e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@placeholder = 'Số điện thoại' and @type = 'text' and @name = 'telephone']</value>
-      <webElementGuid>189dff22-178f-4d58-a603-668b519be11d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id=':r1h:-form-item']/input</value>
-      <webElementGuid>879ade46-6138-481c-ba68-e5c3e9db710a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

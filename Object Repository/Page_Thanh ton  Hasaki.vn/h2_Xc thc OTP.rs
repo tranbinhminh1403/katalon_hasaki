@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h2[@id='radix-:r23:']</value>
+         <value>//h2[@id='radix-:r1v:']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>31d11a44-34b2-43ba-b993-c122a8601fa9</webElementGuid>
+      <webElementGuid>3b68057e-9a8f-4981-82ec-04fb16bb220c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>radix-:r23:</value>
-      <webElementGuid>d9478336-43ab-44b6-a9a9-fc084ffd87c6</webElementGuid>
+      <value>radix-:r1v:</value>
+      <webElementGuid>eb698a0d-f134-4a24-a280-1cb4f3ba66fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tracking-tight text-start text-lg font-bold</value>
-      <webElementGuid>099ca829-f2e4-4e92-aafe-5916b1abdefc</webElementGuid>
+      <webElementGuid>fee4308e-88db-4f40-97c9-a1f382f1fcbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,18 +53,90 @@
       <name>text</name>
       <type>Main</type>
       <value>Xác thực OTP</value>
-      <webElementGuid>9b654b71-2c98-4acf-9e0c-760aa28041b1</webElementGuid>
+      <webElementGuid>6e274b66-e9bb-4842-969c-4f703e339724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-:r23:&quot;)</value>
-      <webElementGuid>ffff2d43-f44b-4786-b473-40ca0356c7f4</webElementGuid>
+      <value>id(&quot;radix-:r1v:&quot;)</value>
+      <webElementGuid>a818f4f7-9224-47fe-a649-fb00bb3e9bb1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='radix-:r1v:']</value>
+      <webElementGuid>143fdd1d-e497-4106-b469-ca8623c965fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:r1u:']/h2</value>
+      <webElementGuid>cdbe5c53-327a-41c2-84fc-ef1c18968e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::h2[1]</value>
+      <webElementGuid>836a7d33-182b-444b-a65d-9ff95f9dee1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục'])[2]/following::h2[1]</value>
+      <webElementGuid>b9ab7223-46f3-4277-b625-8a9f36da91b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp Tục'])[1]/preceding::h2[1]</value>
+      <webElementGuid>6730eb50-c2b8-4151-8766-dc7e1e42665d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::h2[1]</value>
+      <webElementGuid>b59949ad-12bb-4e10-be77-058e187ef635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xác thực OTP']/parent::*</value>
+      <webElementGuid>6a29972f-abc9-4367-b9f9-46094124e82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/h2</value>
+      <webElementGuid>71a7131c-5bd5-4ea2-92e7-7656dc12b018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'radix-:r1v:' and (text() = 'Xác thực OTP' or . = 'Xác thực OTP')]</value>
+      <webElementGuid>99b0e554-1d3e-40be-94e1-7e46374f33ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -78,54 +150,6 @@
       <type>Main</type>
       <value>//div[@id='radix-:r22:']/h2</value>
       <webElementGuid>38fcdabd-b013-44c9-a5b2-2d26b8eb2661</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/following::h2[1]</value>
-      <webElementGuid>28a08410-ee7b-41a3-89d2-d1ca6e4094e4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục'])[2]/following::h2[1]</value>
-      <webElementGuid>f3dbd66e-92bb-4dff-818a-f9192570168d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp Tục'])[1]/preceding::h2[1]</value>
-      <webElementGuid>508912db-eeed-49c7-a6ae-96d787d8f62e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::h2[1]</value>
-      <webElementGuid>7f5600bf-2bc5-4d54-89ed-8e66c5fa3314</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Xác thực OTP']/parent::*</value>
-      <webElementGuid>1820c443-6696-4f12-a1df-10945e61d718</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[7]/div/h2</value>
-      <webElementGuid>f8c26626-d151-4759-a7fe-915334ff2528</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

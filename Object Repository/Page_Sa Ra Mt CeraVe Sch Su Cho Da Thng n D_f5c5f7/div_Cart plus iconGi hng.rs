@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>35e4c91b-4739-4a1a-b3a4-d0eaabf3d107</webElementGuid>
+      <webElementGuid>a85879d2-3799-4057-9398-1658dc5e3e30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex items-center gap-0.5</value>
-      <webElementGuid>9de7d22a-d85e-4873-a130-2fb75bd7be05</webElementGuid>
+      <webElementGuid>3ced831b-6fde-44f5-bd2c-b093b80d4cef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cart plus iconGiỏ hàng</value>
-      <webElementGuid>89b28dd2-59cd-43c2-9562-c7cb32bb8ad9</webElementGuid>
+      <webElementGuid>36004913-2e50-478f-bbbd-489fbd443bb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;min-h-screen bg-background font-sans antialiased __variable_d65c78&quot;]/div[@class=&quot;min-h-screen w-full&quot;]/div[@class=&quot;max-w-[1400px] m-auto container&quot;]/div[@class=&quot;flex gap-2.5&quot;]/div[@class=&quot;w-full flex flex-col gap-2.5 min-h-[20px] [&amp;>div:last-child]:h-full&quot;]/div[@class=&quot;flex gap-5 bg-white&quot;]/div[@class=&quot;w-full pt-2.5&quot;]/div[@class=&quot;pb-2.5 pr-2.5&quot;]/div[@class=&quot;flex items-center flex-wrap gap-2.5&quot;]/button[@class=&quot;flex items-center rounded-[3px] disabled:opacity-80 bg-primary text-white h-[43px] shrink-0 justify-center gap-1.5 px-4 font-bold text-[15px]&quot;]/div[@class=&quot;flex items-center gap-0.5&quot;]</value>
-      <webElementGuid>8e1daca0-5c39-4ee2-a7e0-cdc20567f4c1</webElementGuid>
+      <webElementGuid>c9978488-98f8-48d7-a0ef-8ea084badf6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='sản phẩm'])[1]/following::div[1]</value>
-      <webElementGuid>e6fdf810-a46b-42e8-b917-942a9349617d</webElementGuid>
+      <webElementGuid>c0ffdab7-1435-45b9-8104-c2e774a4aa73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Giỏ hàng']/parent::*</value>
-      <webElementGuid>b0bd3bab-bf3c-4329-90fc-dcf8b383e8c4</webElementGuid>
+      <webElementGuid>b1265b23-993a-45c9-9ce8-7115a023e81b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/button/div</value>
-      <webElementGuid>04d780ce-5047-4224-a9e8-74c2f97c4a8a</webElementGuid>
+      <webElementGuid>8ca6a039-1424-4087-99d4-5e224670dd23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Cart plus iconGiỏ hàng' or . = 'Cart plus iconGiỏ hàng')]</value>
-      <webElementGuid>46dd2685-0fe3-4e97-8f57-8bae8a204aa2</webElementGuid>
+      <webElementGuid>d0e4ad1c-3070-47b1-8277-5c20d44e31ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

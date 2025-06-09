@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>54e1da2e-292f-4568-aa7a-206690d78f24</webElementGuid>
+      <webElementGuid>bcc816ed-31c6-475f-9a8f-1ec9d4190635</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>6271501a-a340-46d5-8d4d-b15674b65041</webElementGuid>
+      <webElementGuid>171186cb-f537-4572-a81f-5a0e6745ff18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Tìm sản phẩm, thương hiệu bạn mong muốn...</value>
-      <webElementGuid>dc7cdb5d-8159-410d-973e-980a1d2ccf40</webElementGuid>
+      <webElementGuid>eb4128e8-d679-45c8-ba97-3aaa334df7e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input_search</value>
-      <webElementGuid>2cdd07d4-f7c7-4c87-9cc3-27f42be53e3d</webElementGuid>
+      <webElementGuid>e64e1f2b-fef0-4d9d-beee-f9358de95dc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>name</name>
       <type>Main</type>
       <value>q</value>
-      <webElementGuid>b5e56433-51b7-4aa8-acc1-e6667c33aa90</webElementGuid>
+      <webElementGuid>56145489-1454-45d5-88e0-50388b8edcb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-box-parent</name>
       <type>Main</type>
       <value>#block_suggest_search</value>
-      <webElementGuid>5c53d91a-3a93-4d51-87d7-21589519580e</webElementGuid>
+      <webElementGuid>48b1b5c4-6a1b-484d-8609-fc8b462d3706</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>87378bd9-fa83-410b-ac62-2a5830fc1327</webElementGuid>
+      <webElementGuid>fe1976ef-1c57-479d-8958-841322cc4bcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,15 +85,15 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>848f829c-0504-46e1-ac46-c7507447bf14</webElementGuid>
+      <webElementGuid>c4ab496d-2f11-482b-9b93-c2446b51973d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>campaign-rel</name>
       <type>Main</type>
-      <value>[{&quot;label&quot;:&quot;Khai Trương CN261 TP. Đồng Xoài, Bình Phước | Deal 2K (Chỉ 08/06)&quot;,&quot;url&quot;:&quot;https://hasaki.vn/campaign/khai-truong-chi-nhanh-261?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=khai-truong-chi-nhanh-261&amp;utm_term=khai-truong-chi-nhanh-261_05062025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1749401940,&quot;start_time&quot;:1749056400},{&quot;label&quot;:&quot;NEW! Miếng Dán Ngực Hotosu Siêu Bám Dính 12H - Chỉ 55K&quot;,&quot;url&quot;:&quot;https://hasaki.vn/thuong-hieu/hotosu.html?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=mieng-dan-nguc-hotosu-launching&amp;utm_term=mieng-dan-nguc-hotosu-launching_26052025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1750006740,&quot;start_time&quot;:1749056400},{&quot;label&quot;:&quot;Mua Nước Hoa Cao Cấp Chính Hãng - Chọn Ngay Hasaki&quot;,&quot;url&quot;:&quot;https://hasaki.vn/danh-muc/nuoc-hoa-cao-cap-c2286.html?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=mua-nuoc-hoa-cao-cap-tai-hasaki-la-co-qua&amp;utm_term=mua-nuoc-hoa-cao-cap-tai-hasaki-la-co-qua_20012025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1767200340,&quot;start_time&quot;:1748192400},{&quot;label&quot;:&quot;Giảm 50% Ủ Trắng Các Vùng – Mua 5 Tặng 5&quot;,&quot;url&quot;:&quot;https://hasaki.vn/cam-nang/uu-dai-cuoi-nam-hasaki-clinic-tro-gia-den-50-4778.html?utm_source=website&amp;utm_medium=keyword_thanh_search&amp;utm_campaign=uu_dai_triet_long_200K_24052024&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1767200340,&quot;start_time&quot;:1735664400}]</value>
-      <webElementGuid>850ef548-72ed-481a-9a60-ccc9840c3cc0</webElementGuid>
+      <value>[{&quot;label&quot;:&quot;Deal 2K áp dụng CN261 TP. Đồng Xoài, Bình Phước (09 - 15/06)&quot;,&quot;url&quot;:&quot;https://hasaki.vn/campaign/khai-truong-chi-nhanh-261?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=khai-truong-chi-nhanh-261&amp;utm_term=khai-truong-chi-nhanh-261_09062025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1750006740,&quot;start_time&quot;:1749402000},{&quot;label&quot;:&quot;NEW! Miếng Dán Ngực Hotosu Siêu Bám Dính 12H - Chỉ 55K&quot;,&quot;url&quot;:&quot;https://hasaki.vn/thuong-hieu/hotosu.html?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=mieng-dan-nguc-hotosu-launching&amp;utm_term=mieng-dan-nguc-hotosu-launching_26052025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1750006740,&quot;start_time&quot;:1749056400},{&quot;label&quot;:&quot;Mua Nước Hoa Cao Cấp Chính Hãng - Chọn Ngay Hasaki&quot;,&quot;url&quot;:&quot;https://hasaki.vn/danh-muc/nuoc-hoa-cao-cap-c2286.html?utm_medium=cpc&amp;utm_source=top_search&amp;utm_campaign=mua-nuoc-hoa-cao-cap-tai-hasaki-la-co-qua&amp;utm_term=mua-nuoc-hoa-cao-cap-tai-hasaki-la-co-qua_20012025&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1767200340,&quot;start_time&quot;:1748192400},{&quot;label&quot;:&quot;Giảm 50% Ủ Trắng Các Vùng – Mua 5 Tặng 5&quot;,&quot;url&quot;:&quot;https://hasaki.vn/cam-nang/uu-dai-cuoi-nam-hasaki-clinic-tro-gia-den-50-4778.html?utm_source=website&amp;utm_medium=keyword_thanh_search&amp;utm_campaign=uu_dai_triet_long_200K_24052024&quot;,&quot;image&quot;:&quot;https://media.hcdn.vn/&quot;,&quot;end_time&quot;:1767200340,&quot;start_time&quot;:1735664400}]</value>
+      <webElementGuid>83197a2e-bcbd-4db7-9d24-059e665cd15e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search&quot;)</value>
-      <webElementGuid>a0a0d273-1cc2-4061-8ca4-8191947dfd32</webElementGuid>
+      <webElementGuid>eeb2825a-3019-4709-806b-7b22ac708627</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='search']</value>
-      <webElementGuid>c73c84aa-f4b5-4999-9fb5-29ead1a549e3</webElementGuid>
+      <webElementGuid>443b8eb6-1e33-4ae2-87bd-e42a964aca0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='search_mini_form']/div[2]/div/div/div/input</value>
-      <webElementGuid>d77b2970-c165-4023-a60b-1dd776a6e6f9</webElementGuid>
+      <webElementGuid>675baf2e-c342-4379-8ec9-eaa1ff214384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/input</value>
-      <webElementGuid>da8d0ee6-9491-49bd-8663-69bc4acbb957</webElementGuid>
+      <webElementGuid>f639151d-dbc2-451b-b03e-629a4df9d1ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'search' and @placeholder = 'Tìm sản phẩm, thương hiệu bạn mong muốn...' and @name = 'q']</value>
-      <webElementGuid>8d096cbb-0672-4c0d-9fdc-0284ee6c65eb</webElementGuid>
+      <webElementGuid>1d9aac51-96f9-4d93-826e-51cce51ffc7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

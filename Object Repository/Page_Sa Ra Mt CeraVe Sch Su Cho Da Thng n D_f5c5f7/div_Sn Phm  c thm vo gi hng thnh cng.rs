@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>be93e268-d0fe-4053-89dd-a63e8137aeb6</webElementGuid>
+      <webElementGuid>85e28098-c93c-4336-afa5-20c4c1c86f57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-sm opacity-100</value>
-      <webElementGuid>5d13e6a9-88ae-4153-a20c-b96bc9988e57</webElementGuid>
+      <webElementGuid>14d7a872-be42-4d37-b426-21638562caba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sản Phẩm đã được thêm vào giỏ hàng thành công</value>
-      <webElementGuid>e39a1416-bd22-4dd4-bd88-3faf932bc492</webElementGuid>
+      <webElementGuid>efbf5436-8d9e-4944-a2f9-b4343c51aff9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;min-h-screen bg-background font-sans antialiased __variable_d65c78&quot;]/div[2]/ol[@class=&quot;fixed top-[calc(100dvh-(50dvh+50px))] md:left-[calc(100dvw-(50dvw+210px))] z-[100] flex max-h-fit w-full flex-col-reverse p-4 sm:bottom-0 sm:right-0 sm:flex-col md:max-w-[420px]&quot;]/li[@class=&quot;group pointer-events-auto relative flex w-full items-center justify-between space-x-2 overflow-hidden border p-4 pr-6 shadow-lg transition-all data-[swipe=cancel]:translate-x-0 data-[swipe=end]:translate-x-[var(--radix-toast-swipe-end-x)] data-[swipe=move]:translate-x-[var(--radix-toast-swipe-move-x)] data-[swipe=move]:transition-none data-[state=open]:animate-in data-[state=closed]:animate-out data-[swipe=end]:animate-out data-[state=closed]:fade-out-80 data-[state=closed]:slide-out-to-right-full data-[state=open]:slide-in-from-top-full data-[state=open]:sm:slide-in-from-bottom-full success group border-success-line bg-success-background text-success rounded-[10px] tex-sm font-normal&quot;]/div[@class=&quot;grid gap-1&quot;]/div[@class=&quot;text-sm opacity-100&quot;]</value>
-      <webElementGuid>af3f03ef-86d1-4194-aff8-00a2450ccd75</webElementGuid>
+      <webElementGuid>e41088fe-e250-47e6-a3d0-0ee6f8f4a162</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vitamin / Khoáng Chất'])[1]/following::div[4]</value>
-      <webElementGuid>dcf0250d-ed65-4cbb-afbc-6d54397fa6d7</webElementGuid>
+      <webElementGuid>2f0cc46e-e353-4dfb-b111-83f30b077d49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hỗ Trợ Giảm Cân'])[1]/following::div[5]</value>
-      <webElementGuid>9259e76d-1056-4b93-9696-523897fa313e</webElementGuid>
+      <webElementGuid>394980ba-e21f-44c7-82b6-ad85590e8f4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sản Phẩm đã được thêm vào giỏ hàng thành công']/parent::*</value>
-      <webElementGuid>7c8ee1e0-c372-4833-8253-13c255e94e65</webElementGuid>
+      <webElementGuid>3e7d2620-0321-4e90-9be3-dba9c94b6c00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/div</value>
-      <webElementGuid>b6495b46-3eab-4bdb-8345-9a955ecd099c</webElementGuid>
+      <webElementGuid>9c6cf80c-eea3-4bca-a639-c447650ed9ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Sản Phẩm đã được thêm vào giỏ hàng thành công' or . = 'Sản Phẩm đã được thêm vào giỏ hàng thành công')]</value>
-      <webElementGuid>d8dac8c6-4de2-437a-908a-d583851f863b</webElementGuid>
+      <webElementGuid>f06c4954-87e1-4d87-8754-68a758369bd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

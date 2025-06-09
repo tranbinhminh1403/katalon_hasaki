@@ -39,17 +39,17 @@ WebUI.setText(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/in
 
 WebUI.click(findTestObject('Object Repository/Page_Hasaki.vn  M Phm  Clinic/img_Toner_icon_search loaded'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mua Sa Ra Mt Chnh Hng 100 Ti Hasaki.vn_a74e85/img_Hin th 60_photo image img_thumb_sub loading'))
+WebUI.click(findTestObject('Object Repository/Page_Mua Sa Ra Mt Chnh Hng 100 Ti Hasaki.vn_a74e85/img_Hin th 60_photo image img_thumb_sub loaded'))
 
 WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/div_Cart plus iconGi hng'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/div_Sn Phm  c thm vo gi hng thnh cng'), 
     'Sản Phẩm đã được thêm vào giỏ hàng thành công')
 
-WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/path'))
+WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/button_Sn Phm  c thm vo gi hng thnh cng_abs_8cc7c8'))
 
 WebUI.click(findTestObject('Object Repository/Page_Sa Ra Mt CeraVe Sch Su Cho Da Thng n D_f5c5f7/svg'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (1 sn phm)  Hasaki.vn/a_Sa Ra Mt CeraVe Sch Su Cho Da Thng n Da Du 473ml'), 
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Gi hng (2 sn phm)  Hasaki.vn/a_Sa Ra Mt CeraVe Sch Su Cho Da Thng n Da Du 473ml'), 
     'Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml')
 

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c5069594-be14-4a23-a9fb-d8873bcda0c0</webElementGuid>
+      <webElementGuid>e45dfa0b-958a-4522-8d40-323e7721427f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>border w-full h-[44px] text-[15px] border-none text-white bg-orange font-bold rounded-[3px]</value>
-      <webElementGuid>90de325b-4c75-44e1-b75b-8c7eed742b94</webElementGuid>
+      <webElementGuid>8aeb0232-4f17-4e72-8549-6b5c78e36fef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tiến hành đặt hàng</value>
-      <webElementGuid>f63d72b9-b0a3-489c-891b-c7eefd18737e</webElementGuid>
+      <webElementGuid>b2f4bafb-9efc-48c8-ab23-ef9b6182191f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;min-h-screen bg-background font-sans antialiased __variable_d65c78&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col&quot;]/main[@class=&quot;h-full flex-1&quot;]/div[@class=&quot;min-h-screen w-full bg-white&quot;]/div[@class=&quot;max-w-[1400px] m-auto container&quot;]/main[@class=&quot;-mb-5&quot;]/div[@class=&quot;flex gap-5&quot;]/div[@class=&quot;w-[25%]&quot;]/div[@class=&quot;px-2.5 pt-[11px] pb-[30px] text-[13px]&quot;]/button[@class=&quot;border w-full h-[44px] text-[15px] border-none text-white bg-orange font-bold rounded-[3px]&quot;]</value>
-      <webElementGuid>205d2b7f-1064-454a-a23c-5769791211a5</webElementGuid>
+      <webElementGuid>ea4c4c71-829c-4931-901c-2c13fa15eca2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(Đã bao gồm VAT)'])[2]/following::button[1]</value>
-      <webElementGuid>3d647745-810a-43f6-a64a-1180738a6709</webElementGuid>
+      <webElementGuid>d3a25607-64cc-496a-acd2-ead4a8d92013</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng cộng:'])[1]/following::button[1]</value>
-      <webElementGuid>36f09735-51e7-4d57-8fcd-990d0cbdbe5e</webElementGuid>
+      <webElementGuid>e2ebd436-486c-4cb6-8235-c26523ec2bb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh toán khi nhận hàng'])[1]/preceding::button[1]</value>
-      <webElementGuid>654324b2-e7dc-4cce-b12b-f014ea8648ee</webElementGuid>
+      <webElementGuid>7532a0f6-8cbe-498d-9a0e-9c507763a675</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giao nhanh miễn phí 2H'])[1]/preceding::button[1]</value>
-      <webElementGuid>d9b656ef-1109-4097-9e56-a498774b4389</webElementGuid>
+      <webElementGuid>bfac5340-36b7-4519-b489-43c1941b737a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>0c27bd0e-f75d-4056-a245-dc1a01a934f5</webElementGuid>
+      <webElementGuid>dadb630d-85b0-4873-a502-d22551a5792c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Tiến hành đặt hàng' or . = 'Tiến hành đặt hàng')]</value>
-      <webElementGuid>c626fb84-bd8d-4963-8328-63aa4fe8e664</webElementGuid>
+      <webElementGuid>a2ab3d6d-e104-47a4-b8b7-537370df8b7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

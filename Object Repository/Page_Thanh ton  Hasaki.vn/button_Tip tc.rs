@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='radix-:ru:']/div/form/div/div/button[2]</value>
+         <value>(//button[@type='button'])[26]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aa3ed362-5336-45d7-b52a-2d4719d6bb2e</webElementGuid>
+      <webElementGuid>588ad735-c165-482d-b63a-e055219f0c33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:bg-background disabled:text-ring bg-primary text-primary-foreground px-4 py-2 col-span-1 w-full h-[42px] rounded-full hover:bg-primary text-lg font-bold shadow-none</value>
-      <webElementGuid>4c906cfa-faeb-4f69-b458-1041f74eacdf</webElementGuid>
+      <webElementGuid>b2742569-11f1-4118-9f37-e777d72d2b1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,15 +45,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Tiếp tục</value>
-      <webElementGuid>3f3896bf-cace-4188-aff3-301a0eef6cad</webElementGuid>
+      <webElementGuid>2969de82-1505-40c3-ba21-25793713c074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;radix-:ru:&quot;)/div[@class=&quot;flex flex-col space-y-1.5 text-center sm:text-left&quot;]/form[@class=&quot;flex flex-col gap-2.5&quot;]/div[@class=&quot;flex flex-col-reverse sm:flex-row sm:justify-end sm:space-x-2&quot;]/div[@class=&quot;grid grid-cols-2 gap-2.5 w-1/2 px-2.5&quot;]/button[@class=&quot;inline-flex items-center justify-center transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:bg-background disabled:text-ring bg-primary text-primary-foreground px-4 py-2 col-span-1 w-full h-[42px] rounded-full hover:bg-primary text-lg font-bold shadow-none&quot;]</value>
-      <webElementGuid>1a61d15a-96e2-4f5e-b5de-24e0f9879369</webElementGuid>
+      <value>id(&quot;radix-:rov:&quot;)/div[@class=&quot;flex flex-col-reverse sm:flex-row sm:justify-end sm:space-x-2&quot;]/div[@class=&quot;grid grid-cols-2 gap-2.5 w-1/2 px-2.5 py-5 border-t border-border&quot;]/button[@class=&quot;inline-flex items-center justify-center transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:bg-background disabled:text-ring bg-primary text-primary-foreground px-4 py-2 col-span-1 w-full h-[42px] rounded-full hover:bg-primary text-lg font-bold shadow-none&quot;]</value>
+      <webElementGuid>745d6882-af04-4a67-9040-c55836ed291b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,10 +61,66 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d0888646-6f3d-412d-8833-53b4ea40d575</webElementGuid>
+      <webElementGuid>e7f67a1d-e87d-4f98-92bb-d8039e77d195</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[26]</value>
+      <webElementGuid>ccbf83dc-787c-4cc5-9ba0-db132e4c4736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='radix-:rov:']/div[4]/div/button[2]</value>
+      <webElementGuid>1afe0ca2-2cd3-4f52-8750-4738ba1c1a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trở lại'])[1]/following::button[1]</value>
+      <webElementGuid>cfbaef35-14c3-4ca0-a0b0-a5b010ed6bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Báo cáo một lỗi bản đồ'])[2]/following::button[2]</value>
+      <webElementGuid>ce913542-1166-4796-8a55-436d7b2a6b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::button[1]</value>
+      <webElementGuid>9df79f6a-a494-4bb1-860d-5c0d0f9ffcf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button[2]</value>
+      <webElementGuid>ca8c2614-14f9-45aa-aa02-2dd69d652e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Tiếp tục' or . = 'Tiếp tục')]</value>
+      <webElementGuid>cef8a5c3-33f1-44bc-8f0c-80b2d852d166</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -114,14 +170,6 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[26]</value>
-      <webElementGuid>e86ddd5d-4f44-4b5a-94c8-69bd21fe34f6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:ror:']/div[4]/div/button[2]</value>
@@ -130,58 +178,10 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trở lại'])[1]/following::button[1]</value>
-      <webElementGuid>e4bdaac7-a036-4817-a732-26648337ebd0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Báo cáo một lỗi bản đồ'])[2]/following::button[2]</value>
-      <webElementGuid>8ab479ea-60ce-4bf2-9d5c-c6dda00be62e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[3]/preceding::button[1]</value>
-      <webElementGuid>bf6f8d62-620a-483b-a5b6-66452dca343f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/div/button[2]</value>
-      <webElementGuid>f538f4f9-bad3-48dc-b563-287bdd2404ac</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Tiếp tục' or . = 'Tiếp tục')]</value>
-      <webElementGuid>2b21ae34-e173-4461-a033-efd1fc15f3b4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:rp3:']/div[4]/div/button[2]</value>
       <webElementGuid>d841912e-2748-4794-8b7e-25728a10f167</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='radix-:rov:']/div[4]/div/button[2]</value>
-      <webElementGuid>3557f7de-1b7b-4c2c-8ce1-9f15dd3752f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

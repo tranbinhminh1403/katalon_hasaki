@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2c062a31-5a64-4ee8-8285-8276955d2c60</webElementGuid>
+      <webElementGuid>affa474a-e4fc-4d17-919b-472e49abdfec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block text-[13px] leading-[1.42] mt-0.5 hover:text-primary</value>
-      <webElementGuid>1986b1eb-b91a-4af5-b3ea-d860d2b56d0c</webElementGuid>
+      <webElementGuid>6be8818e-0ba9-470d-ab6c-a3beec71f1ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://hasaki.vn/san-pham/sua-rua-mat-cerave-sach-sau-103001.html?id=102959</value>
-      <webElementGuid>3a388377-120d-49ab-866f-80849821c726</webElementGuid>
+      <webElementGuid>ccb6a791-020b-4347-84be-6e078f77f77e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml</value>
-      <webElementGuid>565cf02e-30a2-42c5-8da6-49aaa338c4c9</webElementGuid>
+      <webElementGuid>496d5bb9-6631-4dc9-b00a-6bdd75be7e01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;min-h-screen bg-background font-sans antialiased __variable_d65c78&quot;]/div[@class=&quot;min-h-screen w-full flex flex-col&quot;]/main[@class=&quot;h-full flex-1&quot;]/div[@class=&quot;min-h-screen w-full bg-white&quot;]/div[@class=&quot;max-w-[1400px] m-auto container&quot;]/main[@class=&quot;-mb-5&quot;]/div[@class=&quot;flex gap-5&quot;]/div[@class=&quot;w-[75%]&quot;]/table[@class=&quot;w-full text-[13px]&quot;]/tbody[1]/tr[@class=&quot;[&amp;>td]:px-[15px] [&amp;>td]:pt-2.5 [&amp;>td]:pb-5 border-b border-b-[#f1f1f5]&quot;]/td[@class=&quot;w-[50%]&quot;]/div[@class=&quot;flex gap-2.5&quot;]/div[@class=&quot;w-full&quot;]/div[1]/div[1]/a[@class=&quot;block text-[13px] leading-[1.42] mt-0.5 hover:text-primary&quot;]</value>
-      <webElementGuid>966ae924-4285-4fa9-91d0-916bcae0d4af</webElementGuid>
+      <webElementGuid>f372767d-6ee0-499a-be49-2539d7a82dd2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml')]</value>
-      <webElementGuid>00ee6576-a3dc-4ba4-af6e-bdf081d10915</webElementGuid>
+      <webElementGuid>66ab03bc-c87e-4af0-82c6-671ebb945d13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='CeraVe'])[1]/following::a[1]</value>
-      <webElementGuid>d7f144be-3ff3-4fa0-a62c-12f17f1418ec</webElementGuid>
+      <webElementGuid>6e5c1c28-1863-411f-b54d-073b364df47d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Xóa'])[1]/following::a[3]</value>
-      <webElementGuid>f887db2e-46da-4735-a5b7-f267ef5fe34f</webElementGuid>
+      <webElementGuid>d3781398-44ac-427c-bd8f-fd22793e8722</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist Icon'])[2]/preceding::a[1]</value>
-      <webElementGuid>003979b9-01f3-4b18-b4cb-aac95a93632a</webElementGuid>
+      <webElementGuid>af541bfd-6536-425e-bb96-eb8ef161661b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml']/parent::*</value>
-      <webElementGuid>49ebc9cf-8007-4020-962b-580e4e890ff2</webElementGuid>
+      <webElementGuid>e0ab0c46-c9e4-4ee2-a908-c791fd67ab3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://hasaki.vn/san-pham/sua-rua-mat-cerave-sach-sau-103001.html?id=102959')])[2]</value>
-      <webElementGuid>911c8dcd-314b-4718-bcf7-5b106165bb57</webElementGuid>
+      <webElementGuid>3d5d8ce4-4a96-4d7a-96d7-78eb7c3e8a8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td/div/div/div/div/a</value>
-      <webElementGuid>e452e8fc-63ba-4672-a950-93814ec49ea2</webElementGuid>
+      <webElementGuid>6dfdf06b-58e1-43de-90b7-9a8f6dd25aa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://hasaki.vn/san-pham/sua-rua-mat-cerave-sach-sau-103001.html?id=102959' and (text() = 'Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml' or . = 'Sữa Rửa Mặt CeraVe Sạch Sâu Cho Da Thường Đến Da Dầu 473ml')]</value>
-      <webElementGuid>41960a68-a31d-4fdf-8a4a-66dca4b649da</webElementGuid>
+      <webElementGuid>ddcaf4dc-6354-4dfe-b8ce-c37fd331f0e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

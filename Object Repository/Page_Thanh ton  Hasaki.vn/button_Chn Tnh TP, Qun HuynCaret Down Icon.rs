@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id=':r1f:-form-item']</value>
+         <value>//button[@id=':r1j:-form-item']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a06c3186-cf84-465f-bb0b-9186932897fa</webElementGuid>
+      <webElementGuid>d1ccf851-8d7e-41ee-bb04-a7fe7833560f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center font-medium transition-colors focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:bg-background disabled:text-ring border border-input hover:bg-accent hover:text-accent-foreground px-4 py-2 w-full h-11 border-none justify-between text-sm transition-color rounded-[10px] bg-background shadow-none text-muted-foreground</value>
-      <webElementGuid>acda1fdd-ab6f-4aab-9fd4-96a85035625a</webElementGuid>
+      <webElementGuid>f32b924f-3a90-495a-a2ec-249eb6d28f86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>761802d1-b7ef-4cb3-937f-1d54e5b18a1b</webElementGuid>
+      <webElementGuid>2aeb349c-5284-4976-8119-6c08033ad79f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,23 +53,23 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>32e3fe25-a6d0-4d62-95c2-e5a4b3b6e582</webElementGuid>
+      <webElementGuid>fa473d93-4012-46ba-aebf-3fc90ecbc0e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>:r1f:-form-item</value>
-      <webElementGuid>294d5e83-cd63-4e5d-8dbd-d0a0bc4bf8b8</webElementGuid>
+      <value>:r1j:-form-item</value>
+      <webElementGuid>36384980-33cd-43a3-9ff3-99cb311cacd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>:r1f:-form-item-description</value>
-      <webElementGuid>6a42242d-2f42-4dd9-a227-2127aba2d26a</webElementGuid>
+      <value>:r1j:-form-item-description</value>
+      <webElementGuid>a7acddea-8d10-49b8-aa29-bf3afd924c43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a2f4773e-c47a-4efa-9507-c2e2a08ae770</webElementGuid>
+      <webElementGuid>89f45b92-b090-4895-91d0-c57c7ddcc136</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1b748728-702e-43e0-9eac-365a8b325eee</webElementGuid>
+      <webElementGuid>13455eb2-f2a7-4d19-bbe5-a64b1d7934b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,15 +93,15 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>c4379443-f243-41bc-9c6b-7a0670fdd04c</webElementGuid>
+      <webElementGuid>88b21733-e8c2-4958-bd2b-0251b460817d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-controls</name>
       <type>Main</type>
-      <value>radix-:r1g:</value>
-      <webElementGuid>a5bf1a7f-62c3-4cae-ae4a-47b282787382</webElementGuid>
+      <value>radix-:r1k:</value>
+      <webElementGuid>2cd1247f-ec31-46cb-a87f-c3d4a2be3291</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>data-state</name>
       <type>Main</type>
       <value>closed</value>
-      <webElementGuid>99eb45f6-4024-4e80-b8d4-4981ac68b3f3</webElementGuid>
+      <webElementGuid>35faaea7-af1a-4b69-8dc3-0971394c59b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -117,23 +117,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Chọn Tỉnh/ TP, Quận/ HuyệnCaret Down Icon</value>
-      <webElementGuid>86f99fe2-cbaf-4539-a4e2-2bee114aec8c</webElementGuid>
+      <webElementGuid>176edeac-1459-45c2-909d-d1e9d07cb02a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;:r1f:-form-item&quot;)</value>
-      <webElementGuid>5bca712e-709e-41f9-b73f-bf570220d845</webElementGuid>
+      <value>id(&quot;:r1j:-form-item&quot;)</value>
+      <webElementGuid>a59cb496-2f3f-4e2b-89ce-a6f79b08c195</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id=':r1f:-form-item']</value>
-      <webElementGuid>4082a1e1-8be6-450a-afe9-d1b1ee2d0084</webElementGuid>
+      <value>//button[@id=':r1j:-form-item']</value>
+      <webElementGuid>24fcdc9e-6470-4d01-852e-763da7cb48d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='radix-:ru:']/div/form/section/div[2]/button</value>
-      <webElementGuid>c105395d-34aa-44a7-a301-9b08d5d332f3</webElementGuid>
+      <webElementGuid>415d32c6-b911-42ed-9f8b-860dcea6837e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Identification Card Icon'])[1]/following::button[1]</value>
-      <webElementGuid>f8bd0802-6d8b-4590-9a84-7dd37d0562d5</webElementGuid>
+      <webElementGuid>1ca11c80-141d-4e64-a5ba-5b5672e93ab6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Thêm địa chỉ mới'])[2]/following::button[1]</value>
-      <webElementGuid>b0790950-315f-4c2f-97ea-a63cb8838637</webElementGuid>
+      <webElementGuid>4ed28115-103b-4943-9c69-3ad336e91521</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Chọn Tỉnh/ TP, Quận/ Huyện']/parent::*</value>
-      <webElementGuid>be9832e4-b8f0-4dd9-8f5e-8078bf9f03b0</webElementGuid>
+      <webElementGuid>72ae36ba-a793-4e31-930f-bf006d1ee561</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,23 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>0ec2a3a7-a976-475e-a9ed-632bf6649a6b</webElementGuid>
+      <webElementGuid>b8de19a3-3ea7-4ec6-9396-00e16adbe375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = ':r1j:-form-item' and @type = 'button' and (text() = 'Chọn Tỉnh/ TP, Quận/ HuyệnCaret Down Icon' or . = 'Chọn Tỉnh/ TP, Quận/ HuyệnCaret Down Icon')]</value>
+      <webElementGuid>6f1864e4-0210-41ff-97c8-837244236081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id=':r1f:-form-item']</value>
+      <webElementGuid>4082a1e1-8be6-450a-afe9-d1b1ee2d0084</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,22 +214,6 @@
       <type>Main</type>
       <value>//button[@id = ':r1n:-form-item' and @type = 'button' and (text() = 'Chọn Tỉnh/ TP, Quận/ HuyệnCaret Down Icon' or . = 'Chọn Tỉnh/ TP, Quận/ HuyệnCaret Down Icon')]</value>
       <webElementGuid>239c11a7-37fc-4243-9235-8b9d06055520</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id=':r1j:-form-item']</value>
-      <webElementGuid>f7de5321-0dca-42d1-8ca8-3fe0694e2ba2</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@id = ':r1j:-form-item' and @type = 'button' and (text() = 'Chọn Tỉnh/ TP, Quận/ HuyệnCaret Down Icon' or . = 'Chọn Tỉnh/ TP, Quận/ HuyệnCaret Down Icon')]</value>
-      <webElementGuid>da3c6ab6-685c-4c9c-bf5d-127795980f4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
